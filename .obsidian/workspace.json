@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "315ef4357cf85805",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6509d0a8b8b6fa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea5631e484ee950b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55b105a14aff9607",
+    "type": "split",
+    "children": [
+      {
+        "id": "1911bc4cf81fba59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a18e363364d200f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "058231f5061620a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b7fdf59403adc16",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "02794cd96f967f01",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c782f3675729ece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7838c7ed8f655445",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d99ca6e53a4c34de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6278ac73062e7eef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a5c099ed9ed6f1f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ea5631e484ee950b",
+  "lastOpenFiles": [
+    "General World Notes/Games.md",
+    "Falstor Notes/The Kingdom of Falstor.md",
+    "General World Notes/Gods and Mythos.md",
+    "Falstor Notes/Marrisburg.md",
+    "Falstor Notes/Falstor.md",
+    "Untitled.md",
+    "Larenthian Alliance Notes/The Larenthian Alliance.md",
+    "The.md",
+    "General World Notes/Chandaria.md",
+    "Falstor Notes/Marais.md",
+    "General World Notes/Untitled",
+    "General World Notes/The Great Dissension.md",
+    "Falstor Notes",
+    "General World Notes/Gods/Genesis.md",
+    "Larenthian Alliance Notes/Holfirth.md",
+    "Larenthian Alliance Notes/Espwynstead.md",
+    "Larenthian Alliance Notes/Bippenbol.md",
+    "Larenthian Alliance Notes/Luminespore Hollow.md",
+    "Larenthian Alliance Notes/Hullingsbrook.md",
+    "Larenthian Alliance Notes/Cabalman Run.md",
+    "Larenthian Alliance Notes/Wizendell.md",
+    "Larenthian Alliance Notes/Sylmin.md",
+    "Larenthian Alliance Notes/Orton.md",
+    "Larenthian Alliance Notes/Galvenport.md",
+    "General World Notes/Gods",
+    "2023-11-29.md",
+    "Larenthian Alliance Notes",
+    "General World Notes"
+  ]
+}

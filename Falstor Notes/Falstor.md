@@ -1,1 +1,0 @@
-Capital city of the Kingdom of Falstor, ruled over by King Offal.

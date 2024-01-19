@@ -1,0 +1,36 @@
+# Chandaria
+The continent of Chandaria sits in the northeastern region of Argena (The Shattered Lands). Chandaria is home to many factions and kingdoms, and sports the whole gamut of climates. To the north there are snowy mountains and windswept tundra. To the south are tropical islands and fetid swamps. In the center of the continent is [[#The Eternal Scorch]], a blistering hot desert with no more than small oases sprinkled throughout. Chandaria was home to multiple Ancient Archmages during [[The Great Dissension]] and still contains many Pre-Dissension era ruins.
+## Factions and Kingdoms
+### The Kingdom of Falstor
+[Falstor](The%20Kingdom%20of%20Falstor.md) encompasses the southeastern and northeastern peninsulas of the continent. Prior to the war with Stormion and the subsequent siege of the capital city, Falstor only occupied the southern peninsula, but the war for resources expanded their territory greatly. Falstor is ruled by the powerful King Offal. He conducts affairs leveraging both the economic and militaristic might of the kingdom. The capital city of the kingdom is the aptly named [[Falstor]].
+
+### The Larenthian Alliance
+[[The Larenthian Alliance]] presides in the north central region of Chandaria, just above [[#The Eternal Scorch]]. It consists of multiple independent cities, united under a commercial federation. The alliance is lead by Chief Magnate Thedric Alfir from its capital city of [[Galvenport]]. The Larenthian Federation is held together by Overseers. These government workers are distributed to each city and are tasked with ensuring the enforcement of Federal Laws. Besides these laws, each city is free to govern its denizens as it sees fit. Most of the cities in Larenthia are built around some sort of flourishing export economy, whether it's wine, metal, potions, or clockwork machines.
+
+### The Wildlands
+[[The Wildlands]] is a large expanse of independent islands southwest of the main continent. Official maps only have the large islands of the area mapped. There are tens if not hundreds of unmapped and potentially unexplored islands in the region. These unmapped islands are no larger than a few miles in each direction.
+Piracy and smuggling are very prevalent in The Wildlands, and compose the majority of the commerce and activity in the Wildlands. There are also stories of untold riches hidden on mystical islands in this area.
+Established continental nations have, in the past, attempted to "civilize" the islands to stop illegal smuggling in their cities that is mainly sourced from the Wildlands. These attempts have all been unsuccessful, since the most skilled naval crews and navigators lay down everything to protect the freedom of the Wildlands.
+
+### Norlund
+[[Norlund]] is situated in the northwest extremes of the continent. Norlund lacks the large cities that populate a lot of the other nations of Chandaria. The harsh climate makes it hard to grow enough food to sustain large populations. The people of Norlund are considered by some to be "savages" or "barbarians" because they live in small clan villages and many lack the finer social graces of upper class society. The Kingdom's government consists of the heads of the most powerful clans in the land. 
+Norlund's warrior culture has lead to some of the greatest warriors in the history of Chandaria have been born in Norlund and immortalized in myth. The government of Norlund puts considerable effort into keeping the nation mostly isolated from international activity. It's southern border, marked by the Champion's Range, is well-patrolled and fortified.
+
+### No'zaral
+[[No'zaral]] is a republic on the west coast of Chandaria. It is one of the most diverse nations on the continent, due to the general freedom that is given to its citizens. The Freeman's Assembly is the governing body of No'zaral, and consists of elected officials representing people of many different races. The nature of the republic has led to the different humanoid races forming political parties to elect representatives for their people.
+Other than social and political innovation, No'zaral also boasts a rather strong navy, due to its relative proximity to The Wildlands. The Clockwork Consortium, an organization of mostly Gnomish inventors has a strong presence in No'zaral, especially as it relates to the navy. The Clockwork Consortium is not bound to the republic, and has members all over Chandaria, doing work for whomever pays well, or whatever the leaders of the Consortium deem to be important. 
+
+### The Atrisean Dynasty
+The [[Atrisean Dynasty]], despite its proximity to the republic of No'zaral, could not be further from it in social and political organization. The dynastic rulers of Atrisea, the Teinithra Clan, have elevated themselves to a status of almost lesser deities in the eyes of some of the most loyal citizens. The Teinithra Clan holds all of the governing power in the dynasty, and swiftly quells any source of rebellion within its borders. The Teinithras have been in power for a few hundred years, having usurped power from the Jelenneth family before them. There are families that have tried to take power from the Teinithra, but none have been successful.
+The Atrisean Dynasty also has a very powerful navy, but is more aggressive in terms of international relations, and worries the other nations of Chandaria.
+
+### Valdens
+The Island Nation of [[Valdens]] is a flourishing meritocracy. The nation is ruled by the Council of Eight, with the most powerful mage from each school of magic sitting on the council. Valdens is Chandaria's hub for arcane research and innovation, and most of the culture being entirely focused on magic. The Pillars of Arcanum, the laws regarding the practice of magic in Valdens, highlight that magic should only be used for the betterment of society, and the further pursuit of knowledge. Valdens has no standing army, but if they were to be forced to fight, they would be very capable of putting together a formidable fighting force.
+
+### Rodigia
+The Kingdom of [[Rodigia]] is a very mountainous region, but unlike the dwarves of Essaheim, the Rodigian people mastered living above the mountains, not beneath them. The Mountain King of Rodigia, rules over the nation's various villages and tribes fairly, and is very well liked and respected by all of his constituents.
+Rodigia is known for having a large population of giants that live there, who are known for being very territorial, and very stubborn fighters.
+The Rangers of Rodigia are an order of rangers that specialize in traversing the harsh mountainous environment that spans most of the region. They are very talented archers and also focus on maintaining the peace between the more brutish giants and the forces of nature.
+
+### The Eternal Scorch
+The Eternal Scorch, the desert in the middle of Chandaria, has no overall governing body and little permanent settlement. The landscape is brutal and doesn't allow much of anything to grow, except around small oases. Roving nomadic tribes inhabit the areas that aren't these small oases.

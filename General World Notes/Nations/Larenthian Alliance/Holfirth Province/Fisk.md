@@ -1,0 +1,3 @@
+# Fisk
+Fisk is one of the poorest areas in the Holfirth Province. Most of the houses here are built of simple sticks and thatch. Part of the village extends out onto the water of the Eldermere Lake. 
+This village's major export is fish. It supplies most of the province with food, though most of its exports go to [[Holfirth]]. There is also a small shipyard here that deals in vessels that travel further into the lake than the shallows. The shipyard rarely sees serious business however, because most people are too scared to travel beyond the shallows due to tales of sirens and sea monsters. Those that do travel across the lake rarely return.

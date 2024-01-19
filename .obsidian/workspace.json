@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "dfd891eadc523310",
+    "id": "117085676e4b05ac",
     "type": "split",
     "children": [
       {
-        "id": "6222032154615283",
+        "id": "d2d72877d7146711",
         "type": "tabs",
         "children": [
           {
-            "id": "7d00228aa19a4b7e",
+            "id": "5e9a66f8fbead725",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General World Notes/Nations/Larenthian Alliance/The Larenthian Alliance.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5c6b79472b3c39bf",
+    "id": "1cb7d696e1404d83",
     "type": "split",
     "children": [
       {
-        "id": "9d26c7eab438347a",
+        "id": "0072161a553ec855",
         "type": "tabs",
         "children": [
           {
-            "id": "7bf0cdaa5236c597",
+            "id": "faa9388164740d8f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "51e7c2260d80bfce",
+            "id": "7abd65f56aed17e0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "eab3f1c65393ed35",
+            "id": "ae65a0d025cc4dda",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,24 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "9526a33c9f514527",
+    "id": "8b4e8ea54efcb7c4",
     "type": "split",
     "children": [
       {
-        "id": "286accd2b8188840",
+        "id": "3d60d38a3229d6b6",
         "type": "tabs",
         "children": [
           {
-            "id": "a6cec7d331609347",
+            "id": "36d3545d50f1cd23",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General World Notes/The Great Dissension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +92,18 @@
             }
           },
           {
-            "id": "43d9d700017d9f56",
+            "id": "068822391e01a43f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General World Notes/The Great Dissension.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "bbbdc0d45e2ade00",
+            "id": "abca387daf535e02",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,21 +114,19 @@
             }
           },
           {
-            "id": "1085bc6f44093426",
+            "id": "a944b23ee00f3934",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "General World Notes/The Great Dissension.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,84 +135,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "e3c61f6b70b77bbe",
-    "type": "floating",
-    "children": [
-      {
-        "id": "45e04aacf316819e",
-        "type": "window",
-        "children": [
-          {
-            "id": "997fba2c5b26bf88",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0b2ea32783600897",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "General World Notes/The Great Dissension.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 915,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "0b2ea32783600897",
-  "lastOpenFiles": [
-    "General World Notes/Gods and Mythos.md",
-    "General World Notes/Games.md",
-    "General World Notes/Chandaria.md",
-    "General World Notes/Calendar.md",
-    "General World Notes/Nations/Wildlands/The Wildlands.md",
-    "General World Notes/Nations/Valdens/Valdens.md",
-    "General World Notes/Nations/Rodigia/Rodigia.md",
-    "General World Notes/Nations/Norlund/Norlund.md",
-    "General World Notes/Nations/No'zaral/No'zaral.md",
-    "General World Notes/Nations/Larenthian Alliance/Wizendell.md",
-    "General World Notes/Nations/Larenthian Alliance/The Larenthian Alliance.md",
-    "General World Notes/Nations/Larenthian Alliance/Sylmin.md",
-    "General World Notes/Nations/Larenthian Alliance/Orton.md",
-    "General World Notes/Nations/Larenthian Alliance/Luminespore Hollow.md",
-    "General World Notes/Nations/Larenthian Alliance/Hullingsbrook.md",
-    "General World Notes/Nations/Larenthian Alliance/Galvenport.md",
-    "General World Notes/Nations/Larenthian Alliance/Espwynstead.md",
-    "General World Notes/Nations/Larenthian Alliance/Cabalman Run.md",
-    "General World Notes/Nations/Larenthian Alliance/Bippenbol.md",
-    "General World Notes/Nations/Larenthian Alliance/Holfirth Province/Timburg.md",
-    "General World Notes/Nations/Larenthian Alliance/Holfirth Province/Owlbear Enclave.md",
-    "General World Notes/Nations/Larenthian Alliance/Holfirth Province/Holfirth.md",
-    "General World Notes/Nations/Larenthian Alliance/Holfirth Province/Fisk.md",
-    "General World Notes/Nations/Larenthian Alliance/Holfirth Province/Fermenton.md",
-    "General World Notes/Nations/Larenthian Alliance/Holfirth Province/Dire Wolf Grotto.md",
-    "General World Notes/Nations/Larenthian Alliance/Holfirth Province/Basilham.md",
-    "General World Notes/Nations/Maps/Chandaria World Map.jpg",
-    "General World Notes/Nations/Rodigia",
-    "General World Notes/Nations/Valdens",
-    "General World Notes/Nations/Atrisean Dynasty",
-    "General World Notes/Nations/No'zaral",
-    "General World Notes/Nations/Norlund",
-    "General World Notes/Nations/Wildlands",
-    "General World Notes/Nations/Maps",
-    "Untitled.canvas",
-    "General World Notes/Nations"
-  ]
+  "active": "5e9a66f8fbead725",
+  "lastOpenFiles": []
 }

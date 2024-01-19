@@ -1,2 +1,0 @@
-# Games
-Games are a popular pastime for all manner of folk across [[Chandaria]]. Games are played in taverns, castle keeps, and hovels alike throughout the land. The popularity of games has also led to the rise of gambling. Gambling often happens in taverns, but it can also happen in more private areas too. Gambling however, is not legal across all of [[Chandaria]], with areas such as [[Luminespore Hollow]] in the [Larenthian Alliance](The%20Larenthian%20Alliance.md), and [[Marrisburg]] in [Falstor](The%20Kingdom%20of%20Falstor.md) outlawing gambling.

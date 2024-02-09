@@ -1,2 +1,0 @@
-# Basilham
-Like its name suggests, Basilham specializes in harvesting Basilisk venom. The venom serves two purposes: it can be used to paralyze people, and it is also used to produce the antidote for the paralysis. Basilham's local alchemists have become renowned across the province for their mastery in brewing potions. The mastery pales in comparison to that of [[Wizendell]] or [[Galvenport]], but it is very good for what the villagers need.

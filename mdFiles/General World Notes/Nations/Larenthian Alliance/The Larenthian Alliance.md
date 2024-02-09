@@ -18,3 +18,16 @@ Chief Alfir, being the ruler of the Alliance, is not allowed to sit on the Feder
 ### Figures of Interest
 #### Chief Magnate Thedric Alfir
 Chief Alfir is in his third decade being the ruler of Larenthia. While the Alliance doesn't have a bloodline succession, the children of Chief's often have an increased chance of becoming Chiefs themselves. Alfir's father was not a Chief himself, but was a very prominent merchant in Galvenport, and sat on the Federation board in his later years. Alfir is 67 years old, and currently trying to leverage his power to get his son, Godfrey Alfir, to become the next Chief, but the Federation board is not huge fans of having another Alfir in power. Thedric is well respected by his council, as well as by most members of the Federation board. He is also fairly well-liked by citizens of the Alliance, but is not without his dissenters, who are often people wanting to overthrow the Federation as a whole.
+
+#### Prince Godfrey Alfir
+While "prince" is not an official title, many people in the Alliance call Godfrey the Prince because of how his father, Chief Alfir, is trying to establish a blood succession for the throne. Godfrey is very adamant on taking the throne once his father dies or relinquishes it. He is trying to get all of the Council to like him, but is finding it harder than he originally thought, as everyone's opinion on a familial succession overpowers whatever opinion they may have about him as a person.
+Godfrey is currently 23 years old and spends most of his time partying, hunting, and sparring. When he's not doing one of these things, he is unsuccessfully trying to gain influence in the Council.
+
+#### Councilman Gerald Shaffer
+Councilman Shaffer sits on the Chief's council and is a pretty trusted and well-respected member. He also holds the position of Treasurer of the Larenthian Federation. The treasurer position is responsible for handling taxes and deciding where funds are sent once collected. Shaffer works very closely with the Overseer Supreme to coordinate tax and fine collection from all of the cities, towns, and villages of the Alliance. Shaffer is known to be a little hot-headed sometimes, and can make some rash decisions.
+
+#### Supreme Overseer Helga Lawbringer
+The Lawbringers have been the heads of the overseers for multiple generations now. Helga also sits on the Chief's council. Helga is very lazy at her job because of how long her family has held the position and how secure her job is because of that. She coordinates with the Overseers below her, who themselves are each responsible for one of the major cities. Helga is not super fond of Chief Alfir, but keeps a working relationship with him.
+
+#### Head Diviner Dormar Talovol
+Dormar is a half-elf who is the Head Diviner of the Alliance. He also serves as the headmaster of the Divinaire Institute at [[Wizendell]]. He travels between the two places very often and is very involved at both. When there are decisions that concern Wizendell versus the Alliance, he tends to side with Wizendell. Dormar is a patient and generally well-liked man. He is just as much of an intellectual, as he is a politician.

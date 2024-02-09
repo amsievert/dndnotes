@@ -1,0 +1,2 @@
+# Ankheg Grove
+Ankheg Grove's monster storage facilities are definitely the most impressive out of any in Holfirth Province. Because of the Ankhegs' burrowing ability, they need to be stored in full metal cages. "Ankheg Alley" as it's called by the villagers, is an area piled high with metal cages and various pulley systems for transporting creatures and people between cages.

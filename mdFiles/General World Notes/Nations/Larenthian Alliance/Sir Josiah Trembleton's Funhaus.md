@@ -1,0 +1,2 @@
+# Sir Josiah Trembleton's Funhaus
+This travelling circus travels all across the Alliance, performing at various hubs of activities. Their most famous performance is at the Soltide Festival in [[Galvenport]] each year. They also spend a few months at [[Blurn's Rest]] each summer.

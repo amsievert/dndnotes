@@ -1,0 +1,5 @@
+# Dalonstor
+A crime-ridden city just southeast of Falstor where fish exports and shipbuilding parts dominate the city's exports.
+The mayor of Dalonstor is Lord Traught. He has become increasingly focused on town security as crime has increased. The crown keeps up pressure on Mayor Traught because of Dalonstor's proximity to the capital.
+Surrounding the piers, Houses have claimed land to increase their trade. The main fishing Houses include Alystri, Mason, Pili, Rocco. The houses each have around 20 members with about 20 more loyal soldiers for each house.
+Alystri and Rocco have feuded previously as the heads of each house often clash over fishing and trade. During [[The Great Purge of Dalonstor]], Rocco killed all but one member of Alystri, a man named Sylas, who built the house back up to what it is today. Rocco was not put on trial for this because the mayor decided that losing two major fishing houses would be an economic disaster, so the entire atrocity was actively covered up by the government.

@@ -1,0 +1,2 @@
+# The Clockwork Consortium
+The Clockwork Consortium is made up of the smartest inventors and tinkerers in all of [[Chandaria]]. A majority of the members in the Consortium are gnomes and dwarves, but there are humans and elves that make up smaller sects of the constituents as well. The headquarters of the Clockwork Consortium are in [[Welbenwallow]] in the republic of [[No'zaral]]. The Consortium creates clockwork devices for whoever pays them the most money, or in rare times they will band together to do what the Master Tinkerer deems beneficial. 

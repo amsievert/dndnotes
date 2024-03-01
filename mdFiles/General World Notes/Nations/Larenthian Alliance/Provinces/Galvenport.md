@@ -18,4 +18,9 @@ The Chief and his family live in the Platinum Palace atop the Treska Plateau (na
 Outside Golden Heights, the upper class lives in the Inner Locks. This is the largest enclosed district within the city. There are small shops and artisan buildings throughout the Locks, but it is mostly just living spaces.
 
 ### Daily Life for the Layman
-Most people in the city either work at the port or in the MoonCorp factory. Most of the work done at the port is shipbuilding or cargo handling. People in the city are generally pretty happy with their lot in life. Work is fair and the pay is pretty good for most jobs. Galvenport has a bustling night life, for when people finish work for the day. Most folks flock to the city's various taverns, theaters, and even the city's own casino, The Jewel Casino.
+Most people in the city either work at the port or in the [[#MoonCorp]]  factory. Most of the work done at the port is shipbuilding or cargo handling. People in the city are generally pretty happy with their lot in life. Work is fair and the pay is pretty good for most jobs. Galvenport has a bustling night life, for when people finish work for the day. Most folks flock to the city's various taverns, theaters, and even the city's own casino, The Jewel Casino.
+
+### Organizations
+##### MoonCorp
+MoonCorp is one of the largest employers in Galvenport. The company hires a lot of gnomes and dwarves to work in the factory in the north of the city. MoonCorp manufactures clockwork and arcane technologies for the Larenthian military. The MoonCorp compound is the most secure place in Galvenport besides the Platinum Palace.
+MoonCorp has expensive contracts with the Larenthian military. Besides that, they also do business with [[the Clockwork Consortium]] and [[Valdens]]. [[The Clockwork Consortium]] and MoonCorp deal in intellectual property more than physical trade. 

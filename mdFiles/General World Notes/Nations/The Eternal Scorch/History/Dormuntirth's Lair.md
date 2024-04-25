@@ -1,0 +1,4 @@
+# Dormuntirth's Lair
+During the [[Age of Dragons]], an adult blue dragon named Dormuntirth made the Oasis its lair. The legend goes that Dormuntirth kept his treasure hoard submerged in the water of the Oasis. The dragon raided the local tribes and also some of the Scorch's dissension ruins from the Battle of the Planes. He amassed a sizable fortune of gold, gems, and magic items.
+At the height of his power, Dormuntirth's territory spanned for a hundred miles out from the Oasis. Multiple tribes were paying him tribute, and he was collecting treasures from adventurers passing through his territory.
+After his raiding caught enough attention, a group of adventurers from present-day [[Norlund]] slew Dormuntirth and claimed his treasure hoard for themselves. However, it's said that some of Dormuntirth's treasure was left behind and remains buried at the bottom of the Water of Life. 

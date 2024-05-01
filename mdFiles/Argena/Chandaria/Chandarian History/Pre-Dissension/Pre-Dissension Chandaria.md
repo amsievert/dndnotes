@@ -1,0 +1,14 @@
+# Pre-Dissension Chandaria
+No one knows exactly how long Chandaria (and Argena as a whole) have been around. Recorded history only really goes back to the beginning of the Dissension. Many historians and archaeologists have made it their life goal to answer this question. They have found artifacts that likely date back to a little less than 10,000 BD (before dissension). So the common consensus is that Chandaria likely existed for at least 12,000 years before the Dissension. Basic facts are known about this pre-dissension world, but beyond that is all merely speculation.
+
+### The Original Spellcasters
+It is common knowledge that wizardry and study of the arcane was a Dissension-era idea. Up to that point, the gods had done their very best to keep magic out of the hands of mortals. That being said, some creatures that walked the planes during the [Fracture](Gods%20and%20Mythos.md) had raw magic infused into them. The classic example of this is the dragons, but there are many others besides them such as giants, fiends, and celestials.
+The gods were not happy that there were mortal creatures with access to magic, but they decided that it would be too disruptive to the multiverse to attempt to revoke that magic or to exterminate these creatures. Even enhanced by magic, these creatures were still nowhere near as powerful as the gods.
+
+### The Humanoid Races
+Many humanoid races trace their origins back to civilizations that existed pre-Dissension. During this time, Gods exerted much greater influence on the material plane than in the post-Scourge era. Most races lived in isolated city-states, leaving much of the world unexplored. Each city-state had a patron deity. Life was easy for them, the patron deity of each civilization would assist their constituents and provide them with the basic necessities.
+From an arcane technological perspective, these civilizations were barbaric, but in reality they were not uncivilized by any means. These city-states often had advanced forms of government, complex architecture, and ingenious clockwork devices.
+Despite the advanced nature of these civilizations, nearly all evidence of them was wiped from the annals of history during the Great Dissension.
+
+### The Opulent Steppe
+Before the [Battle of the Planes](The%20Great%20Dissension.md), the Central Chandaria was known as the Opulent Steppe. These fertile grasslands were home to many of the humanoid civilizations of the time. Green rolling hills stretched beyond the horizon in all directions and teemed with wildlife. It was a veritable paradise. This all changed when the [Battle of the Planes](The%20Great%20Dissension.md) permanently marred the landscape. The once lush land became an inhospitable waste. Flowing rivers dried up and became rocky canyons. Jagged mountains erupted from the ground during battle. Raging storms ravaged any and all lifeforms. Thus the Eternal Scorch was created, and will remain forever.

@@ -1,2 +1,0 @@
-# Arcane Revolution
-In 2490 PS, the church of [[Harmonia]] in [[Galvenport]] colluded with certain members of the headmasters of Wizendell to try and seize control of [[Galvenport]] and take over the [Alliance](The%20Larenthian%20Alliance). The revolution was put down by Chief Magnate Thedric Alfir and the Church of [[Harmonia]] was disbanded and demolished, and worship of [[Harmonia]] was banned.

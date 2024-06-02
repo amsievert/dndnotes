@@ -2,7 +2,7 @@
 Chandaria has existed for as long as Argena, and is steeped in history, being the setting of many important historical events.
 
 ## Measuring Time
-Time in Chandaria, and Argena as a whole, is measured in relation to the [Great Dissension](The%20Great%20Dissension), since it is by far the most influential historical event in the world's history. Years are either Pre-Dissension (PD) or Post-Scourge (PS). 0 years Pre-Dissension is marked by the Initial Incursion. 0 years Post-Scourge is marked by the signing of the Abdication Accords. Between these two events is the Great Dissension, in which Argena was irrevocably changed.
+Time in Chandaria, and Argena as a whole, is measured in relation to the [Great Dissension](The%20Great%20Dissension.md), since it is by far the most influential historical event in the world's history. Years are either Pre-Dissension (PD) or Post-Scourge (PS). 0 years Pre-Dissension is marked by the Initial Incursion. 0 years Post-Scourge is marked by the signing of the Abdication Accords. Between these two events is the Great Dissension, in which Argena was irrevocably changed.
 
 ## Pre-Dissension Chandaria
 Pre-Dissension Chandaria was a simplistically peaceful place. The humanoid races all lived in small city-states, each with a patron deity. Some deities, Genesis for example, were the patrons of multiple city-states.

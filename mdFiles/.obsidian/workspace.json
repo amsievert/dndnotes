@@ -1,19 +1,21 @@
 {
   "main": {
-    "id": "117085676e4b05ac",
+    "id": "10ae39787027634c",
     "type": "split",
     "children": [
       {
-        "id": "d2d72877d7146711",
+        "id": "e92c44420f9a7600",
         "type": "tabs",
         "children": [
           {
-            "id": "5e9a66f8fbead725",
+            "id": "7d61d777a51d4f38",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Argena/Chandaria/Chandarian History/Pre-Dissension/Thalmor.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -23,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1cb7d696e1404d83",
+    "id": "361195313b709bfc",
     "type": "split",
     "children": [
       {
-        "id": "0072161a553ec855",
+        "id": "39b4d522b0ad8763",
         "type": "tabs",
         "children": [
           {
-            "id": "faa9388164740d8f",
+            "id": "844e4f464986f78b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,7 +43,7 @@
             }
           },
           {
-            "id": "7abd65f56aed17e0",
+            "id": "4e73d832f165f941",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,7 +58,7 @@
             }
           },
           {
-            "id": "ae65a0d025cc4dda",
+            "id": "7b77d9e7cee28931",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "8b4e8ea54efcb7c4",
+    "id": "16318ee4e1b1eda8",
     "type": "split",
     "children": [
       {
-        "id": "3d60d38a3229d6b6",
+        "id": "639fec7a0ec9ebcd",
         "type": "tabs",
         "children": [
           {
-            "id": "36d3545d50f1cd23",
+            "id": "d6d7fd9b98a74d4b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Argena/Chandaria/Chandarian History/Pre-Dissension/Thalmor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,18 +97,19 @@
             }
           },
           {
-            "id": "068822391e01a43f",
+            "id": "6e6afb10c361536b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Argena/Chandaria/Chandarian History/Pre-Dissension/Thalmor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "abca387daf535e02",
+            "id": "a716797bb53054db",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -116,11 +120,13 @@
             }
           },
           {
-            "id": "a944b23ee00f3934",
+            "id": "221bc675681b7d2a",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Argena/Chandaria/Chandarian History/Pre-Dissension/Thalmor.md"
+              }
             }
           }
         ]
@@ -140,6 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "faa9388164740d8f",
-  "lastOpenFiles": []
+  "active": "7d61d777a51d4f38",
+  "lastOpenFiles": [
+    "Argena/Chandaria/Chandarian History/Post-Dissension/The Chandari Dark Ages/Pylith.md",
+    "Argena/Gods and Mythos.md",
+    "Argena/Caelum Insula.md",
+    "Argena/Chandaria/Chandarian History/An Overall History Of Chandaria.md",
+    "Argena/Chandaria/Chandarian History/Pre-Dissension/Thalmor.md",
+    "Argena/Chandaria/Chandarian History/Pre-Dissension/Pre-Dissension Chandaria.md",
+    "Argena/Chandaria/Chandarian History/Pre-Dissension/The Great Serpents.md",
+    "Argena/Chandaria/Chandarian History/Pre-Dissension/Pylaxes.md",
+    "Argena/Gods/Amphinor.md",
+    "Argena/Gods/Eurus.md",
+    "Argena/Chandaria/Nations/Atrisean Dynasty/Atrisean Dynasty.md",
+    "Argena/Chandaria/Nations/No'zaral/Kul-Radein.md",
+    "Argena/Chandaria/Nations/No'zaral/Welbenwallow.md",
+    "Argena/Chandaria/Nations/No'zaral/No'zaral.md",
+    "Argena/Chandaria/Nations/Essaheim/Essaheim.md",
+    "ToDo/TODO List.md",
+    "Argena/Chandaria/Chandarian History/Post-Dissension/The Age of Dragons",
+    "Argena/Chandaria/Chandarian History/Post-Dissension/The Chandari Dark Ages",
+    "Argena/Chandaria/Chandarian History/Post-Dissension"
+  ]
 }

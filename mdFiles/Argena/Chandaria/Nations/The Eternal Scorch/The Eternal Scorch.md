@@ -1,2 +1,2 @@
 # The Eternal Scorch
-A big desert
+The Eternal Scorch is a massive desert in the center of Chandaria. For the most part, it is totally inhospitable due to areas radiated by magic, completely barren sands, and brutal weather conditions.

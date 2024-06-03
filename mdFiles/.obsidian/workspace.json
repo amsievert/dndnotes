@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "10ae39787027634c",
+    "id": "dfd891eadc523310",
     "type": "split",
     "children": [
       {
-        "id": "e92c44420f9a7600",
+        "id": "150959612fd8274f",
         "type": "tabs",
         "children": [
           {
-            "id": "7d61d777a51d4f38",
+            "id": "042baf8b26a3714b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Argena/Chandaria/Chandarian History/Pre-Dissension/Thalmor.md",
+                "file": "ToDo/TODO List.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "361195313b709bfc",
+    "id": "5c6b79472b3c39bf",
     "type": "split",
     "children": [
       {
-        "id": "39b4d522b0ad8763",
+        "id": "9d26c7eab438347a",
         "type": "tabs",
         "children": [
           {
-            "id": "844e4f464986f78b",
+            "id": "7bf0cdaa5236c597",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "4e73d832f165f941",
+            "id": "51e7c2260d80bfce",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "7b77d9e7cee28931",
+            "id": "eab3f1c65393ed35",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
-    "id": "16318ee4e1b1eda8",
+    "id": "9526a33c9f514527",
     "type": "split",
     "children": [
       {
-        "id": "639fec7a0ec9ebcd",
+        "id": "286accd2b8188840",
         "type": "tabs",
         "children": [
           {
-            "id": "d6d7fd9b98a74d4b",
+            "id": "a6cec7d331609347",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Argena/Chandaria/Chandarian History/Pre-Dissension/Thalmor.md",
+                "file": "ToDo/TODO List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "6e6afb10c361536b",
+            "id": "43d9d700017d9f56",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Argena/Chandaria/Chandarian History/Pre-Dissension/Thalmor.md",
+                "file": "ToDo/TODO List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a716797bb53054db",
+            "id": "bbbdc0d45e2ade00",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,24 +120,25 @@
             }
           },
           {
-            "id": "221bc675681b7d2a",
+            "id": "1085bc6f44093426",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Argena/Chandaria/Chandarian History/Pre-Dissension/Thalmor.md"
+                "file": "ToDo/TODO List.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "webpage-html-export:Export Vault to HTML": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -146,26 +147,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d61d777a51d4f38",
+  "active": "042baf8b26a3714b",
   "lastOpenFiles": [
-    "Argena/Chandaria/Chandarian History/Post-Dissension/The Chandari Dark Ages/Pylith.md",
-    "Argena/Gods and Mythos.md",
-    "Argena/Caelum Insula.md",
     "Argena/Chandaria/Chandarian History/An Overall History Of Chandaria.md",
+    "Argena/Chandaria/Chandarian History/The Great Dissension.md",
+    "Argena/Chandaria/Chandarian History/Post-Dissension/The Chandari Dark Ages/Pylith.md",
+    "Argena/Chandaria/Chandarian History/Pre-Dissension/Ith Alora.md",
     "Argena/Chandaria/Chandarian History/Pre-Dissension/Thalmor.md",
+    "Argena/Chandaria/Chandarian History/Pre-Dissension/Westerwood.md",
+    "Argena/Chandaria/Nations/Atrisean Dynasty/Atrisean Dynasty.md",
+    "Argena/Chandaria/Nations/Falstor/Marais.md",
+    "Argena/Chandaria/Nations/Falstor/Marrisburg.md",
+    "Argena/Chandaria/Chandarian History/Pre-Dissension/Monfort.md",
+    "Argena/Chandaria/Nations/The Eternal Scorch/The Eternal Scorch.md",
+    "Argena/Chandaria/Nations/The Eternal Scorch/Kha'anj.md",
+    "ToDo/TODO List.md",
+    "Argena/Chandaria/Chandarian History/Pre-Dissension/Pylaxes.md",
+    "Argena/Chandaria/Chandarian History/Post-Dissension/The Chandari Dark Ages",
+    "Argena/Chandaria/Chandarian History/Post-Dissension",
+    "Argena/Caelum Insula.md",
+    "Argena/The Great Dissension.md",
+    "ToDo",
+    "Argena/Gods and Mythos.md",
+    "Argena/Chandaria/Caelum Insula.md",
+    "Argena/Gods/Amphinor.md",
+    "Argena/Calendar.md",
+    "Argena/Gods/Libai.md",
+    "Argena/Chandaria/Nations/Falstor/Dalonstor.md",
     "Argena/Chandaria/Chandarian History/Pre-Dissension/Pre-Dissension Chandaria.md",
     "Argena/Chandaria/Chandarian History/Pre-Dissension/The Great Serpents.md",
-    "Argena/Chandaria/Chandarian History/Pre-Dissension/Pylaxes.md",
-    "Argena/Gods/Amphinor.md",
-    "Argena/Gods/Eurus.md",
-    "Argena/Chandaria/Nations/Atrisean Dynasty/Atrisean Dynasty.md",
-    "Argena/Chandaria/Nations/No'zaral/Kul-Radein.md",
-    "Argena/Chandaria/Nations/No'zaral/Welbenwallow.md",
-    "Argena/Chandaria/Nations/No'zaral/No'zaral.md",
-    "Argena/Chandaria/Nations/Essaheim/Essaheim.md",
-    "ToDo/TODO List.md",
-    "Argena/Chandaria/Chandarian History/Post-Dissension/The Age of Dragons",
-    "Argena/Chandaria/Chandarian History/Post-Dissension/The Chandari Dark Ages",
-    "Argena/Chandaria/Chandarian History/Post-Dissension"
+    "Argena/Gods/Yurk.md",
+    "Argena/Gods/Vecna.md",
+    "Argena/Chandaria",
+    "Argena/Chandaria/Chandarian History/Pre-Dissension",
+    "Argena/Chandaria/Chandarian History",
+    "Argena/Chandaria/Nations/The Eternal Scorch/History",
+    "Argena/Chandaria/Nations/The Eternal Scorch",
+    "General World Notes/Nations/Maps/Chandaria World Map.jpg",
+    "Argena/Chandaria/Nations/Falstor/Historical Events",
+    "General World Notes/Nations/Maps/Larenthian Alliance Map No Grid.jpg",
+    "General World Notes/Nations/Maps/Wildlands Map.jpg",
+    "General World Notes/Nations/Larenthian Alliance/Historical Events/Untitled",
+    "Untitled.canvas"
   ]
 }

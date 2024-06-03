@@ -1,0 +1,8 @@
+# Westerwood
+The Westerwood was the large forest that spanned most of the western coast of Chandaria in the Pre-Dissension era. It was home to many city-states of the time, the most notable of which was Pylos. The Westerwood was already ancient by the time of the Great Dissension, so many claimed that it was one of the first things on Chandaria to be created by the Gods. Due to the forest's age, many ancient creatures lived there. Treants, Dragons, and Giants all called it home.
+
+The Westerwood was also said to have connections directly to the Gods. One species of tree found exclusively in this forest was known as Elderbark trees. These trees were massive, dominating the area where they grew. As such, they were pretty rare, as too many resources would be required to sustain two close to each other. It was said that the roots of these trees grew so deep that they reached all the way through the Interplanar Fabric and drew magical energy from the other planes.
+
+The very few explorers that did venture beyond the walls of their city-states found areas of the Westerwood where creatures from other planes lived on the Material Plane. It was theorized that the Elderbark trees created a network of energy that opened gates to other planes. Some say that the explorers that never came back went through these gates and left their plane forever.
+
+Parts of the Westerwood survive to this day, but most of it was deforested by mages during the Arcane Resurgence looking for ways to harness the energy of the Elderbark trees.

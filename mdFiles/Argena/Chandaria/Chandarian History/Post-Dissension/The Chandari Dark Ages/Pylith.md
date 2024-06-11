@@ -1,2 +1,4 @@
 # Pylith
-Pylith was a town in the Westerwood founded in 153 PS. The town was founded as a memorial to Pylos. It was also founded in the ruins of the city of Osmirith, which was decimated during the Great Dissension. 
+In the ruins of Osmirith, devastated by the upper deities during the Great Dissension, a flourishing town of war-dispersed people began to take roots in 153 PS. The town thrived for its first few decades. The Westerwood's magic made the forest produce an extraordinary amount of resources, so Pylith grew rapidly. The town however, wouldn't survive forever.
+
+When the Age of Dragons began, Pylith fell under the control of Drok Bonecrush, the hobgoblin warlord that controlled most of the Westerwood. Drok and his armies extorted the town for everything it was worth, until a group of unlikely heroes rose against him and freed the town.

@@ -1,2 +1,18 @@
 # The Eternal Scorch
-The Eternal Scorch is a massive desert in the center of Chandaria. For the most part, it is totally inhospitable due to areas radiated by magic, completely barren sands, and brutal weather conditions.
+The Eternal Scorch is a massive desert in the center of Chandaria. For the most part, it is totally inhospitable due to areas radiated by magic, completely barren sands, and brutal weather conditions. Despite this, many still call the Scorch home, from nomadic bandit tribes, to established aristocrats in the Kha'anj Oasis.
+
+The Eternal Scorch used to go by a different name, the Opulent Steppe. Before the Scourge, the center of Chandaria was a rich grassland, teeming with life and full of fertile soil. This would all change in the final battle of the Scourge, the Battle of the Planes. During this battle, all the deities of both the upper and lower planes combined their power to banish the Ancient Archmages, ending the Scourge. However, this banishment unleashed an apocalyptic amount of magical energy, forever scarring the landscape.
+
+### The Oasis
+At the center of the desert is a massive oasis. It was created during the Battle of the Planes when Libai's hand was severed by one of the Archmages, falling to the ground and fusing with the soil. The hand and the blood that pooled around it created the oasis.
+
+The oasis is one of the only places where permanent settlement has been possible in the Eternal Scorch. It has been known by many names in the past. The Skrekin people called it the Wahatan Oasis, while the later Kha'anj Alliance would call it the Kha'anj Oasis.
+
+### Jorfiin
+East of the Eternal Scorch, the city of Jorfiin sits perched amongst the cliffs of Zay-Sakhar. A once prosperous city, it is now nothing more than a bed of debauchery, banditry, and crime.
+
+In 2151 PS, several small tribes that had been fighting for control over the Zay-Sakhar cliffs struck up an economic alliance in the hopes of everyone profiting. They named their civilization Jorfiin. The basis of this alliance was the oil rich sands to the East, which they figured could make them extremely rich. They set up oil refineries and began their lamp oil business.
+
+As the demand for lamp oil grew, Jorfiin grew as well. In the next few decades, the population grew to nearly 10,000. Jorfiin became the richest settlement in the Scorch, and outsiders began to grow jealous. In 2234 PS, a larger tribe known as the Kamin tribe assaulted the city. The battle however, was a slaughter for the Kamin tribe. As the attackers climbed the cliffs toward the city, the defenders let boulders loose that rolled down the cliffs decimated the attackers' ranks. After firing volleys of arrows at the remaining soldiers, the few surviving Kamin retreated. This military victory secured Jorfiin's control for years to come.
+
+The Kamin tribe spent the next decades recouping and gaining more influence. In 2308 PS, they attacked again, this time with a much larger force, the Kamin Alliance. This time led by a goblin warlord by the name of Nabir Tak, the Kamin Alliance fought much smarter. They first attacked the oil refineries to the East. However, when they arrived, the entire oil field was completely abandoned, the oil wells completely dried up. They moved to attack the city, but it too was completely abandoned. It was as if everyone just left overnight. No one knows for sure where the original settlers went, but some tribes of the Kamin Alliance took over Jorfiin while others left and occupied the lands around the city. The tribes that settled to the west near the dried up oil fields named their settlement Aswadu, which would become the center of the Kamin Alliance.

@@ -1,0 +1,2 @@
+# Isbre
+Isbre is the most fortified place in Norlund. Built into the side of a massive glacier, the city's streets wind through the layers of ice and packed snow. Many of the nation's military might is stationed in Isbre, since it is so fortified. 

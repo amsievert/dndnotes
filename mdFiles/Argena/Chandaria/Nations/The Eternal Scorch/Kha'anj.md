@@ -1,5 +1,5 @@
 # Kha'anj
-**Population:** 10,256 (89% Goblinoids, 5% Humans, 5% Elves/Half-Elves, 1% Other)
+**Population:** 10,256 (89% Goblinoids, 5% Humans, 5% Tieflings, 1% Other)
 
 **Government:** An oligarchy known as the Sayid Alma runs the oasis. There are 4 Sayids that make up the Sayid Alma. They enforce their strict policies via the Ma'himat, the city guards. The Sayid Alma mostly deals with issues of trade and punishment. The capitol building of Kha'anj is called the Castle of Brass. It is in the middle of the oasis, overlooking the main body of water, the Water of Life (Ma' Alhaya).
 

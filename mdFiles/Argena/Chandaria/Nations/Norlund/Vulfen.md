@@ -1,0 +1,2 @@
+# Vulfen
+Vulfen is best known for it's wolf pens. Dire wolves are raised here, and it is said that sentient Dire Wolves even sit on the town's council. All of the Norlund military's fighting wolves are bred here, making this one of the richest towns in Norlund.

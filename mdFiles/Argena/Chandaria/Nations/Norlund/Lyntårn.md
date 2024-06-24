@@ -1,0 +1,2 @@
+# Lyntårn
+Lyntårn is a city located high in the summits of the Spine. It sits atop the Thundering Peak, a mountaintop that is constantly surrounded by a roiling lightning storm. The city is home to a thriving artificer's guild, who draw on the power of the storm through their Stormcatcher Towers. These towers harness the power of the lightning strikes to power the city's arcane technology.

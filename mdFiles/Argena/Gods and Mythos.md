@@ -25,6 +25,8 @@
 - [[Yurk]] - God of the Underdark
 - [[Vecna]] - God of Evil Secrets
 - [[Artanor]] - God of Darkness and Shadows
+- [[Annam]] - God of Giants
+- [[Maglubiyet]] - God of Goblinkind
 
 ## Myths
 ### Story of Creation

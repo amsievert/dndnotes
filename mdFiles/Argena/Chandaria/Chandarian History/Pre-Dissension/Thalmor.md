@@ -1,2 +1,0 @@
-# Thalmor
-Thalmor was a city-state on the Opulent Steppe during the Pre-Dissension era. It was a place dedicated to Genesis. Located right next to the Billowing Grove, a forest teeming with life and resources. Genesis visited the city-state often, and she made life there a veritable paradise. The city-state was mostly humans, but a few other fey creatures lived there as well.

@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "dfd891eadc523310",
+    "id": "10ae39787027634c",
     "type": "split",
     "children": [
       {
-        "id": "c53e18f8e3f7228f",
+        "id": "e92c44420f9a7600",
         "type": "tabs",
         "children": [
           {
-            "id": "567797cb7c0e7f8e",
+            "id": "7d61d777a51d4f38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Argena/Chandaria/Chandarian History/An Overall History Of Chandaria.md",
+                "file": "Argena/Gods/Libai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "An Overall History Of Chandaria"
-            }
-          },
-          {
-            "id": "0cbfd7b6e5dc0b98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Argena/Chandaria/Chandarian History/An Overall History Of Chandaria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "An Overall History Of Chandaria"
+              "title": "Libai"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5c6b79472b3c39bf",
+    "id": "361195313b709bfc",
     "type": "split",
     "children": [
       {
-        "id": "9d26c7eab438347a",
+        "id": "39b4d522b0ad8763",
         "type": "tabs",
         "children": [
           {
-            "id": "7bf0cdaa5236c597",
+            "id": "844e4f464986f78b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +47,7 @@
             }
           },
           {
-            "id": "51e7c2260d80bfce",
+            "id": "4e73d832f165f941",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +64,7 @@
             }
           },
           {
-            "id": "eab3f1c65393ed35",
+            "id": "7b77d9e7cee28931",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -92,23 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 300
   },
   "right": {
-    "id": "9526a33c9f514527",
+    "id": "16318ee4e1b1eda8",
     "type": "split",
     "children": [
       {
-        "id": "286accd2b8188840",
+        "id": "639fec7a0ec9ebcd",
         "type": "tabs",
         "children": [
           {
-            "id": "a6cec7d331609347",
+            "id": "d6d7fd9b98a74d4b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Argena/Chandaria/Nations/Wildlands/The Wildlands.md",
+                "file": "Argena/Chandaria/Chandarian History/An Overall History Of Chandaria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Wildlands"
+              "title": "Backlinks for An Overall History Of Chandaria"
             }
           },
           {
-            "id": "43d9d700017d9f56",
+            "id": "6e6afb10c361536b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Argena/Chandaria/Nations/Wildlands/The Wildlands.md",
+                "file": "Argena/Chandaria/Chandarian History/An Overall History Of Chandaria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Wildlands"
+              "title": "Outgoing links from An Overall History Of Chandaria"
             }
           },
           {
-            "id": "bbbdc0d45e2ade00",
+            "id": "a716797bb53054db",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,7 +134,7 @@
             }
           },
           {
-            "id": "1085bc6f44093426",
+            "id": "221bc675681b7d2a",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -160,16 +145,15 @@
               "title": "Outline of An Overall History Of Chandaria"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "webpage-html-export:Export Vault to HTML": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -178,47 +162,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cbfd7b6e5dc0b98",
+  "active": "7d61d777a51d4f38",
   "lastOpenFiles": [
-    "Argena/Gods and Mythos.md",
-    "Argena/Chandaria/Chandarian History/An Overall History Of Chandaria.md",
-    "Argena/Chandaria/Chandarian History/Pre-Dissension/Westerwood.md",
-    "Argena/Harmonium.md",
-    "Argena/Chandaria/Chandarian History/The Anteitic Principles of Magic.md",
-    "Argena/Chandaria/Chandarian History/The Kainomantic Principles.md",
-    "Argena/Chandaria/Chandarian History/The Great Dissension.md",
-    "Argena/Caelum Insula.md",
-    "Argena/Chandaria/Nations/Wildlands/The Wildlands.md",
-    "Argena/Chandaria/Nations/The Eternal Scorch/The Eternal Scorch.md",
-    "Argena/Chandaria/Nations/The Eternal Scorch/History/The Skrekin People.md",
-    "Argena/Chandaria/Nations/The Eternal Scorch/History/Dormuntirth's Lair.md",
-    "Argena/Chandaria/Nations/Norlund/Lyntårn.md",
-    "Argena/Chandaria/Nations/Norlund/Lahab's Embrace.md",
-    "Argena/Chandaria/Nations/No'zaral/Welbenwallow.md",
-    "Argena/Chandaria/Nations/No'zaral/Kul-Radein.md",
-    "Argena/Chandaria/Nations/No'zaral/No'zaral.md",
-    "ToDo/TODO List.md",
-    "Argena/Chandaria/Nations/Valdens/Valdens.md",
-    "Argena/Calendar.md",
-    "Argena/Chandaria/Nations/The Eternal Scorch/Kha'anj.md",
-    "Argena/Chandaria/Chandarian History/Post-Dissension/The Chandari Dark Ages/Pylith.md",
-    "Argena/Chandaria/Chandarian History/Pre-Dissension/Ith Alora.md",
-    "Argena/Chandaria/Chandarian History/Pre-Dissension/Monfort.md",
-    "Argena/Chandaria/Chandarian History/Pre-Dissension/Pre-Dissension Chandaria.md",
-    "Argena/Chandaria/Chandarian History/Pre-Dissension/Pylaxes.md",
+    "Argena/Gods/Pholtus.md",
+    "Argena/Gods/Yurk.md",
+    "Argena/Gods/Vecna.md",
+    "Argena/Gods/Valos.md",
+    "Argena/Gods/Tiamat.md",
+    "Argena/Gods/The Blood Chief.md",
+    "Argena/Gods/Terra.md",
+    "Argena/Gods/Reicha.md",
+    "Argena/Gods/Naivara.md",
+    "Argena/Gods/Mortessa.md",
+    "Argena/Gods/Maglubiyet.md",
+    "Argena/Gods/Lucite.md",
+    "Argena/Gods/Lolth.md",
+    "Argena/Gods/Libai.md",
+    "Argena/Gods/Gruumsh.md",
+    "Argena/Gods/Harmonia.md",
+    "Argena/Gods/Genesis.md",
+    "Argena/Gods/Eurus.md",
+    "Argena/Gods/Erathis.md",
+    "Argena/Gods/Cielia.md",
+    "Argena/Gods/Chaos.md",
+    "Argena/Gods/Balinor.md",
+    "Argena/Gods/Asmodeus.md",
+    "Argena/Gods/Artanor.md",
+    "Argena/Gods/Arbitros.md",
+    "Argena/Gods/Annam.md",
+    "Argena/Enulon",
+    "Argena/Tilarien",
+    "Argena/Chandaria/Chandarian History/Post-Dissension/The Age of Dragons",
     "Argena/Chandaria/Chandarian History/Post-Dissension/The Chandari Dark Ages",
-    "Argena/Chandaria/Chandarian History/Post-Dissension",
-    "ToDo",
-    "Argena/Chandaria",
-    "Argena/Chandaria/Chandarian History/Pre-Dissension",
-    "Argena/Chandaria/Chandarian History",
-    "Argena/Chandaria/Nations/The Eternal Scorch/History",
-    "Argena/Chandaria/Nations/The Eternal Scorch",
-    "General World Notes/Nations/Maps/Chandaria World Map.jpg",
-    "Argena/Chandaria/Nations/Falstor/Historical Events",
-    "General World Notes/Nations/Maps/Larenthian Alliance Map No Grid.jpg",
-    "General World Notes/Nations/Maps/Wildlands Map.jpg",
-    "General World Notes/Nations/Larenthian Alliance/Historical Events/Untitled",
-    "Untitled.canvas"
+    "Argena/Chandaria/Chandarian History/Post-Dissension"
   ]
 }

@@ -1,0 +1,4 @@
+# Tilarien
+Tilarien is a medium-sized continent in the southeastern hemisphere of Argena. Its name descends from the ancient elves that inhabited it in the Pre-Dissension era. The ancient elves of Tilarien kept very detailed records of the continent's history, so much more of its past is known than the other continents.
+
+Modern Tilarien is known as the prime exporter of artisan goods and a land full of high society, highly-stratified nations. The craftsmen of Tilarien are renowned for their integration of magic and craftwork. The land itself is steeped in innate magic that is said to leak in from the Feywild.

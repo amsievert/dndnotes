@@ -1,6 +1,6 @@
 {
-  "vaultName": "mdFiles",
-  "lastExport": 1738441763076,
+  "vaultName": "Argena Wiki",
+  "lastExport": 1738442541543,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -163,745 +163,745 @@
   ],
   "fileInfo": {
     "Argena/Chandaria/Chandarian History/Helvalic Dominion Notes/The Helvalic Dominion.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 418,
       "exportedPath": "argena/chandaria/chandarian-history/helvalic-dominion-notes/the-helvalic-dominion.html",
       "dependencies": []
     },
     "Argena/Chandaria/Chandarian History/Post-Dissension/The Chandari Dark Ages/Pylith.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 646,
       "exportedPath": "argena/chandaria/chandarian-history/post-dissension/the-chandari-dark-ages/pylith.html",
       "dependencies": []
     },
     "Argena/Chandaria/Chandarian History/Pre-Dissension/Ith Alora.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 625,
       "exportedPath": "argena/chandaria/chandarian-history/pre-dissension/ith-alora.html",
       "dependencies": []
     },
     "Argena/Chandaria/Chandarian History/Pre-Dissension/Mondrall.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 380,
       "exportedPath": "argena/chandaria/chandarian-history/pre-dissension/mondrall.html",
       "dependencies": []
     },
     "Argena/Chandaria/Chandarian History/Pre-Dissension/Monfort.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 592,
       "exportedPath": "argena/chandaria/chandarian-history/pre-dissension/monfort.html",
       "dependencies": []
     },
     "Argena/Chandaria/Chandarian History/Pre-Dissension/Pre-Dissension Chandaria.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 2942,
       "exportedPath": "argena/chandaria/chandarian-history/pre-dissension/pre-dissension-chandaria.html",
       "dependencies": []
     },
     "Argena/Chandaria/Chandarian History/Pre-Dissension/Pylaxes.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 3642,
       "exportedPath": "argena/chandaria/chandarian-history/pre-dissension/pylaxes.html",
       "dependencies": []
     },
     "Argena/Chandaria/Chandarian History/Pre-Dissension/The Great Serpents.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 3563,
       "exportedPath": "argena/chandaria/chandarian-history/pre-dissension/the-great-serpents.html",
       "dependencies": []
     },
     "Argena/Chandaria/Chandarian History/Pre-Dissension/Westerwood.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 1530,
       "exportedPath": "argena/chandaria/chandarian-history/pre-dissension/westerwood.html",
       "dependencies": []
     },
     "Argena/Chandaria/Chandarian History/An Overall History Of Chandaria.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 15378,
       "exportedPath": "argena/chandaria/chandarian-history/an-overall-history-of-chandaria.html",
       "dependencies": []
     },
     "Argena/Chandaria/Chandarian History/The Anteitic Principles of Magic.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 2099,
       "exportedPath": "argena/chandaria/chandarian-history/the-anteitic-principles-of-magic.html",
       "dependencies": []
     },
     "Argena/Chandaria/Chandarian History/The Great Dissension.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 3114,
       "exportedPath": "argena/chandaria/chandarian-history/the-great-dissension.html",
       "dependencies": []
     },
     "Argena/Chandaria/Chandarian History/The Kainomantic Principles.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 3064,
       "exportedPath": "argena/chandaria/chandarian-history/the-kainomantic-principles.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Atrisean Dynasty/Atrisean Dynasty.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 257,
       "exportedPath": "argena/chandaria/nations/atrisean-dynasty/atrisean-dynasty.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Essaheim/Essaheim.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 8997,
       "exportedPath": "argena/chandaria/nations/essaheim/essaheim.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Falstor/Historical Events/The Great Purge of Dalonstor.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 1152,
       "exportedPath": "argena/chandaria/nations/falstor/historical-events/the-great-purge-of-dalonstor.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Falstor/Dalonstor.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 5440,
       "exportedPath": "argena/chandaria/nations/falstor/dalonstor.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Falstor/Falstor.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 76,
       "exportedPath": "argena/chandaria/nations/falstor/falstor.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Falstor/Marais.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 157,
       "exportedPath": "argena/chandaria/nations/falstor/marais.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Falstor/Marrisburg.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 89,
       "exportedPath": "argena/chandaria/nations/falstor/marrisburg.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Falstor/The Kingdom of Falstor.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 24,
       "exportedPath": "argena/chandaria/nations/falstor/the-kingdom-of-falstor.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Larenthian Alliance/Historical Events/Arcane Revolution.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 403,
       "exportedPath": "argena/chandaria/nations/larenthian-alliance/historical-events/arcane-revolution.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Holfirth Province/Ankheg Grove.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 378,
       "exportedPath": "argena/chandaria/nations/larenthian-alliance/provinces/holfirth-province/ankheg-grove.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Holfirth Province/Basilham.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 446,
       "exportedPath": "argena/chandaria/nations/larenthian-alliance/provinces/holfirth-province/basilham.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Holfirth Province/Dire Wolf Grotto.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 550,
       "exportedPath": "argena/chandaria/nations/larenthian-alliance/provinces/holfirth-province/dire-wolf-grotto.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Holfirth Province/Fermenton.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 585,
       "exportedPath": "argena/chandaria/nations/larenthian-alliance/provinces/holfirth-province/fermenton.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Holfirth Province/Fisk.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 647,
       "exportedPath": "argena/chandaria/nations/larenthian-alliance/provinces/holfirth-province/fisk.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Holfirth Province/Holfirth.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 4751,
       "exportedPath": "argena/chandaria/nations/larenthian-alliance/provinces/holfirth-province/holfirth.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Holfirth Province/Owlbear Enclave.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 1555,
       "exportedPath": "argena/chandaria/nations/larenthian-alliance/provinces/holfirth-province/owlbear-enclave.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Holfirth Province/Timburg.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 252,
       "exportedPath": "argena/chandaria/nations/larenthian-alliance/provinces/holfirth-province/timburg.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Bippenbol.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 62,
       "exportedPath": "argena/chandaria/nations/larenthian-alliance/provinces/bippenbol.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Cabalman Run.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 79,
       "exportedPath": "argena/chandaria/nations/larenthian-alliance/provinces/cabalman-run.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Espwynstead.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 111,
       "exportedPath": "argena/chandaria/nations/larenthian-alliance/provinces/espwynstead.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Galvenport.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 9281,
       "exportedPath": "argena/chandaria/nations/larenthian-alliance/provinces/galvenport.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Hullingsbrook.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 97,
       "exportedPath": "argena/chandaria/nations/larenthian-alliance/provinces/hullingsbrook.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Luminespore Hollow.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 114,
       "exportedPath": "argena/chandaria/nations/larenthian-alliance/provinces/luminespore-hollow.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Orton.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 35,
       "exportedPath": "argena/chandaria/nations/larenthian-alliance/provinces/orton.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Sylmin.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 50,
       "exportedPath": "argena/chandaria/nations/larenthian-alliance/provinces/sylmin.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Wizendell.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 67,
       "exportedPath": "argena/chandaria/nations/larenthian-alliance/provinces/wizendell.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Larenthian Alliance/Blurn's Rest.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 662,
       "exportedPath": "argena/chandaria/nations/larenthian-alliance/blurn's-rest.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Larenthian Alliance/Sir Josiah Trembleton's Funhaus.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 279,
       "exportedPath": "argena/chandaria/nations/larenthian-alliance/sir-josiah-trembleton's-funhaus.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Larenthian Alliance/The Larenthian Alliance.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 7856,
       "exportedPath": "argena/chandaria/nations/larenthian-alliance/the-larenthian-alliance.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/No'zaral/Kul-Radein.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 12,
       "exportedPath": "argena/chandaria/nations/no'zaral/kul-radein.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/No'zaral/No'zaral.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 162,
       "exportedPath": "argena/chandaria/nations/no'zaral/no'zaral.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/No'zaral/Welbenwallow.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 102,
       "exportedPath": "argena/chandaria/nations/no'zaral/welbenwallow.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Norlund/Berserker's Rest.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 415,
       "exportedPath": "argena/chandaria/nations/norlund/berserker's-rest.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Norlund/Frostgate.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 3581,
       "exportedPath": "argena/chandaria/nations/norlund/frostgate.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Norlund/Isbre.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 248,
       "exportedPath": "argena/chandaria/nations/norlund/isbre.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Norlund/Lahab's Embrace.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 549,
       "exportedPath": "argena/chandaria/nations/norlund/lahab's-embrace.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Norlund/Lyntårn.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 394,
       "exportedPath": "argena/chandaria/nations/norlund/lyntårn.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Norlund/Norlund.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 266,
       "exportedPath": "argena/chandaria/nations/norlund/norlund.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Norlund/Vulfen.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 3639,
       "exportedPath": "argena/chandaria/nations/norlund/vulfen.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Rodigia/Rhugnurt.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 11,
       "exportedPath": "argena/chandaria/nations/rodigia/rhugnurt.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Rodigia/Rodigia.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 1275,
       "exportedPath": "argena/chandaria/nations/rodigia/rodigia.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/The Eternal Scorch/History/Dormuntirth's Lair.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 890,
       "exportedPath": "argena/chandaria/nations/the-eternal-scorch/history/dormuntirth's-lair.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/The Eternal Scorch/History/The Skrekin People.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 4826,
       "exportedPath": "argena/chandaria/nations/the-eternal-scorch/history/the-skrekin-people.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/The Eternal Scorch/Kha'anj.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 6821,
       "exportedPath": "argena/chandaria/nations/the-eternal-scorch/kha'anj.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/The Eternal Scorch/The Eternal Scorch.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 3488,
       "exportedPath": "argena/chandaria/nations/the-eternal-scorch/the-eternal-scorch.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Valdens/Valdens.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 485,
       "exportedPath": "argena/chandaria/nations/valdens/valdens.html",
       "dependencies": []
     },
     "Argena/Chandaria/Nations/Wildlands/The Wildlands.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 391,
       "exportedPath": "argena/chandaria/nations/wildlands/the-wildlands.html",
       "dependencies": []
     },
     "Argena/Chandaria/Organizations/The Clockwork Consortium.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 554,
       "exportedPath": "argena/chandaria/organizations/the-clockwork-consortium.html",
       "dependencies": []
     },
     "Argena/Chandaria/Chandaria.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 7069,
       "exportedPath": "argena/chandaria/chandaria.html",
       "dependencies": []
     },
     "Argena/Chandaria/Games.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 2754,
       "exportedPath": "argena/chandaria/games.html",
       "dependencies": []
     },
     "Argena/Enulon/Enulon.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 1643,
       "exportedPath": "argena/enulon/enulon.html",
       "dependencies": []
     },
     "Argena/Gods/Amphinor.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 127,
       "exportedPath": "argena/gods/amphinor.html",
       "dependencies": []
     },
     "Argena/Gods/Annam.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 160,
       "exportedPath": "argena/gods/annam.html",
       "dependencies": []
     },
     "Argena/Gods/Arbitros.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 141,
       "exportedPath": "argena/gods/arbitros.html",
       "dependencies": []
     },
     "Argena/Gods/Artanor.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 167,
       "exportedPath": "argena/gods/artanor.html",
       "dependencies": []
     },
     "Argena/Gods/Asmodeus.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 181,
       "exportedPath": "argena/gods/asmodeus.html",
       "dependencies": []
     },
     "Argena/Gods/Balinor.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 135,
       "exportedPath": "argena/gods/balinor.html",
       "dependencies": []
     },
     "Argena/Gods/Chaos.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 165,
       "exportedPath": "argena/gods/chaos.html",
       "dependencies": []
     },
     "Argena/Gods/Cielia.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 182,
       "exportedPath": "argena/gods/cielia.html",
       "dependencies": []
     },
     "Argena/Gods/Erathis.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 143,
       "exportedPath": "argena/gods/erathis.html",
       "dependencies": []
     },
     "Argena/Gods/Eurus.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 61,
       "exportedPath": "argena/gods/eurus.html",
       "dependencies": []
     },
     "Argena/Gods/Genesis.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 97,
       "exportedPath": "argena/gods/genesis.html",
       "dependencies": []
     },
     "Argena/Gods/Gruumsh.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 65,
       "exportedPath": "argena/gods/gruumsh.html",
       "dependencies": []
     },
     "Argena/Gods/Harmonia.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 76,
       "exportedPath": "argena/gods/harmonia.html",
       "dependencies": []
     },
     "Argena/Gods/Libai.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 79,
       "exportedPath": "argena/gods/libai.html",
       "dependencies": []
     },
     "Argena/Gods/Lolth.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 100,
       "exportedPath": "argena/gods/lolth.html",
       "dependencies": []
     },
     "Argena/Gods/Lucite.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 71,
       "exportedPath": "argena/gods/lucite.html",
       "dependencies": []
     },
     "Argena/Gods/Maglubiyet.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 105,
       "exportedPath": "argena/gods/maglubiyet.html",
       "dependencies": []
     },
     "Argena/Gods/Mortessa.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 1187,
       "exportedPath": "argena/gods/mortessa.html",
       "dependencies": []
     },
     "Argena/Gods/Naivara.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 63,
       "exportedPath": "argena/gods/naivara.html",
       "dependencies": []
     },
     "Argena/Gods/Pholtus.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 71,
       "exportedPath": "argena/gods/pholtus.html",
       "dependencies": []
     },
     "Argena/Gods/Reicha.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 102,
       "exportedPath": "argena/gods/reicha.html",
       "dependencies": []
     },
     "Argena/Gods/Terra.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 87,
       "exportedPath": "argena/gods/terra.html",
       "dependencies": []
     },
     "Argena/Gods/The Blood Chief.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 78,
       "exportedPath": "argena/gods/the-blood-chief.html",
       "dependencies": []
     },
     "Argena/Gods/Tiamat.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 116,
       "exportedPath": "argena/gods/tiamat.html",
       "dependencies": []
     },
     "Argena/Gods/Valos.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 70,
       "exportedPath": "argena/gods/valos.html",
       "dependencies": []
     },
     "Argena/Gods/Vecna.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 87,
       "exportedPath": "argena/gods/vecna.html",
       "dependencies": []
     },
     "Argena/Gods/Yurk.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 61,
       "exportedPath": "argena/gods/yurk.html",
       "dependencies": []
     },
     "Argena/Tilarien/Tilarien.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 616,
       "exportedPath": "argena/tilarien/tilarien.html",
       "dependencies": []
     },
     "Argena/Caelum Insula.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 2097,
       "exportedPath": "argena/caelum-insula.html",
       "dependencies": []
     },
     "Argena/Calendar.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 178,
       "exportedPath": "argena/calendar.html",
       "dependencies": []
     },
     "Argena/Gods and Mythos.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 9436,
       "exportedPath": "argena/gods-and-mythos.html",
       "dependencies": []
     },
     "Argena/Harmonium.md": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 1394,
       "exportedPath": "argena/harmonium.html",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1738441763076,
-      "sourceSize": 98812,
+      "modifiedTime": 1738442541543,
+      "sourceSize": 98816,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 8576,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 131018,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1738441763076,
+      "modifiedTime": 1738442541543,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []

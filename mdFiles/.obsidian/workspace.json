@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Argena/Enulon/Enulon.md",
+                "file": "Planes/Elysium/Thalasia/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enulon"
+              "title": "Untitled"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -165,6 +166,15 @@
   },
   "active": "7d61d777a51d4f38",
   "lastOpenFiles": [
+    "Planes/Elysium/Elysium.md",
+    "Planes/Elysium/Thalasia/Untitled.md",
+    "Planes/Elysium/Belierin",
+    "Planes/Elysium/Eronia",
+    "Planes/Elysium/Amoria",
+    "Planes/Elysium/Thalasia",
+    "Argena/Chandaria/Chandarian History/An Overall History Of Chandaria.md",
+    "Argena/Chandaria/Chandarian History/The Kainomantic Principles.md",
+    "Argena/Enulon/Enulon.md",
     "Argena/Harmonium.md",
     "Argena/Gods and Mythos.md",
     "Argena/Calendar.md",
@@ -186,17 +196,11 @@
     "Argena/Gods/Libai.md",
     "Argena/Gods/Harmonia.md",
     "Argena/Gods/Gruumsh.md",
-    "Argena/Gods/Genesis.md",
-    "Argena/Gods/Eurus.md",
-    "Argena/Gods/Erathis.md",
-    "Argena/Gods/Cielia.md",
-    "Argena/Gods/Chaos.md",
     "Planes/Elysium",
     "Planes",
     "Argena/Enulon",
     "Argena/Tilarien",
     "Argena/Chandaria/Chandarian History/Post-Dissension/The Age of Dragons",
-    "Argena/Chandaria/Chandarian History/Post-Dissension/The Chandari Dark Ages",
-    "Argena/Chandaria/Chandarian History/Post-Dissension"
+    "Argena/Chandaria/Chandarian History/Post-Dissension/The Chandari Dark Ages"
   ]
 }

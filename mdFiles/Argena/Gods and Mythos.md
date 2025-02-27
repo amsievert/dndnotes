@@ -5,7 +5,7 @@
 - [[Erathis]] - Goddess of knowledge
 - [[Reicha]] - Goddess of wealth and prosperity
 - [[Balinor]] - God of beasts and the hunts
-- [[Valos]] - God of the Sun (CG)
+- [[Valos]] - God of the Sun
 - [[Mortessa]] - Goddess of Death
 - [[Libai]] – Goddess of Life 
 - [[Cielia]] - Goddess of Agriculture

@@ -1,7 +1,7 @@
 # Pylaxes
 A great Elven hero from the Pre-Dissension era, Pylaxes secured his immortal legacy in through his union with Tiamat. 
 ## Adventures
-Pylaxes was one of the most well-traveled mortals of the Pre-Dissension era. He originally hailed from the Elvish city-state of Osmirith in the western forests of Chandaria, known as the Westerwood. However, he was never satisfied with accepting life as it was, and he took to wandering as soon as he learned to wield a sword and ride a horse.
+Pylaxes was one of the most well-traveled mortals of the Pre-Dissension era. He originally hailed from the Elvish city-state of Osmirith in the western forests of Chandaria, known as the [[Westerwood]]. However, he was never satisfied with accepting life as it was, and he took to wandering as soon as he learned to wield a sword and ride a horse.
 
 Initially, he explored just to see what was out in the world. Much of the continent was still completely unexplored, and he sought to expand his city's knowledge of the world. In his years of adventuring, he doubled Osmirith's claimed land, and even founded his own city-state known as Pylos.
 

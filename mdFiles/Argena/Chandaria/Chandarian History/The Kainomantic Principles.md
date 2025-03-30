@@ -1,5 +1,5 @@
 # The Kainomantic Principles of Magic
-Kainomancy is an ideology developed during the early days of the Arcane Resurgence. It was created as a direct opposition to the Anteitic Principles. Instead of the destruction and power of the Anteitic Principles, Kainomancy focuses on unity and ethics instead. The Kainomantic Principles are as follows:
+Kainomancy is an ideology developed during the early days of the Arcane Resurgence. It was created as a direct opposition to the [[The Anteitic Principles of Magic|Anteitic Principles]]. Instead of the destruction and power of the Anteitic Principles, Kainomancy focuses on unity and ethics instead. The Kainomantic Principles are as follows:
 ## 
 ### 1. Magic as Harmony
 For the new generation of mages, magic was not a tool for dominion, but rather a force to bring balance between individuals, societies, and nature. The shifting of the main goal of magic is instrumental in the difference between the Kainomantic and Anteitic Principles. It served as the basis for the other new ideas of Kainomancy.

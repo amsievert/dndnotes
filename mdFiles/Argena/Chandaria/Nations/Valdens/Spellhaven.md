@@ -17,7 +17,7 @@ Spellhaven's main exports are not traditional trade goods, but rather knowledge.
 ### General Information
 Spellhaven was built at the height of the [[An Overall History Of Chandaria#The Arcane Resurgence|Arcane Resurgence]] by a collective of [[The Kainomantic Principles|Kainomancers]] who were looking for a place to build a city with magic at its core. They used conjuration and transmutation magic to raise the walls and buildings of the city from the ground, truly establishing the city's magical roots. The founders' original vision was to transform the entire island into a sprawling magical metropolis which would become the crown jewel of Chandaria. Their dream was never realized in their time, since the [[An Overall History Of Chandaria#The Astral Devastation|Astral Devastation]] that followed the [[An Overall History Of Chandaria#The Arcane Resurgence|Arcane Resurgence]] severely hindered the city's expansion for a long while.
 
-The city would boom again during the Age of Dominion however, as it was the site of the Planar Nexus, which brought many incredibly intelligent mages to the city from across Argena. This was also the time that the 8 outer towns were built, and the Volantrum was first lifted.
+The city would boom again during the Age of Dominion however, as it was the site of the Planar Nexus, which brought many incredibly intelligent mages to the city from across Argena. This was also the time that the 8 outer towns were built, and the Volantrum was first lifted. 
 
 ### Spellhaven Gazetteer
 #### The Lansen Memorial Planar Nexus

@@ -1,0 +1,1 @@
+The Golden Fields of Elysium, also known simply as Elysium, is the Outer Plane that represents the neutral good alignment. 

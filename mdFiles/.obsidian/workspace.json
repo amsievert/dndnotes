@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Argena/Gods/Naivara.md",
+                "file": "Argena/Chandaria/Games.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Naivara"
+              "title": "Games"
             }
           }
         ]
@@ -167,10 +167,22 @@
   "active": "7d61d777a51d4f38",
   "lastOpenFiles": [
     "Argena/Harmonium.md",
+    "Planes/Plane of Air/Elemental Plane of Air.md",
+    "Planes/Plane of Air/Sidha ibn Amaal.md",
+    "Argena/Chandaria/Chandarian History/Pre-Dissension/The Great Serpents.md",
+    "Planes/Plane of Air",
+    "Planes/Elysium/Thalasia/The Golden Hearth.md",
+    "Planes/Elysium/Thalasia/Thalasia.md",
+    "Argena/Chandaria/Chandarian History/Pre-Dissension/Pylaxes.md",
     "Argena/Gods and Mythos.md",
+    "Argena/Chandaria/Nations/Valdens/Spellhaven.md",
+    "Argena/Chandaria/Chandarian History/An Overall History Of Chandaria.md",
+    "Argena/Chandaria/Chandarian History/The Kainomantic Principles.md",
+    "Argena/Chandaria/Chandarian History/The Great Dissension.md",
+    "Planes/Elysium/Elysium.md",
+    "Planes/Elysium/Thalasia/Untitled.md",
+    "Planes/Elysium/Untitled.md",
     "Argena/Calendar.md",
-    "Argena/Caelum Insula.md",
-    "Argena/Tilarien/Tilarien.md",
     "Argena/Gods/Yurk.md",
     "Argena/Gods/Vecna.md",
     "Argena/Gods/Valos.md",
@@ -181,17 +193,6 @@
     "Argena/Gods/Pholtus.md",
     "Argena/Gods/Naivara.md",
     "Argena/Gods/Mortessa.md",
-    "Argena/Gods/Maglubiyet.md",
-    "Argena/Gods/Lucite.md",
-    "Argena/Gods/Lolth.md",
-    "Argena/Gods/Libai.md",
-    "Argena/Gods/Harmonia.md",
-    "Argena/Gods/Gruumsh.md",
-    "Argena/Gods/Genesis.md",
-    "Argena/Gods/Eurus.md",
-    "Argena/Gods/Erathis.md",
-    "Argena/Gods/Cielia.md",
-    "Argena/Gods/Chaos.md",
     "Planes/Elysium/Belierin",
     "Planes/Elysium/Eronia",
     "Planes/Elysium/Amoria",
@@ -200,7 +201,6 @@
     "Planes",
     "Argena/Enulon",
     "Argena/Tilarien",
-    "Argena/Chandaria/Chandarian History/Post-Dissension/The Age of Dragons",
-    "Argena/Chandaria/Chandarian History/Post-Dissension/The Chandari Dark Ages"
+    "Argena/Chandaria/Chandarian History/Post-Dissension/The Age of Dragons"
   ]
 }

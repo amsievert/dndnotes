@@ -6,7 +6,7 @@ Pylaxes was one of the most well-traveled mortals of the Pre-Dissension era. He 
 Initially, he explored just to see what was out in the world. Much of the continent was still completely unexplored, and he sought to expand his city's knowledge of the world. In his years of adventuring, he doubled Osmirith's claimed land, and even founded his own city-state known as Pylos.
 
 #### The Highland Chimera
-North of Osmirith in the mountains near the present-day Exalted Summit, Pylaxes learned of a chimera that was terrorizing many of the peaceful woodland beings in the area. Armed with nothing but a shortsword, wooden shield, and chain shirt, Pylaxes climbed for four days up to the chimera's cave in the peaks. Showing great cunning, he snuck into the cave while the chimera was out hunting, and waited until it returned, then ambushed it in its sleep.
+South of Osmirith in the mountains near the present-day Exalted Summit, Pylaxes learned of a chimera that was terrorizing many of the peaceful woodland beings in the area. Armed with nothing but a shortsword, wooden shield, and chain shirt, Pylaxes climbed for four days up to the chimera's cave in the peaks. Showing great cunning, he snuck into the cave while the chimera was out hunting, and waited until it returned, then ambushed it in its sleep.
 
 Pylaxes gained great favor with the neighboring forest creatures for slaying the chimera, and they helped him out on his future adventures. They blessed him with great knowledge of the surrounding area as well.
 

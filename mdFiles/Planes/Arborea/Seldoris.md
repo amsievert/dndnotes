@@ -49,4 +49,4 @@ Lolth's Grove is a dense thicket of trees that shade their Drow inhabitants from
 #### Lake Goneril
 Not many travel to Lake Goneril. Surrounding its coast and in the water are many bodies from a large battle between Seldoris forces and the Olympians. The whole place stinks of death and a low fog hangs over the lake at all times.
 #### Grandfather Oak
-This tree 
+This tree is often called the mini World Tree of Arborea. The 

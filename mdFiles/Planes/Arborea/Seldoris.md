@@ -51,4 +51,6 @@ Not many travel to Lake Goneril. Surrounding its coast and in the water are many
 #### Grandfather Oak
 This tree is often called the mini World Tree of Arborea. In the limbs of this massive oak tree are many portals that lead all around Seldoris. It acts as a travel hub for those moving across the realm.
 
-Besides being a travel hub, Grandfather Oak is also the main settlement for Esylra and her Wood Elves. They live in sm
+Besides being a travel hub, Grandfather Oak is also the main settlement for Esylra and her Wood Elves. They live in small cottages built in the canopies, while Esylra has a bigger house built near the top canopy.
+#### Aubade Palace
+Above the Misty Lake, perched atop a large cloud bank is a glittering palace. 

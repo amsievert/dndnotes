@@ -1,0 +1,5 @@
+- Eladrin: Siedus
+- High Elf: Hanir
+- Wood Elf: Esylra
+- Sea Elf: Vaprana
+- Drow: Moreth

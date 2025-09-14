@@ -1,0 +1,5 @@
+(Formerly known as Mount Tayeche)
+
+A large, single mountain peak along the west coast of Chandaria, the mountain was named so by the Atrisean Dynasty as they consolidated power in the southwest under the guise of divine destiny. They named it the Exalted Summit because they believed that the peak of the mountain was a portal to the [[The Seven Heavens of Mount Celestia|Seven Heavens]]. This belief spread because the peak of the mountain is so tall that it is consistently above the clouds, unable to be seen from the ground.
+
+On the western face of the mountain, a river flows down and carves its way through the landscape until it empties into the [[Azure Expanse]]. The early Atriseans named this river the [[Ichor River]], following their belief that the Exalted Summit had connections to the gods.

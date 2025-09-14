@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f7aceb0a6576c232",
+            "id": "b0bae5b785ca118f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Argena/Chandaria/Chandarian History/Pre-Dissension/Pylaxes.md",
+                "file": "Planes/Arborea/Seldoris.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pylaxes"
+              "title": "Seldoris"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -163,42 +164,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7aceb0a6576c232",
+  "active": "b0bae5b785ca118f",
   "lastOpenFiles": [
-    "Argena/Chandaria/Chandarian History/Post-Dissension/The Chandari Dark Ages/Pylith.md",
-    "Argena/Chandaria/Nations/No'zaral/No'zaral.md",
-    "Argena/Chandaria/Nations/No'zaral/Welbenwallow.md",
-    "Argena/Chandaria/Chandarian History/Pre-Dissension/Westerwood.md",
-    "Argena/Chandaria/Chandarian History/Pre-Dissension/Monfort.md",
-    "Argena/Chandaria/Chandarian History/Pre-Dissension/Mondrall.md",
+    "Planes/Arborea/Seldori.md",
+    "Planes/Arborea/Seldoris.md",
+    "Planes/Arborea/The Olympian Glades of Arborea.md",
     "Argena/Chandaria/Nations/Valdens/Spellhaven.md",
-    "Argena/Chandaria/Chandarian History/Pre-Dissension/The Great Serpents.md",
-    "Argena/Chandaria/Chandarian History/Pre-Dissension/Pylaxes.md",
-    "Argena/Chandaria/Nations/Rodigia/Rodigia.md",
-    "Argena/Chandaria/Chandaria.md",
-    "Argena/Harmonium.md",
-    "Argena/Chandaria/Chandarian History/Helvalic Dominion Notes/The Helvalic Dominion.md",
-    "Argena/Chandaria/Chandarian History/An Overall History Of Chandaria.md",
-    "Argena/Chandaria/Chandarian History/The Kainomantic Principles.md",
+    "Argena/Chandaria/Nations/Valdens/Valdens.md",
+    "Argena/Tilarien/Sylarii/Sylarii.md",
     "Argena/Gods/Mortessa.md",
-    "Argena/Gods and Mythos.md",
-    "Argena/Gods/Arbitros.md",
-    "Argena/Gods/Maglubiyet.md",
-    "Argena/Chandaria/Organizations/The Clockwork Consortium.md",
-    "Argena/Calendar.md",
-    "Argena/Chandaria/Nations/Wildlands/The Wildlands.md",
+    "Argena/Chandaria/Chandarian History/Pre-Dissension/Ith Alora.md",
+    "Argena/Gods/Yurk.md",
+    "Planes/Elysium/Thalasia/Thalasia.md",
     "Planes/Elysium/Thalasia/The Golden Hearth.md",
+    "Argena/Chandaria/Nations/Atrisean Dynasty/Atrizar.md",
+    "Argena/Chandaria/Nations/Atrisean Dynasty/Ichor River.md",
+    "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Holfirth Province/Dire Wolf Grotto.md",
+    "Argena/Gods/Valos.md",
+    "Argena/Gods/Harmonia.md",
+    "ToDo/TODO List.md",
+    "Argena/Gods and Mythos.md",
     "Planes/Elysium/Elysium.md",
-    "Planes/Elysium/Thalasia/Untitled.md",
-    "Argena/Chandaria/Nations/No'zaral/Kul-Radein.md",
+    "Planes/Mount Celestia/The Seven Heavens of Mount Celestia.md",
+    "Planes/Plane of Air/Elemental Plane of Air.md",
+    "Argena/Tilarien/Tilarien.md",
+    "Planes/Plane of Air/Sidha ibn Amaal.md",
+    "Argena/Gods/Gruumsh.md",
+    "Argena/Gods/Terra.md",
+    "Argena/Gods/Annam.md",
+    "Planes/Arborea",
+    "Argena/Tilarien/Sylarii",
+    "Argena/Chandaria/Nations/No'zaral/Welbenwallow Province",
+    "Argena/Chandaria/Nations/Atrisean Dynasty/Untitled",
+    "Planes/Mount Celestia",
     "Planes/Elysium/Belierin",
     "Planes/Elysium/Eronia",
     "Planes/Elysium/Amoria",
     "Planes/Elysium/Thalasia",
-    "Planes/Elysium",
-    "Planes",
-    "Argena/Enulon",
-    "Argena/Tilarien",
-    "Argena/Chandaria/Chandarian History/Post-Dissension/The Age of Dragons"
+    "Planes/Elysium"
   ]
 }

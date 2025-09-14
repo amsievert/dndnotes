@@ -1,0 +1,1 @@
+Atrizar was a half-orc demigod, the daughter of [[Gruumsh]] and Aralee, a human warlord who made her way to Acheron during the [[An Overall History Of Chandaria#The Age of Dominion|Age of Dominion]]. Atrizar fought in many battles to liberate the planes from the Material invaders.

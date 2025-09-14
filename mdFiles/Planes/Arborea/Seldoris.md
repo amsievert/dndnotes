@@ -55,4 +55,4 @@ Besides being a travel hub, Grandfather Oak is also the main settlement for Esyl
 #### Aubade Palace
 Above the Misty Lake, perched atop a large cloud bank is a glittering palace. This is the realm of the Eladrin, led by the Seldori Eladrin Siedus. The palace is made of different metals, each giving parts of the palace a different color to look like the seasons.
 #### Harmonia's Tower
-Harmonia's Tower rises above the land, looking over the entire realm. The tower is massive, and has an entire palace worth of amenities as well as room for thousands of Elves to live. The palace has a theater, library, workshop, and great hall. 
+Harmonia's Tower rises above the land, looking over the entire realm. The tower is massive, and has an entire palace worth of amenities as well as room for thousands of Elves to live. The palace has a theater, library, workshop, and great hall. The tower is also incredibly old, as it was the first thing that Harmonia built upon moving to Arborea.

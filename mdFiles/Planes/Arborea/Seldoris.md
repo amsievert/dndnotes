@@ -53,4 +53,6 @@ This tree is often called the mini World Tree of Arborea. In the limbs of this m
 
 Besides being a travel hub, Grandfather Oak is also the main settlement for Esylra and her Wood Elves. They live in small cottages built in the canopies, while Esylra has a bigger house built near the top canopy.
 #### Aubade Palace
-Above the Misty Lake, perched atop a large cloud bank is a glittering palace. This is the realm of the Eladrin, led by the Seldori Eladrin Siedus. 
+Above the Misty Lake, perched atop a large cloud bank is a glittering palace. This is the realm of the Eladrin, led by the Seldori Eladrin Siedus. The palace is made of different metals, each giving parts of the palace a different color to look like the seasons.
+#### Harmonia's Tower
+Harmonia's Tower rises above the land, looking over the entire realm. 

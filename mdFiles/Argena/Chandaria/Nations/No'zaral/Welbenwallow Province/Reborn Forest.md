@@ -1,0 +1,5 @@
+In the ashes of the devastated Westerwood, druids from the Verdant Conclave on Chandaria's west coast reached out to the archdruids from [[Sylarii]] on [[Tilarien]], to help them rebuild the Westerwood. At this time (c. 1500 PS), the Westerwood had been almost entirely destroyed. Most was deforested during the Arcane Resurgence, in search of Elderbark trees, while the remnants were destroyed in the following [[An Overall History Of Chandaria#The Astral Devastation|Astral Devastation]].
+
+The master druids from [[Sylarii]] arrived and they quickly began applying their expert knowledge in planning the regrowth of the forest. They sampled the flora from the small remaining pockets of original Westerwood ecosystem, and used this composition to plant the new forest.
+
+Over the next few centuries, the west coast would regain its forest biome. By 1800 PS, the forest had fully regrown to the point that the druids desired, and the Sylarian returned to [[Tilarien]]. The forest came to be known by a new name, no longer the Westerwood, but instead the Reborn Forest, acknowledging the work that the druids had done and the detriment of the mages from long ago.

@@ -1,0 +1,1 @@
+The Ichor River flows from the western face of the [[Exalted Summit]] and eventually drains into the [[Azure Expanse]]. It was named so by the early Atriseans because they believed its waters held some sort of divine power, flowing from the Seven Heavens themselves.

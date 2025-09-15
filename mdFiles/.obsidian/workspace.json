@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "The Kainomantic Principles"
             }
+          },
+          {
+            "id": "c1d8805a891c821d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,8 +190,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7aceb0a6576c232",
+  "active": "c1d8805a891c821d",
   "lastOpenFiles": [
+    "Argena/Chandaria/Chandarian History/The Kainomantic Principles.md",
+    "conflict-files-obsidian-git.md",
+    "Planes/Mount Celestia/The Seven Heavens of Mount Celestia.md",
+    "Planes/Mount Celestia",
+    "Planes/Arborea/The Olympian Glades of Arborea.md",
+    "Planes/Arborea/Seldoris.md",
+    "Planes/Arborea/Seldori.md",
+    "Planes/Arborea",
+    "Argena/Tilarien/Sylarii/Sylarii.md",
+    "Argena/Tilarien/Sylarii",
+    "Argena/Chandaria/Nations/No'zaral/Welbenwallow Province/The Clockwork Consortium.md",
+    "Argena/Chandaria/Nations/No'zaral/Welbenwallow Province/Welbenwallow.md",
+    "Argena/Chandaria/Nations/No'zaral/Welbenwallow Province/Reborn Forest.md",
+    "Argena/Chandaria/Nations/No'zaral/Welbenwallow Province",
+    "Argena/Chandaria/Nations/Atrisean Dynasty/Sella Alora.md",
+    "Argena/Chandaria/Nations/Atrisean Dynasty/Ichor River.md",
+    "Argena/Chandaria/Nations/Atrisean Dynasty/Exalted Summit.md",
+    "Argena/Chandaria/Nations/Atrisean Dynasty/Atrizar.md",
+    "Argena/Azure Expanse.md",
     "Argena/Chandaria/Chandarian History/Pre-Dissension/Pylaxes.md",
     "Argena/Chandaria/Chandarian History/Post-Dissension/The Chandari Dark Ages/Pylith.md",
     "Argena/Chandaria/Nations/No'zaral/No'zaral.md",
@@ -188,29 +222,11 @@
     "Argena/Chandaria/Chandarian History/Pre-Dissension/The Great Serpents.md",
     "Argena/Chandaria/Nations/Rodigia/Rodigia.md",
     "Argena/Chandaria/Chandaria.md",
-    "Argena/Harmonium.md",
-    "Argena/Chandaria/Chandarian History/Helvalic Dominion Notes/The Helvalic Dominion.md",
-    "Argena/Chandaria/Chandarian History/An Overall History Of Chandaria.md",
-    "Argena/Chandaria/Chandarian History/The Kainomantic Principles.md",
-    "Argena/Gods/Mortessa.md",
-    "Argena/Gods and Mythos.md",
-    "Argena/Gods/Arbitros.md",
-    "Argena/Gods/Maglubiyet.md",
-    "Argena/Chandaria/Organizations/The Clockwork Consortium.md",
-    "Argena/Calendar.md",
-    "Argena/Chandaria/Nations/Wildlands/The Wildlands.md",
-    "Planes/Elysium/Thalasia/The Golden Hearth.md",
-    "Planes/Elysium/Elysium.md",
-    "Planes/Elysium/Thalasia/Untitled.md",
-    "Argena/Chandaria/Nations/No'zaral/Kul-Radein.md",
     "Planes/Elysium/Belierin",
     "Planes/Elysium/Eronia",
     "Planes/Elysium/Amoria",
     "Planes/Elysium/Thalasia",
     "Planes/Elysium",
-    "Planes",
-    "Argena/Enulon",
-    "Argena/Tilarien",
-    "Argena/Chandaria/Chandarian History/Post-Dissension/The Age of Dragons"
+    "Planes"
   ]
 }

@@ -1,0 +1,9 @@
+# Welbenwallow
+#### Population
+The population of Welbenwallow is 32,340 (32% Gnomes, 24% Halflings, 19% Humans, 10% Dwarves, 15% Other Races).
+## Government
+The city's main governing body is the Welbenwallow Council. It consists of 150 members, each who represent different factions and ideologies within the populace. Among the council members, most of them strongly support the [[The Clockwork Consortium|Clockwork Consortium]]. The council's main job is controlling matters that concern mostly just the province. The matters are often related to the conservation of the [[Reborn Forest]], but sometimes they also have to deal with pirate raids along the coast. The council's response to pirates has been the same for a long time, as rallying the garrison is usually enough to ward off most pirates.
+## Defense
+Welbenwallow sits atop Pimpam Hill, giving it an advantageous position in case of a siege. While Pimpam Hill itself isn't very tall, when combined with the city's mechanical walls, Welbenwallow becomes quite the impenetrable fortress. The walls, like most of the city, were built by the [[The Clockwork Consortium|Clockwork Consortium]] and are an engineering feat in their own right. The wall is segmented into 10 foot squares, each of which are constantly moving, seemingly with a mind of their own. The segments shift to cover pieces that are damaged, and if a siege were to happen, the walls could constantly refresh themselves, with new segments. Atop the walls, there are devices called Spellkillers mounted every 50 feet. These devices can activate antimagic auras atop the walls that will prevent spells and other teleportation effects from damaging the walls. Defense of the city is left up to the Gearwardens (colloquially called the Cogs). The Gearwardens consist of multiple divisions, some of which deal with law enforcement, and others serve in the city's garrison.
+
+## Industry

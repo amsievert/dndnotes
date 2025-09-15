@@ -161,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,9 +178,9 @@
   },
   "active": "f7aceb0a6576c232",
   "lastOpenFiles": [
-    "Planes/Arborea/Seldori.md",
     "Planes/Arborea/The Olympian Glades of Arborea.md",
     "Planes/Arborea/Seldoris.md",
+    "Planes/Arborea/Seldori.md",
     "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Galvenport.md",
     "Argena/Chandaria/Chandarian History/The Kainomantic Principles.md",
     "conflict-files-obsidian-git.md",

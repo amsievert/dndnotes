@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planes/Arborea/Seldoris.md",
+                "file": "Planes/Arborea/Seldori.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seldoris"
+              "title": "Seldori"
             }
           }
         ]
@@ -178,8 +178,8 @@
   },
   "active": "f7aceb0a6576c232",
   "lastOpenFiles": [
-    "Planes/Arborea/Seldori.md",
     "Planes/Arborea/Seldoris.md",
+    "Planes/Arborea/Seldori.md",
     "Argena/Chandaria/Nations/Norlund/Frostgate.md",
     "Planes/Arborea/The Olympian Glades of Arborea.md",
     "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Galvenport.md",

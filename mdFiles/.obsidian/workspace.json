@@ -11,10 +11,14 @@
             "id": "3fec818e6e59449d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Argena/Chandaria/Nations/No'zaral/Jequith.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Jequith"
             }
           }
         ]
@@ -174,6 +178,8 @@
   },
   "active": "3fec818e6e59449d",
   "lastOpenFiles": [
+    "Argena/Chandaria/Nations/No'zaral/No'zaral.md",
+    "Argena/Chandaria/Nations/No'zaral/Jequith.md",
     "Argena/Chandaria/Chandarian History/An Overall History Of Chandaria.md",
     "Argena/Calendar.md",
     "Argena/Gods and Mythos.md",
@@ -198,8 +204,6 @@
     "Planes/Elysium/Elysium.md",
     "Planes/Mount Celestia/The Seven Heavens of Mount Celestia.md",
     "Planes/Plane of Air/Elemental Plane of Air.md",
-    "Argena/Tilarien/Tilarien.md",
-    "Planes/Plane of Air/Sidha ibn Amaal.md",
     "Planes/Arborea",
     "Argena/Tilarien/Sylarii",
     "Argena/Chandaria/Nations/No'zaral/Welbenwallow Province",

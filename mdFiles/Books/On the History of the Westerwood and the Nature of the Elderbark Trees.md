@@ -1,0 +1,17 @@
+By: Adran Yllreth (1324 PS)
+
+Over the course of our recent history, we have seen the folly of man at the forefront of that which is wrong with the ideology that guides our civilization. We find ourselves in unprecedented times, where mortals are for once the occupying force that strangles other civilizations. For so long, we took pride in our mastery of the arcane. It was the liberating force that freed us from our divine shackles. However, the use of magic has completely swung to the opposite. Oppression replaces liberation. It is no secret that the Kainomancers that replaced the Anteity League were nothing more than a new sect of the same basic principles. It is these Kainomantic Principles that now misguide our citizenry. I invite you all now, you lost souls, follow me in my indictment of the Kainomancers.
+
+The Kainomancers wasted little time in showing the similarity to their predecessors. We see the Kainomancers' dedication to unfettered exploitation of the natural world. It brings me great sorrow knowing that no one these days will know the beauty of the Westerwood.
+
+The Westerwood was one of the oldest remnants of our creators on this plane. It's said that even the pre-dissension scholars knew not of their origins. At its largest, the Westerwood spanned the majority of the western coast of Chandaria. This thick forest was absolutely teeming with life. Natural magic flourished and many city-states thrived off of the innate magic of the great forest. If this forest was so great, why then do we not see any of it today? Near the end of the Arcane Resurgence, the Kainomancers discovered the Elderbark Trees.
+
+These trees held some innate magic in their roots. This magic likely dates all the way back to the Fracture, which explains its potency. It is said that these trees were so old and powerful that their roots reached all the way through the interplanar fabric and drew power from the other planes. This created a network of magical energy across the Westerwood that allowed the entire ecosystem to thrive.
+
+When the Kainomancers discovered these trees, they were quick to exploit them. With haste, they destroyed large parts of the Westerwood in search of these trees. With the Elderbarks that they did find, they shipped them off to Spellhaven to be broken down and researched. The Westerwood suffered greatly, and the region grew barren.
+
+The Kainomancers did receive their comeuppance, as the tales of the power of the trees turned out to be true, and an extraplanar force was alerted of an incursion on their border with the trees and arrived to destroy the aggressors. We know this now as the Astral Devastation.
+
+I fear that we are in the second period of this cycle. We find our civilization greatly overextended across the multiverse, and it is only a matter of time before yet again another vastly more powerful extraplanar entity decides to put us back in our place. We've seen the start of this already, with the fall of the Chandarian city of Ventorria. The forces of Aeryn Vento-Natus, Stratos Rex and descendant of Himmelslang, grew tired of the occupation, and easily dispatched our strongest spellcasters defending the city.
+
+And so I implore you, take the time to consider what I have outlined herein. Our civilization is at yet another inflection point. If we don't change our ways, the cycle is doomed to repeat, and our world as we know it will be destroyed.

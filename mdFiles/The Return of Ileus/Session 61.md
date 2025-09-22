@@ -1,0 +1,70 @@
+Current Day: 17th Friga, 2519 PS
+
+Eventually the party can return to Knoglir's lair. He tells them about the relic that he knows about, which is the shield of Ozewyn. Since Ozewyn was the Archmage of abjuration, he knows very little about the shield's actual whereabouts, and can't find out much more other than word of mouth. He knows that Ozewyn learned abjuration from Harmonia during the Dissension, so his best guess for where to start is in Arborea.
+
+The Situation in Arborea:
+Seldoris is currently overwhelmed with refugees from the Feywild who have been displaced by the destruction caused by Dallim and his Unweavers. The inhabitants of Seldoris are not happy to be sharing resources with the refugees, and many of the citizens believe that they are destroying the balance with nature in Seldoris.
+
+Many Seldorians, including some of the Seldori themselves, are beseeching Harmonia to do something about the Unweavers, but she is unable to interfere since the Feywild is technically part of the mortal world and the abdication accords forbid her from interfering.
+
+The Unweavers:
+The group that is currently marauding across the Feywild raiding settlements to convert people to their cause of creating a new magical order. Their Leader, Dallim, is from Castellum, where he traveled into the Fey wilds and gained Wild Magic abilities. He took this as a sign from the universe that he was chosen to bring about a new order of magic by destroying the current Harmonia-Weave model. All members of the Unweavers that have embraced the wild fey magic can be incredibly volatile with mood swings and multiple personalities.
+
+The Unweavers ultimate goal is to gain enough followers to travel to Arborea and kill Harmonia.
+
+Utu's brother, Hama is a high-ranking member of the Unweavers that has been corrupted by Dallim's teachings.
+
+Quests in Arborea:
+Lost Kin: An elven refugee woman asks the party for help. When she and her family traveled through the portal to Seldoris, the casting was interrupted, and they were lost somewhere on the plane. The woman mentions how none of the Arboreans will listen to any of the refugees about this, but may know more.
+
+If the party finds any Wood or Sea elf rangers, they know about an Olympian camp near the Olympian Ruins by Lake Goneril. The Olympians are known to capture travelers to eat, and could be where the refugees are. The rangers aren't willing to risk their lives to rescue the refugees.
+
+A portal from Grandfather Oak can take the party to a nearby ruined village near Lake Goneril. While traveling through the woods to the ruins, the party encounters:
+
+D6:
+1-2: 3 Gorgons
+3-4: 3 Medusae
+5-6: 3 Chimeras
+
+The actual camp near the ruins has a Cyclops Oracle and a Cyclops Sentry and multiple cages of refugees that they are in the process of eating.
+
+Whispers of War:
+Upon taking the refugees back to Grandfather Oak, Esylra takes note of the party and invites them to her home. She tells them a bit more about the refugee crisis. She has another issue with the refugees in Grandfather Oak. She has heard word that some of them may be planning some sort of violence and she wants the party to investigate it a bit further.
+
+If the party can successfully talk to a few refugees, they uncover a small cell of Unweavers among the refugee camps here.
+
+They can choose what to do with them. If they don't find the Unweavers, in a day, they attack Esylra's home.
+
+The Unweavers are disguised, but they can be identified by their strange erratic behavior.
+
+The Council:
+After uncovering the Unweaver plot, Esylra asks the party to travel to Harmonia's Tower with her to inform Harmonia and to ask her to do more about the Unweavers.
+
+Teleporting to Arborea:
+Harmonia forbids teleportation directly to her tower. Instead, the teleportation is deflected. Roll d10
+1 - Ingmar Brook
+2 - Sparkling Sea
+3 - Sleeping Giant's Hill
+4 - Sea Elf Grotto
+5 - Silverflow River
+6 - Lothlorn River
+7 - Lolth's Grove
+8 - Hanir's Manor
+9 - Grandfather Oak
+10 - Aubade Palace
+
+NPC Names:
+Refugees:
+- Kilyn
+- Nasir
+- Adresin
+- Arryn
+- Pelleas
+- Venali
+Arboreans:
+- Elred
+- Paris
+- Arthion
+- Fanira
+- Celwyn
+- Ritora

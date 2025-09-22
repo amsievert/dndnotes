@@ -1,4 +1,4 @@
-Current Day: 9th Friga, 2519 PS
+Current Day: 16th Friga, 2519 PS
 
 Hades:
 The party is spit out on a black sand beach on the edge of a pale, sluggish river. Undead ferrymen navigate gondolas up and down the river. The sky is overcast with a pale, sickly green. The air is at a weird point of being cold and warm at the same time. It feels like having a fever.

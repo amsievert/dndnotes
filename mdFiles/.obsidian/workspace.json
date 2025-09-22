@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Last Act of the Chronarch/Session 7.md",
+                "file": "The Last Act of the Chronarch/Session 11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 7"
+              "title": "Session 11"
             }
           }
         ]
@@ -178,12 +178,20 @@
   },
   "active": "f7aceb0a6576c232",
   "lastOpenFiles": [
-    "The Last Act of the Chronarch/Session 6.md",
+    "The Last Act of the Chronarch/Session 10.md",
+    "The Last Act of the Chronarch/Session 11.md",
+    "The Last Act of the Chronarch/Session 9.md",
+    "The Last Act of the Chronarch/Session 8.md",
+    "Images/Untitled.md",
+    "Images/Power Puzzle.png",
+    "Images/Alystri Family Tree.png",
+    "The Last Act of the Chronarch/Session 2.md",
     "The Last Act of the Chronarch/Session 7.md",
+    "The Last Act of the Chronarch/Untitled",
+    "The Last Act of the Chronarch/Session 6.md",
     "The Last Act of the Chronarch/Session 5.md",
     "The Last Act of the Chronarch/Session 4.md",
     "The Last Act of the Chronarch/Session 3.md",
-    "The Last Act of the Chronarch/Session 2.md",
     "The Last Act of the Chronarch/Session 1.md",
     "The Last Act of the Chronarch/Overview.md",
     "The Return of Ileus/Session 62.md",
@@ -200,20 +208,13 @@
     "The Return of Ileus/Session 52.md",
     "The Return of Ileus/Session 51.md",
     "The Return of Ileus/Session 50.md",
-    "The Return of Ileus/Session 49.md",
-    "The Return of Ileus/Session 48.md",
-    "The Return of Ileus/Session 47.md",
-    "The Return of Ileus/Session 46.md",
     "The Return of Ileus/Untitled",
-    "The Return of Ileus/Session 45.md",
-    "Images/Alystri Family Tree.png",
     "Images",
     "The Return of Ileus",
     "Planes/Mount Celestia",
     "Planes/Arborea",
     "Argena/Tilarien/Sylarii",
     "Argena/Chandaria/Nations/No'zaral/Welbenwallow Province",
-    "Planes/Elysium/Belierin",
-    "Planes/Elysium/Eronia"
+    "Planes/Elysium/Belierin"
   ]
 }

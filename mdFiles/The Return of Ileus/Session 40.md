@@ -1,4 +1,4 @@
-Day: 24th of Otun, 2519 PS
+Day: 27th of Otun, 2519 PS
 
 The Siege
 The siege of Rhugnurt has been ongoing for about a tenday and a half. The Larenthian forces remain camped at the bottom of Mount Thogrin. Attempts to attack the city via the Winding Road have been completely unsuccessful, as it takes only a handful of giants to block the road. Every day, boulders are hurled off the top of Mount Thogrin and crash down onto the Larenthian Camp. Morale is running thin.
@@ -17,7 +17,9 @@ Deep beneath a mountain near Mount Smedr, an ancient emerald dragon named Knogli
 
 In the modern day, he knows the locations of all of the Relics or at least where the plot hook for each one is. He can be reasoned with by the party to get some of his knowledge.
 
-Traveling back to Rodigia:
-Near the top of the mountain pass on the Rodigian border, the party once again passes the cave mouth where the sound of mining can be heard. Unlike last time, it sounds like there are many people now mining in the cave. If the party investigates, they find many stone giants inside mining away at harmonium crystals. Harmonium is used across the world in magic item crafting and spellcasting. It can be used as a substitute for material components, and makes enchanting magic items take less time. The giants are more defensive this time, as the crystals are being used in the fight against Larenthia.
-
 Further down the road, in the valley, there is a party of stone giant civilians kneeling in front of a bunch of Larenthian soldiers. There are dead stone giant troops around the group. The soldiers appear to be questioning and then killing the stone giant civilians. The soldiers are looking for something called Camp Kunir. Camp Kunir is a hidden giant refuge hidden inside a large cave near to the ambush site. The cave is very similar to the cave camp in Ghost Recon Breakpoint.
+
+The soldiers are 1 Hobgoblin Warlord (Human) and 10 Thugs
+
+Camp Kunir:
+Camp Kunir is a hidden giant refuge in the mountains near Rhugnurt. The camp is home to mostly displaced citizens. That's how it started. Recently, the de facto leader of the camp, Rhegan, decided to harbor some Rodigian Militia soldiers, who proceeded to attack Larenthian soldiers in the surrounding area. Many of the citizens in Kunir blame Rhegan and the militia members for bringing trouble to the camp.

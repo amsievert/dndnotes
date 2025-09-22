@@ -1,4 +1,4 @@
-Day: 24th of Otun, 2519 PS
+Day: 29th of Otun, 2519 PS
 
 The Siege
 The siege of Rhugnurt has been ongoing for about a tenday and a half. The Larenthian forces remain camped at the bottom of Mount Thogrin. Attempts to attack the city via the Winding Road have been completely unsuccessful, as it takes only a handful of giants to block the road. Every day, boulders are hurled off the top of Mount Thogrin and crash down onto the Larenthian Camp. Morale is running thin.
@@ -17,7 +17,17 @@ Deep beneath a mountain near Mount Smedr, an ancient emerald dragon named Knogli
 
 In the modern day, he knows the locations of all of the Relics or at least where the plot hook for each one is. He can be reasoned with by the party to get some of his knowledge.
 
-Traveling back to Rodigia:
-Near the top of the mountain pass on the Rodigian border, the party once again passes the cave mouth where the sound of mining can be heard. Unlike last time, it sounds like there are many people now mining in the cave. If the party investigates, they find many stone giants inside mining away at harmonium crystals. Harmonium is used across the world in magic item crafting and spellcasting. It can be used as a substitute for material components, and makes enchanting magic items take less time. The giants are more defensive this time, as the crystals are being used in the fight against Larenthia.
+Siege Camp
+The siege camp at this point consists of about 35,000 soldiers (5,000 have died assaulting Rhugnurt so far). The general's tent is within a small palisade at the center of the large camp. The camp is surprisingly well kept, which upon closer inspection is because of a team of apprentice wizards that go around casting prestidigitation of everything.
 
-Further down the road, in the valley, there is a party of stone giant civilians kneeling in front of a bunch of Larenthian soldiers. There are dead stone giant troops around the group. The soldiers appear to be questioning and then killing the stone giant civilians. The soldiers are looking for something called Camp Kunir. Camp Kunir is a hidden giant refuge hidden inside a large cave near to the ambush site. The cave is very similar to the cave camp in Ghost Recon Breakpoint.
+There are big open wedding-style tents scattered throughout the camp where the quartermasters work. The quartermasters are all wizards, who use magic to create food and water for the soldiers.
+
+Higher ranking soldiers patrol the camp, monitoring activity.
+
+Every once in a while, a very high-ranking wizard walks through. The soldiers, even the high ranking ones, are scared of them. These wizards work directly with the general as part of a special operations team. Their tents are inside the inner palisade.
+
+The wall of the inner palisade is made of large sharpened tree trunks stuck into the ground. It has one entrance, which is guarded by a few elite soldiers, who are specially trained to deal with magic users.
+
+General Smil and his other lieutenants have a war room where they plan all of their operations. Currently they are working on three things. The first, they are searching for some sort of lift up the mountain. They figure that there must be some way for the giants to get large shipments up to the city without taking the winding road. The second, they are trying to find a way to possibly attack from above via some sort of flying technology. The third, they are brainstorming ways to attack from the winding road without taking the heavy casualties that they already have.
+
+General Smil and his closest lieutenants are the only ones that know that Cavius/Ileus came along with the army. He has been helping slightly via sending spells, but beyond that they have no idea what he is doing, only that he headed out towards Mount Smedr.

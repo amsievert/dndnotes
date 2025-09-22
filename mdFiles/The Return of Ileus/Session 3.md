@@ -1,0 +1,3 @@
+Day: 24th of Florum, 2519 PS
+
+Owlbear Enclave is located around a small babbling brook that runs through the center of town. The brook is used to spin mill wheels and also to drive machines that assist in the stripping of pelts for feathers. There is one master harvester in the village that extracts the livers from the beasts and sells them to alchemists. A lot of them are sent off to Wizendell. Most of the buildings in the village

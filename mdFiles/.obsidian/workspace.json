@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/The Return of Ileus/Locations/Holfirth.md",
+                "file": "Books/Diary of Ileus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Holfirth"
+              "title": "Diary of Ileus"
             }
           }
         ]
@@ -161,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,8 +177,13 @@
   },
   "active": "f7aceb0a6576c232",
   "lastOpenFiles": [
-    "Campaign Notes/The Return of Ileus/Locations/Solar Sanctum.md",
+    "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Hullingsbrook.md",
+    "Books/Diary of Ileus.md",
+    "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Galvenport.md",
+    "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Cabalman Run.md",
+    "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Bippenbol.md",
     "Campaign Notes/The Return of Ileus/Locations/Holfirth.md",
+    "Campaign Notes/The Return of Ileus/Locations/Solar Sanctum.md",
     "Campaign Notes/The Return of Ileus/Locations/Dire Wolf Grotto.md",
     "Campaign Notes/The Return of Ileus/Locations/The Solar Nexus.md",
     "Campaign Notes/The Return of Ileus/Locations/Owlbear Enclave.md",
@@ -202,11 +206,6 @@
     "Campaign Notes/The Last Act of the Chronarch/Session 13.md",
     "Untitled.md",
     "Campaign Notes/The Last Act of the Chronarch/Session 12.md",
-    "Campaign Notes/The Last Act of the Chronarch/Session 11.md",
-    "Campaign Notes/The Last Act of the Chronarch/Session 10.md",
-    "Campaign Notes/The Last Act of the Chronarch/Session 9.md",
-    "Campaign Notes/The Last Act of the Chronarch/Session 8.md",
-    "Images/Untitled.md",
     "Images/Power Puzzle.png",
     "Images/Alystri Family Tree.png",
     "The Last Act of the Chronarch/Untitled",

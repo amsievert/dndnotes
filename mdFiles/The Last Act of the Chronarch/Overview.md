@@ -20,3 +20,9 @@ Act 2: After defeating the leader of the deforestation company, the party finds 
 
 Act 3: The party begins travelling extraplanar to find the Void Seal. Eventually they encounter Tanaeus in the flesh and fight him. If defeated, he begs for mercy and tries to tell the party what's really going on with the Chronarch. With the Void Seal in their possession, they can either choose to spare Tanaeus and work with him against the Chronarch, or kill him and trust the Chronarch. Either way the Chronarch does end up betraying them, and they must kill him to stop the ritual.
 
+PC Notes:
+- Clive McDougal (Anya) - Aasimar Barbarian. Teenager, looking for parents and learning about the world.
+- Clint Orsus (Beau) - Scribes Wizard. Trying to gain favor with Arcane Assembly. Love interest poisoned by best friend. Building portfolio.
+- Barb Dwyer (Sierra) - Tiefling Barbarian. Trying to make money to send back to kids. Runs fake potion business. Used to be a hitman.
+- Drow (Nat) - Grungy drow punk bard. Searching for items to extend the life of human lover.
+- Rango Jenkins (Matt) - Lizardfolk Druid. Searching for cure to diseased Elderbark trees and explanation for his powers.

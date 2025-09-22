@@ -1,24 +1,3 @@
-Current Day: 6th of Planimor, 2519 PS
-
-The Bottom Floor - Forbidden Archive
-
-The cage elevator stops in another large hall. This one has almost nothing in it. It is very dim, with glowing murals depicting the falls of the Ancient Archmages. There is a beholder here that is unavoidable, as they see the elevator as soon as it lands on the floor. Behind them is an arched doorway with large stone doors, locked with a weirdly-shaped lock. Dark energy seems to spill out from behind the doors.
-
-As the elevator reaches the bottom, a sending spell is broadcasted through the sending stone stolen from the guards in the Atrium. Bing calls out through the spell saying that he's getting overwhelmed by SCMMs.
-
-The beholder's name is Qaamdukarsi, Keeper of Tomes. He guards the Forbidden Archive and holds the key to the doors, a strange icosahedron that he keeps on a string around one of his eye stalks. It is said that Qaamdurkarsi knows every single book in the entire Sanctum Arcana, and that the dark energy of the Forbidden Archive has corrupted his mind by feeding and mutating it into thinking that without the books of the Sanctum he would die.
-
-After the beholder is defeated, its body can be looted for the key to the locked door. Inside is a dark hallway that leads to the Library of the Damned. Upon entering this room, the characters feel oppressed by the energy in the room. Most of the books in here are chained shut, and there are glyphs of warding that activate when a knock spell is cast in the room. This is where the book is that details the story of the Spear of the Blood Chief.
-
-Good Monsters to fight in Abyss: Yuan-ti Anathema, Marilith, Barlgura, Chasme, Dinosaurs?
-
-The outside of The Palace of betrayal is guarded by an ice devil
-
-The inside is guarded by an erinyes
-
-Sigil:
-Back in the Bottle and Jug, there is a new challenger to the Champion of the Arena. It is the Githzerai Zerth named K'lish from Galvenport.
-
 Abyss Encounters:
 After wandering around in the Gaping Maw for a little while, the party hears screams coming from somewhere a little ways off. In a small clearing, a Glabrezu and a Barlgura stand around a metal cage with a gnome man inside. The Glabrezu continuously casts Heat Metal on the cage, and both of the demons laugh to themselves as the gnome writhes in pain. The gnome is actually just the soul of a man who's soul accidentally ended up in the Abyss. His name is Bembenbrank Stumpenbump. He knows of a group of paladins and clerics that came through earlier on some sort of expedition.
 
@@ -38,6 +17,19 @@ Further down the correct path, it looks as though the party was attacked again, 
 
 Halfway through the interrogation, a blood rain starts, and the party must protect the tiefling, or she will die from the acidic rain.
 
-At the end of the path, is a small camp where Sir Jorik and 4 cambions are resting, healing from their wounds. The clerics want to spare and redeem Sir Jorik, but the tiefling really wants him dead.
+At the end of the path, is a small camp where Sir Jorik and 2 cambions and 2 merregons are resting, healing from their wounds. The clerics want to spare and redeem Sir Jorik, but the tiefling really wants him dead.
 
 If spared, Sir Jorik knows exactly where Virezzara is, otherwise he blurts out something about an Obsidian Tower before he dies.
+
+Virezzara is at the nearest abandoned Obsidian Palace. She is in the basement setting up another ritual with her Bulezau minion (minion only there if paladins still alive).
+
+Now that Virezzara is dead, the priests will help the party break into the the Palace of Betrayal. The priests repay the party by telling them about the Scar of the Penitents. There is a small fissure in the rock that makes up the base of the palace. It was allegedly made by a prisoner attempting to break out of the palace who was betrayed and killed as soon as he escaped. Voices echo inside the passage that remind the party members of their betrayals and regrets.
+- Astarius: The voices remind him about his sister and how he betrayed her by leaving, only to come back and get her killed.
+- Utu: The voices remind him about how his whole village was destroyed by wizards yet he works alongside wizards and didn't burn down the Sanctum, betraying his home.
+- Holfog: The voices remind him about how he is betraying his family by doing evil things without even getting money from it.
+- Helia: The voices remind her about how she betrayed her whole village by learning magic and betrayed Pylantos by not being there when he died
+- Saraq: The voices remind him about how he abandoned his tribe and his mother, leaving her to get usurped by the other families.
+
+Once inside the palace, the party is in the dungeon. Here, there is a wraith that offers to guide them through the palace, at a certain point, the wraith betrays them and 2 more wraiths ambush the party.
+
+Outside Berzir's throne room is an indoor garden with gross-looking, overgrown thorn plants. An Erinyes guards the gates to the throne room. She asks the party who they are and what they are here for. If any lies are told in the presence of the plants, the start growing out towards the source of the lie. The Erinyes' name is Tholak, and she is here because she is also a pact breaker from the Scourge. There is a small chance that she can be persuaded to betray Berzir, in which case he has a Goristro underling that the Erinyes takes out by tackling it out the giant stained-glass window behind Berzir's throne. If pissed off, she will fight the party however.

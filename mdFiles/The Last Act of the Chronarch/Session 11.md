@@ -57,3 +57,6 @@ Resolution:
 Once a suspect is found, they can be reported to the No'zaral overseers, since they work independently of the city's authority. They work instead for the Free Congress of No'zaral, and will arrest the suspect.
 
 If the party is ever at Seris Durn's house, Elminster Lysander is also there. He turns invisible and spies on the party while they are in Seris's house.
+
+Greta Stonechild's Mansion:
+Inside the Stonechild estate is another honeycomb bootprint. It might seem like evidence that Greta is the killer, but rather, Greta is the next victim of Seris Durn and Cel. If the wrong suspect is accused or too much time is taken on investigating, Greta will be killed by Cel too.

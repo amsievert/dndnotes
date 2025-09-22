@@ -1,4 +1,4 @@
-Current Day: 13th of Otun, 2519 PS
+Day: 19th of Otun, 2519 PS
 
 The Army
 The army of 45,000 marching through the desert will eventually reach Rodigia. From there they besiege Rhugnurt. While being a distraction for Ileus, all of the soldiers and commanders still believe that this is a real siege. Their goal is to sack the city in a show of power to intimidate the Mountain King into entering into a pact alliance with Larenthia, and to turn over all of Rodigia's key exports to Larenthian merchants to prevent another "attack".
@@ -9,7 +9,7 @@ The Meridan Rocc Conspiracy:
 Meridan Rocc has the Gladiator stat block. However, along with the help of the hidden Rocc child Jess Rocc and the Night Stalkers, they have been sacrificing people to Artanor beneath the Rocc mansion and siphoning their life force to strengthen Meridan. They must do this every few days to keep the buff active. While buffed in this way, Meridan is resistant to all damage and heals 10hp per round. This conspiracy is the reason for the ongoing abductions by the Night Stalkers.
 
 The Laboratory:
-Hidden beneath the Rocc Manor, Jess Rocc's laboratory toils away. It is accessed by pulling a book labelled The Rituals of Artanor. A secret staircase opens up and leads down to the Lab. Jess Rocc works down there day and night, researching rituals to make Meridan stronger. There are a few people down in the Lab in cages, awaiting sacrifice. Jess Rocc has the [Cult Leader](https://www.5esrd.com/database/creature/cult-leader-3pp/) stat block, and he has 4 cult fanatics that work with him.
+Hidden beneath the Rocc Manor, Jess Rocc's laboratory toils away. It is accessed by pulling a book labelled The Rituals of Artanor. A secret staircase opens up and leads down to the Lab. Jess Rocc works down there day and night, researching rituals to make Meridan stronger. There are a few people down in the Lab in cages, awaiting sacrifice. Jess Rocc has the [Cult Leader](https://www.5esrd.com/database/creature/cult-leader-3pp/) stat block, and he has 3 cult fanatics that work with him.
 
 Troubled Waters:
 Since Reev Rocc got in power, the Rocc's fishing waters have slowly been expanding, taking over the waters of the other houses. Houses Mason and Pili are sequestered to tiny parts of Dalonstor's waters. House Alystri still has reasonable waters, but House Rocc is slowly claiming more and more. This normally wouldn't be allowed, but since Siobhan Rocc runs the Fishing Guild, she controls all documents of official fishing lands, and these conveniently change for House Rocc. Alystri fishing ships near the borders are being attacked and sunk by Rocc warships. The Alystris have lost 2 of their warships to the superior Rocc warships.
@@ -21,25 +21,13 @@ Resources:
 The Alystris have 3 warships (1 with 4 cannons instead of 2 mangonels) and 10 Keelboats (Fishing boats). The Roccs have 8 warships (4 with 4 cannons instead of 2 mangonels) and 30 Keelboats. All of the Rocc warships have the Defiant Sails upgrade (All ranged attacks against the ships and crew are at disadvantage).
 
 Steward's Council Members:
-Mayor: Reev Rocc
-Arena Champion: Meridan Rocc
-Watch Captain: Sable Rocc
-Fishing Guild: Siobhan Rocc
-Ship Guild: Robert Rocc
-
-The Convoy:
-During the very early morning of the 10th of Otun, 4 Cultists of Artanor and Jess Rocc travel to the Nightstalker HQ to renew the powers of the Nightstalkers. They travel surrounded by 4 Nightstalkers. Jess Rocc is also concentrating on Circle of Power the whole time.
-
-Jess Rocc:
-Jess Rocc has the [Cult Leader](https://www.5esrd.com/database/creature/cult-leader-3pp/) stat block. He is a 9th level spellcaster and has the following spells prepared:
-Level 1 (4): Bane, Inflict Wounds, Shield of Faith, Healing Word, Faerie Fire, Sleep
-Level 2 (3): Hold Person, Silence, Spiritual Weapon, Moonbeam, See Invisibility
-Level 3 (3): Revivify, Spirit Guardians, Dispel Magic, Aura of Vitality, Tiny Hut
-Level 4 (3): Banishment, Divination, Dimension Door, Aura of Life, Greater Invisibility
-Level 5 (1): Mass Cure Wounds, Circle of Power, Mislead
+Mayor: Reev Rocc (Warlord)
+Arena Champion: Meridan Rocc (Gladiator)
+Watch Captain: Sable Rocc (Blackguard)
+Fishing Guild: Siobhan Rocc (Martial Arts Adept)
+Ship Guild: Robert Rocc (Transmutation Wizard)
 
 Knoglir, the All-Knowing:
 Deep beneath a mountain near Mount Smedr, an ancient emerald dragon named Knoglir, the All-Knowing. He hoards knowledge rather than treasure. He has been alive since before the Dissension, staying alive by mostly hiding beneath an Illusion in his mountain lair. However, he was friends with Epius the Archmage of Transmutation. Epius worked in the forge of Mount Smedr for a bit, and Knoglir became friends with him during that time. Knoglir learned a lot from Epius, keeping it all safe in his perfect memory. After the scourge, Knoglir made a deal with Uvira to keep an eye on Epius's forge. In his free time, Knoglir also began collecting knowledge on everything about the Dissension that he had not learned from Epius, this included information on the locations of the Relics of Dissension.
 
 In the modern day, he knows the locations of all of the Relics or at least where the plot hook for each one is. He can be reasoned with by the party to get some of his knowledge.
-

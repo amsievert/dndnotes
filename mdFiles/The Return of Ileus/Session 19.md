@@ -1,4 +1,5 @@
-Day: 19th of Aestia, 2519 PS
+Day: 30th of Aestia, 2519 PS
+
 Galvenport Larold Quest:
 
 Overview: Larold the Merchant travelled to Galvenport to deliver his shipment of Zephyr Armor. He was supposed to drop his shipment off at the Divinaire Academy Campus, but never made it there. His shipment was stopped by the Constabulary, and they sent for Head Archivist Mathias Ilacrous to inspect the magic items. He determined that they needed to be further tested at the Grand Archives. Before the shipment made it to the archives, it was again stolen, and Larold disappeared. The official account is that Larold ran off with the goods, but in reality, Ilacrous hired some goons to stage a theft so that Ilacrous could turn the goods into Ileus's Simulacrum, Cavius.
@@ -62,3 +63,44 @@ Drugs:
 
 - Faerie's Wing:
 	- This drug is a small dried out tab that is placed on the tongue. When taken, it makes the user feel happy, carefree, joyful, and light as air. It gives the user the effect of the Featherfall spell for 30 minutes. However, the user feels as if they have feather fall for around 2 hours.
+
+Armored Wagon Heist:
+On the 20th of Aestia around midday, the Armored Wagon returns from Holfirth. The convoy consists of 3 covered wagons. The canvas covering the wagons displays the sigil of the Treasury Office. The safe containing the coins is in one of the wagons, but it changes up based on the trip so it's harder to rob. Each wagon has 4 guards on it, 2 driving and 2 sitting in the back. There are also 4 additional guards on horses that accompany the caravan. Each guard is wearing half plate armor with a shield (18 AC) and has a spear and longsword. The caravan heads in through the town gates without issue and then heads straight to the Treasury. All of the guards and wagons enter through the back garage door and then head inside from there.
+
+After about an hour, all of the guards leave the Treasury. The guard who was driving the money wagon is named Philo Teeta. He is a male half-elf with short cropped blond hair and slight stubble. He has a medium build and is very loved by everyone because he's very charismatic and funny.
+
+He lives in the middle-class houses to the north of the Inner Locks. His house is a very standard suburban house. He has a wife that lives with him and owns a home business selling flowers.
+
+If pressured enough, he will reveal that he was one of the drivers that made the delivery to Holfirth right after the siege. Shaffer told them to wait to deliver the money until he told them to leave. Shaffer didn't give a reason, just "because I said so". Philo has access to the back door of the Treasury and clearance to get to the second floor of the building. Through further persuading he will help the party break in. He tells the party that no one is in the building at night and that there are security measures inside the building, so if they were able to get through the guards they could get in. Or during the day, they could try to bluff their way in with his clearance to the second floor.
+
+Information from interrogation of Philo:
+
+- Made delivery to Holfirth right after the Siege
+- The drivers were set to deliver the normal payment for Soltide, but Councilman Gerald Shaffer, the boss, told them to wait to leave until he said so
+- Shaffer didn't give a reason for waiting. "Because he said so"
+- Philo has access to the back door of the Treasury
+- Philo also has clearance to access the second floor.
+- Between the first and second floor in the back of the Treasury is another security checkpoint
+- The driver's lounge is on the second floor
+
+Further/more intense interrogation
+
+- There is almost no one inside the treasury at night, but there are more guards outside and they are more vigilant
+- No one is allowed to go in through any of the doors at night however
+- During the day there are less guards outside and they are more lax, but there are people working in the treasury
+
+Information regarding Cavius II:
+
+"Cavius II" is what I'm calling Ileus's simulacrum that is terrorizing Galvenport. The mechanics behind the simulacrum work slightly different than an actual simulacrum. This modified simulacrum has been modified by Ileus since he is an Ancient Archmage and literally played a part in creating the Illusion school of magic. Ileus gave the simulacrum the name "Cavius" after his apprentice from long ago. Ileus is not aware that the real Cavius's soul lives on in the Ring of Mind Shielding. Cavius II is slightly different from a normal simulacrum in the sense that he regenerates spell slots like a normal character, and can heal himself using the gold to hit point exchange of a normal simulacrum. If killed, he will turn to snow and ash just like a normal simulacrum. Ileus imbued Cavius II with an exact replica of his mind, so Cavius II and Ileus share the exact same personality. Because of this mental link, Ileus is able to remotely take control of Cavius II if he chooses.
+
+Cavius II, acting mostly of his own accord, has infiltrated deep into the Larenthian Government. Through deception, blackmail, and manipulation, he has gotten into a spot where he is trusted by some people in the government, and under the table he is also blackmailing people into doing his dirty work. Chief Alfir trusts him a lot, as does Dormar Talovol, the head diviner of the alliance and the headmaster of the Divinaire Institute.
+
+Cavius II has been infiltrating the Larenthian government for around a year now, and people in the government know about him, but he isn't on any official government records. He doesn't hold an official position of power, and some people think he is just a rumor. He is very much real though, and is arguably more influential than the Chief, at least in Galvenport politics.
+
+He lives in a secret room in the grand study of the Platinum Palace, given to him by Chief Alfir. Alfir himself is very secretive about his relationship with Cavius II.
+
+Places where Cavius II's influence can be found:
+
+- Investigating Mathias Ilacrous at the grand archives would reveal that he has notes Cavius II promising to get him ancient tomes and knowledge in exchange for Larold's Zephyr Armor shipment. Mathias Ilacrous is happily working with Cavius II because he is a seeker of knowledge above all, and isn't scared to do bad things to get it.
+- Investigating Gerald Shaffer at the Federation Treasury will turn up documents in a hidden drawer of Shaffer's desk in his office that are blackmail notes from Cavius II, threatening his family and his position on the Mercantable. Cavius II told Shaffer to withhold the guard payments from Holfirth until after the siege, which Shaffer did reluctantly.
+- Investigating Larold's file will show that Larold's shipment was robbed on its way to the Grand Archives. It details the location of the robbery, a side street in the neighborhood around the Divinaire Campus and the Grand Archives. It also says that the official report is that Larold ran off with the shipment, in order to save face with Ilacrous, because the Constabulary were supposed to guard the shipment on its way.

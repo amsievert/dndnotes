@@ -14,6 +14,12 @@ Narrow lanes and stacked rowhouses for laborers and small-scale cooperatives. Lo
 #### The Green Belt
 An entire ring dedicated to nature. Salt-tolerant fields and orchards produce food for the city.
 #### Scholar's Reach
-Island to the north in the bay that has the 
+Island to the north in the bay that has the Libertas University.
 
 ### Government
+#### The Round
+The governing council over all of No'zaral. One elected official per neighborhood. Terms are short and staggered. Meetings are public in the open forum in the Civic Ring.
+#### The Waveguard
+The city's navy that is also the nation's navy. Professional military with elected admiral.
+#### The Commonguard
+The city watch that consists of volunteer citizenry that enforce the laws. answerable to the Round.

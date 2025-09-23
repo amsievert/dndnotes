@@ -25,3 +25,5 @@ For the second night, the party camps in a cave in the rocks. Inside the cave ar
 On the third day, before reaching Jequith, the party encounters Jeff the Cronds salesman on the side of the road. He is trying to save up enough money to set up a stand in the city.
 
 Late in the third day the party reaches [[Jequith]].
+
+A

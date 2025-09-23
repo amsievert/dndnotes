@@ -3,3 +3,5 @@ In her note from the tower, Vhal mentions that her Magnum Opus is hidden within 
 
 However, sometime during the Age of Peace, local explorers stumbled upon Vhal's laboratory and alerted higher authorities, who took the Void Seal and separated it into pieces and sent these pieces far away from each other. The power of the Void Seal couldn't be completely destroyed however, and even the pieces on their own hold great power. Some of the pieces are on Chandaria while others were sent to other planes. They have since changed hands from the original beings that held them, but they can be tracked down.
 
+**Aftermath of the investigation**
+5 days have past since last session. In that time, Seris's trial has concluded and the 

@@ -110,10 +110,27 @@
             }
           },
           {
-            "id": "323991f4e6420fca",
+            "id": "8473178a86ea5533",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_880a1949ea3b",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 23,
+                    "month": 6,
+                    "year": 2956
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_5af8faea09d8"
+              },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }

@@ -8,4 +8,4 @@ However, sometime during the Age of Peace, local explorers stumbled upon Vhal's 
 
 Also in the 5 days, a memorial is held for Greta Stonechild. Because of what happened to her and the information that was uncovered, the council has rallied behind her and is getting ready to vote to end the contract with Spellhaven. Meriel knows that this is very likely to pass because of the outing of Seris.
 
-Meanwhile, Esther hypothesizes that with the crackdown happening on the Spellhaven deal, Elminster has been forced to slow down 
+Meanwhile, Esther hypothesizes that with the crackdown happening on the Spellhaven deal, Elminster has been forced to stop his plans for a time. However, now that word of the deal ending has been surfacing, he is likely to make a move soon. 

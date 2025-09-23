@@ -20,4 +20,8 @@ On the first night, whoever is keeping watch sees a meteor streak through the sk
 
 On the second day, as the party is traveling through a rocky part of the forest, they all hear a large explosion off in the rocks, followed by maniacal laughter. A gnome named Boomy is experimenting with black powder. He spent some time aboard a Captain Cymara's pirate ship in the Wildlands. Using what he learned about black powder there, he is trying to find a way to manufacture it here. Nearby is a cave with saltpeter crystals, which he is using to make the black powder. He also is trying a new method involving burying and watering his poop and then boiling the resulting crystals.
 
-For the second night, the party camps in a cave in the rocks. Inside the cave are paintings, preserved by the climate controlled environment of the cave. The paintings depict the Age of Dragons. They show a massive lightning storm over the land and people cowering in fear. They also show 
+For the second night, the party camps in a cave in the rocks. Inside the cave are paintings, preserved by the climate controlled environment of the cave. The paintings depict the Age of Dragons. They show a massive lightning storm over the land and people cowering in fear. They also show primitive drawings of dragons flying around using their breath weapons on people. There is also a painting of a massive blue dragon atop a huge pile of gold. There is also evidence of fires that burned in here long ago.
+
+On the third day, before reaching Jequith, the party encounters Jeff the Cronds salesman on the side of the road. He is trying to save up enough money to set up a stand in the city.
+
+Late in the third day the party reaches [[Jequith]].

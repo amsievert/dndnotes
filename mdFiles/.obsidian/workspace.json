@@ -107,29 +107,39 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "99051d6c2e192f38",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "053e293b9005d0ad",
+            "id": "44e8f262fd1078c1",
             "type": "leaf",
             "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_880a1949ea3b",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 23,
+                    "month": 6,
+                    "year": 2955
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_889a8a0b888b"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 651.5
+    "width": 494.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,7 +157,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "6ef43194bad8d855",
+  "active": "b7376f3e6b7d3548",
   "lastOpenFiles": [
     "Campaign Notes/The Last Act of the Chronarch/Session 13.md",
     "Campaign Notes/The Last Act of the Chronarch/Session 14.md",

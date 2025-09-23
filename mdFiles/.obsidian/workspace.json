@@ -87,7 +87,6 @@
       {
         "id": "639fec7a0ec9ebcd",
         "type": "tabs",
-        "dimension": 43.0406852248394,
         "children": [
           {
             "id": "057a9e3f42c083e4",
@@ -108,40 +107,13 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "8473178a86ea5533",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_880a1949ea3b",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 23,
-                    "month": 6,
-                    "year": 2956
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_5af8faea09d8"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "99051d6c2e192f38",
         "type": "tabs",
-        "dimension": 56.95931477516061,
         "children": [
           {
             "id": "053e293b9005d0ad",

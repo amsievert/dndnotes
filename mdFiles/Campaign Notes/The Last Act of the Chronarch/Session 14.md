@@ -6,4 +6,4 @@ However, sometime during the Age of Peace, local explorers stumbled upon Vhal's 
 **Aftermath of the investigation**
 5 days have past since last session. In that time, Seris's trial has concluded and the sentencing happens in the Perpetual Plaza. Overseer Oswald carries out the sentencing: "Seris Durn, you have been found guilty of Conspiracy to Murder, Bribery, Fraud, and Treason of the highest order. You are hereby stripped of your position on the Welbenwallow Council and are banished from the Free Republic of No'zaral. This sentence is effective immediately." Seris is also branded with the mark of treason. 
 
-Also in the 5 days, a memorial is held for 
+Also in the 5 days, a memorial is held for Greta Stonechild. Because of what happened to her and the information that was uncovered, the council has rallied behind her and is getting ready to vote to end the contract with Spellhaven and 

@@ -1,0 +1,1 @@
+Jequith is built over the water in Umeqen Bay. Much of the city is connected with canals. 

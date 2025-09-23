@@ -14,4 +14,8 @@ Meanwhile, Esther hypothesizes that with the crackdown happening on the Spellhav
 Heading south from Welbenwallow, the party arrives at Jequith in two and a half days.
 
 Travel Encounters:
-Halfway through the first day, another adventuring party walks past on the road. There are 4 of them in the group: Dram (Goliath Barbarian), Armyn (Elven Wizard), Delilah (Human Fighter), Bump (Halfling Rogue). They call themselves MXB because of the line that is made by their heights when they stand next to each other. These are the people thatn
+Halfway through the first day, another adventuring party walks past on the road. There are 4 of them in the group: Dram (Goliath Barbarian), Armyn (Elven Wizard), Delilah (Human Fighter), Bump (Halfling Rogue). They call themselves MXB because of the line that is made by their heights when they stand next to each other. These are the people that killed Roular and Jeff.
+
+On the first night, whoever is keeping watch sees a meteor streak through the sky towards the Eternal Scorch. If they succeed on a DC 15 perception check, they see a dragon racing after the meteor through the sky. 
+
+On the second day, 

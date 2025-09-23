@@ -18,4 +18,4 @@ Halfway through the first day, another adventuring party walks past on the road.
 
 On the first night, whoever is keeping watch sees a meteor streak through the sky towards the Eternal Scorch. If they succeed on a DC 15 perception check, they see a dragon racing after the meteor through the sky. 
 
-On the second day, 
+On the second day, as the party is traveling through a rocky part of the forest, they all hear a large explosion off in the rocks, followed by 

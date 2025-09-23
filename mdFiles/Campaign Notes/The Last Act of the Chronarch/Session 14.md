@@ -18,4 +18,4 @@ Halfway through the first day, another adventuring party walks past on the road.
 
 On the first night, whoever is keeping watch sees a meteor streak through the sky towards the Eternal Scorch. If they succeed on a DC 15 perception check, they see a dragon racing after the meteor through the sky. 
 
-On the second day, as the party is traveling through a rocky part of the forest, they all hear a large explosion off in the rocks, followed by 
+On the second day, as the party is traveling through a rocky part of the forest, they all hear a large explosion off in the rocks, followed by maniacal laughter. A gnome named Boomy is experimenting with black powder. He spent some time aboard a Captain Cymara's pirate ship in the Wildlands. Using what he learned about black powder there, he is trying to find a way to manufacture it here. Nearby is a cave with saltpeter crystals, which he is using to make the black powder. He also is trying a new method involving burying and watering 

@@ -18,6 +18,8 @@ One of the refugees that the party can meet is **Pelleas**, who is secretly an U
 
 The Cell is being led by Utu's brother Hama. He is the one that leads the attack on Esylra's home.
 
+They call Esylra outside and threaten her to take them to Harmonia or they will kill her. They claim that they use a different type of magic that she is not immune to.
+
 The Council:
 After uncovering the Unweaver plot, Esylra asks the party to travel to Harmonia's Tower with her to inform Harmonia and to ask her to do more about the Unweavers.
 

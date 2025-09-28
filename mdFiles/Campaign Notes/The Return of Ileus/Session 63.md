@@ -9,6 +9,9 @@ They can choose what to do with them. If they don't find the Unweavers, in a day
 
 The Unweavers are disguised, but they can be identified by their strange erratic behavior.
 
+There are three refugees identified by others that might be suspicious:
+One of the refugees that the party can meet is Pelleas, who is secretly an Unweaver. He was seen by Venali near Esylra's mansion
+
 The Cell is being led by Utu's brother Hama. He is the one that leads the attack on Esylra's home.
 
 The Council:
@@ -30,7 +33,7 @@ Refugees:
 - Nasir - Father of lost family
 - Adresin
 - Arryn
-- Pelleas
+- Pelleas - Secret Unweaver
 - Venali
 Arboreans:
 - Elred

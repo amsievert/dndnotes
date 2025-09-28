@@ -12,7 +12,9 @@ The Unweavers are disguised, but they can be identified by their strange erratic
 There are three refugees identified by others that might be suspicious:
 One of the refugees that the party can meet is **Pelleas**, who is secretly an Unweaver. He was seen by Venali near Esylra's mansion.
 
-**Venali** is suspicious because he has recently gained a lot of money. In reality, 
+**Venali** is suspicious because he has recently gained a lot of money. In reality, he found an old stash of money in the woods nearby.
+
+**Fanira** is susp
 
 The Cell is being led by Utu's brother Hama. He is the one that leads the attack on Esylra's home.
 
@@ -37,11 +39,11 @@ Refugees:
 - Arryn
 - Pelleas - Secret Unweaver
 - Venali - Suspicious refugee
+- Fanira - Suspicious refugee 
 Arboreans:
 - Elred
 - Paris
 - Arthion
-- Fanira
 - Celwyn
 - Ritora
 

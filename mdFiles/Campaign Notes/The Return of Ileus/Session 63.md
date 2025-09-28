@@ -1,3 +1,5 @@
+Current Day: 18th of Friga, 2519 PS
+
 Whispers of War:
 Upon taking the refugees back to Grandfather Oak, Esylra takes note of the party and invites them to her home. She tells them a bit more about the refugee crisis. She has another issue with the refugees in Grandfather Oak. She has heard word that some of them may be planning some sort of violence and she wants the party to investigate it a bit further.
 

@@ -113,29 +113,75 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_880a1949ea3b",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 23,
-                    "month": 6,
-                    "year": 2955
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_889a8a0b888b"
-              },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "dad037d7e2911c95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Campaign Notes/The Last Act of the Chronarch/Session 14.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Session 14"
+            }
+          },
+          {
+            "id": "53f0633e3e31570f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Campaign Notes/The Last Act of the Chronarch/Session 14.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Session 14"
+            }
+          },
+          {
+            "id": "499315f5dcc229fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fd839c324a12bf27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Campaign Notes/The Last Act of the Chronarch/Session 14.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Session 14"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -151,13 +197,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "publish:Publish changes...": false,
-      "calendarium:Open Calendarium": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "844e4f464986f78b",
+  "active": "6ef43194bad8d855",
   "lastOpenFiles": [
     "Argena/Chandaria/Nations/No'zaral/Jequith.md",
     "Campaign Notes/The Last Act of the Chronarch/Session 14.md",

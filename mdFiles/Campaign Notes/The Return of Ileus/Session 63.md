@@ -14,7 +14,7 @@ One of the refugees that the party can meet is **Pelleas**, who is secretly an U
 
 **Venali** is suspicious because he has recently gained a lot of money. In reality, he found an old stash of money in the woods nearby. He was seen by Fanira sneaking into the woods recently.
 
-**Fanira** is suspicious because she 
+**Fanira** is suspicious because she is a loner that doesn't interact with the other refugees. She was seen interacting with a strange man by Pelleas recently. This is a lie by Pelleas.
 
 The Cell is being led by Utu's brother Hama. He is the one that leads the attack on Esylra's home.
 

@@ -22,34 +22,21 @@
             }
           },
           {
-            "id": "62875f08c217939b",
+            "id": "14144ca4e7286b14",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
-            }
-          },
-          {
-            "id": "0d4253abd5ef52b8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,10 +203,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0d4253abd5ef52b8",
+  "active": "14144ca4e7286b14",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Planes/Arborea/Seldori.md",
+    "conflict-files-obsidian-git.md",
+    "Campaign Notes/The Return of Ileus/Session 63.md",
     "Images/Power Puzzle.png",
     "Images/Alystri Family Tree.png",
     "Images",
@@ -246,7 +234,6 @@
     "Campaign Notes/The Return of Ileus/Session 52.md",
     "Campaign Notes/The Return of Ileus/Session 51.md",
     "Campaign Notes/The Return of Ileus/Session 50.md",
-    "Campaign Notes/The Return of Ileus/Session 5.md",
     "Campaign Notes/The Return of Ileus/Locations",
     "Campaign Notes/The Return of Ileus",
     "Campaign Notes/The Last Act of the Chronarch",

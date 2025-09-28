@@ -20,8 +20,24 @@
               "icon": "lucide-file",
               "title": "Seldori"
             }
+          },
+          {
+            "id": "62875f08c217939b",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: .gitignore"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,8 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7aceb0a6576c232",
+  "active": "62875f08c217939b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Planes/Arborea/Seldori.md",
     "Images/Power Puzzle.png",
     "Images/Alystri Family Tree.png",
     "Images",
@@ -204,7 +222,6 @@
     "Campaign Notes/The Return of Ileus/Session 51.md",
     "Campaign Notes/The Return of Ileus/Session 50.md",
     "Campaign Notes/The Return of Ileus/Session 5.md",
-    "Campaign Notes/The Return of Ileus/Session 48.md",
     "Campaign Notes/The Return of Ileus/Locations",
     "Campaign Notes/The Return of Ileus",
     "Campaign Notes/The Last Act of the Chronarch",

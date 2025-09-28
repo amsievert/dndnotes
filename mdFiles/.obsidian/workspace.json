@@ -4,40 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e92c44420f9a7600",
+        "id": "d10f5369d432abca",
         "type": "tabs",
         "children": [
           {
-            "id": "f7aceb0a6576c232",
+            "id": "b7376f3e6b7d3548",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planes/Arborea/Seldori.md",
+                "file": "Campaign Notes/The Return of Ileus/Session 63.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seldori"
-            }
-          },
-          {
-            "id": "62875f08c217939b",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
+              "title": "Session 63"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,12 +89,58 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6d7fd9b98a74d4b",
+            "id": "057a9e3f42c083e4",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "6ef43194bad8d855",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "44e8f262fd1078c1",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_597a58b89a8b",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 23,
+                    "month": 6,
+                    "year": 2506
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_889a8a0b888b"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "dad037d7e2911c95",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Argena/Chandaria/Chandarian History/An Overall History Of Chandaria.md",
+                "file": "Campaign Notes/The Return of Ileus/Session 63.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,116 +150,114 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for An Overall History Of Chandaria"
+              "title": "Backlinks for Session 63"
             }
           },
           {
-            "id": "6e6afb10c361536b",
+            "id": "53f0633e3e31570f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Argena/Chandaria/Chandarian History/An Overall History Of Chandaria.md",
+                "file": "Campaign Notes/The Return of Ileus/Session 63.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from An Overall History Of Chandaria"
+              "title": "Outgoing links from Session 63"
             }
           },
           {
-            "id": "a716797bb53054db",
+            "id": "499315f5dcc229fe",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "221bc675681b7d2a",
+            "id": "fd839c324a12bf27",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Argena/Chandaria/Chandarian History/An Overall History Of Chandaria.md"
+                "file": "Campaign Notes/The Return of Ileus/Session 63.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of An Overall History Of Chandaria"
-            }
-          },
-          {
-            "id": "273467f3114c1fea",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Session 63"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 494.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "webpage-html-export:Export Vault to HTML": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "62875f08c217939b",
+  "active": "b7376f3e6b7d3548",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Planes/Arborea/Seldori.md",
-    "Images/Power Puzzle.png",
-    "Images/Alystri Family Tree.png",
-    "Images",
-    "Campaign Notes/The Return of Ileus/Locations/The Solar Nexus.md",
-    "Campaign Notes/The Return of Ileus/Locations/Solar Sanctum.md",
-    "Campaign Notes/The Return of Ileus/Locations/Holfirth.md",
-    "Campaign Notes/The Return of Ileus/Locations/Dire Wolf Grotto.md",
-    "Campaign Notes/The Return of Ileus/Locations/Owlbear Enclave.md",
-    "Campaign Notes/The Return of Ileus/Session 6.md",
-    "Campaign Notes/The Return of Ileus/The Antiety League.md",
-    "Campaign Notes/The Return of Ileus/Session 9.md",
-    "Campaign Notes/The Return of Ileus/Session 8.md",
     "Campaign Notes/The Return of Ileus/Session 62.md",
-    "Campaign Notes/The Return of Ileus/Session 7.md",
-    "Campaign Notes/The Return of Ileus/Session 61.md",
-    "Campaign Notes/The Return of Ileus/Session 60.md",
-    "Campaign Notes/The Return of Ileus/Session 59.md",
-    "Campaign Notes/The Return of Ileus/Session 58.md",
-    "Campaign Notes/The Return of Ileus/Session 56.md",
-    "Campaign Notes/The Return of Ileus/Session 57.md",
-    "Campaign Notes/The Return of Ileus/Session 55.md",
-    "Campaign Notes/The Return of Ileus/Session 54.md",
-    "Campaign Notes/The Return of Ileus/Session 53.md",
-    "Campaign Notes/The Return of Ileus/Session 52.md",
-    "Campaign Notes/The Return of Ileus/Session 51.md",
-    "Campaign Notes/The Return of Ileus/Session 50.md",
-    "Campaign Notes/The Return of Ileus/Session 5.md",
+    "Campaign Notes/The Return of Ileus/Session 63.md",
+    "Campaign Notes/The Last Act of the Chronarch/Session 14.md",
+    "conflict-files-obsidian-git.md",
+    "Argena/Chandaria/Nations/No'zaral/Jequith.md",
+    "Campaign Notes/The Last Act of the Chronarch/Session 9.md",
+    "Campaign Notes/The Last Act of the Chronarch/Session 10.md",
+    "Campaign Notes/The Last Act of the Chronarch/Session 11.md",
+    "Campaign Notes/The Last Act of the Chronarch/Session 12.md",
+    "Argena/Tilarien/Sylarii/Sylarii.md",
+    "Argena/Chandaria/Nations/No'zaral/Welbenwallow Province/Reborn Forest.md",
+    "Argena/Chandaria/Nations/No'zaral/Welbenwallow Province/Welbenwallow.md",
+    "Campaign Notes/The Last Act of the Chronarch/Session 5.md",
+    "Campaign Notes/The Last Act of the Chronarch/Session 1.md",
+    "Campaign Notes/The Last Act of the Chronarch/Session 13.md",
+    "Books/Diary of Ileus.md",
+    "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Hullingsbrook.md",
+    "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Galvenport.md",
+    "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Cabalman Run.md",
+    "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Bippenbol.md",
+    "Campaign Notes/The Return of Ileus/Locations/Holfirth.md",
+    "Campaign Notes/The Return of Ileus/Locations/Solar Sanctum.md",
+    "Campaign Notes/The Return of Ileus/Locations/Dire Wolf Grotto.md",
+    "Campaign Notes/The Return of Ileus/Locations/The Solar Nexus.md",
+    "Campaign Notes/The Return of Ileus/Locations/Owlbear Enclave.md",
+    "Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Holfirth Province/Dire Wolf Grotto.md",
     "Campaign Notes/The Return of Ileus/Locations",
-    "Campaign Notes/The Return of Ileus",
-    "Campaign Notes/The Last Act of the Chronarch",
     "Campaign Notes",
     "Books",
+    "Images/Power Puzzle.png",
+    "Images/Alystri Family Tree.png",
+    "The Last Act of the Chronarch/Untitled",
+    "Campaign Notes/The Last Act of the Chronarch",
+    "The Return of Ileus/Untitled",
+    "Images",
+    "Campaign Notes/The Return of Ileus",
     "Planes/Mount Celestia",
-    "Planes/Arborea",
-    "Argena/Tilarien/Sylarii",
-    "Argena/Chandaria/Nations/No'zaral/Welbenwallow Province"
+    "Planes/Arborea"
   ]
 }

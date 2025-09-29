@@ -37,7 +37,7 @@ NPC Names:
 Refugees:
 - Kilyn - Woman that lost family
 - Nasir - Father of lost family
-- Adresin
+- Oressa - Leader of Refugees in Grandfather Oak
 - Arryn
 - Pelleas - Secret Unweaver
 - Venali - Suspicious refugee

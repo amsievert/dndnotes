@@ -37,4 +37,8 @@ The Unweaver's home base is the ruins of Castellum. If the party makes it here o
 #### Exploring Lethandil
 If the party travels to Lethandil, they find a city in the midst of being infected by Unweaver ideology. The city is run by High Fey that withhold higher means of magic from the masses. The town guard are trying to crack down on Unweaver activity, but they remain uncaught for the most part. Sensing the growing tension, some people are starting to leave for [[Seldoris]].
 
+Dallim is going to attack the city in two days.
+
 Encounters in Lethandil:
+In a town square, Dallim stands on a crudely constructed stage and speaks to a medium-sized crowd. He gives a speech:
+""

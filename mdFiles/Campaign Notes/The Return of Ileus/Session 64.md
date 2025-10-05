@@ -40,5 +40,5 @@ If the party travels to Lethandil, they find a city in the midst of being infect
 Dallim is going to attack the city in two days.
 
 Encounters in Lethandil:
-In a town square, Dallim stands on a crudely constructed stage and speaks to a medium-sized crowd. He gives a speech:
-""
+The party hears whispers of a speech that Dallim is going to make later in the evening. The speech takes place beneath a magical willow tree that when you cross beneath the hanging limbs, you find yourself in a much larger interior than makes sense. Inside this amphitheater, Dallim gives a speech before a medium-sized crowd:
+"Greetings to you all. "

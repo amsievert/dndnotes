@@ -41,4 +41,4 @@ Dallim is going to attack the city in two days.
 
 Encounters in Lethandil:
 The party hears whispers of a speech that Dallim is going to make later in the evening. The speech takes place beneath a magical willow tree that when you cross beneath the hanging limbs, you find yourself in a much larger interior than makes sense. Inside this amphitheater, Dallim gives a speech before a medium-sized crowd:
-"Greetings to you all, you humble inhabitants of Lethandil. Regrettably, our time tonight is limited. Agents of the tyrant Weavemother and her Concinnous House lackeys "
+"Greetings to you all, you humble workers of Lethandil. Regrettably, our time tonight is limited. Agents of the tyrant Weavemother and her Concinnous House lackeys hunt me at every waking minute. Nevertheless, I stand here in front of you tonight to deliver good tidings from the Universe itself, for it has spoken to me and I have listened. *Long pause for applause*. "

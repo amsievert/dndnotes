@@ -28,6 +28,9 @@ Arboreans:
 - Arthion
 - Celwyn
 - Ritora
+Lethandil:
+- Faelas
+- 
 
 Dallim's Plan:
 Dallim is going to destroy and recruit from one more town in the Feywild, Lethandil. After that, he is going to begin his assault on Harmonia's Palace in Seldoris. If the party is able to deduce that Dallim plans to assault Lethandil, they can attempt to stop his assault there and kill him.
@@ -40,9 +43,12 @@ If the party travels to Lethandil, they find a city in the midst of being infect
 Dallim is going to attack the city in two days.
 
 Encounters in Lethandil:
+As the party is traveling around Lethandil, a random person named Myde (Mee-day) suddenly has a wild magic surge go off from them. Deal with the fallout of whatever effect happens.
+
 The party hears whispers of a speech that Dallim is going to make later in the evening. The speech takes place beneath a magical willow tree that when you cross beneath the hanging limbs, you find yourself in a much larger interior than makes sense. Inside this amphitheater, Dallim gives a speech before a medium-sized crowd:
 "Greetings to you all, you humble freefolk of Lethandil. Regrettably, our time tonight is limited. Agents of the tyrant Weavemother and her Concinnous House lackeys hunt me at every waking minute. Nevertheless, I stand here in front of you tonight to deliver good tidings from the Universe itself, for it has spoken to me and I have listened. *Long pause for applause*. The time has come. Look at your ledgers. Look at the lists where names are ranked and promises withheld. Who wrote them? Who taught you that some hands are fit for power and some are not? I say never again. I say burn the lists, break the Concinnity, and listen. The Universe sings. It offers the chance to be more than footnotes in their books. Yes, it asks a price. All great things do. Will you pay it, or will you still bow and hope for crumbs?"
 At this point the crowd erupts in cheers. Over the applause, Dallim calls out, "Tomorrow night you shall bear witness to the great Unweaving. Should you wish to see it yourself, find your way into the bluffs before sunset."
 With that, Dallim teleports away.
 
-On the second afternoon, the Concinnous Houses have a meeting to discuss the "Insurrectionist" activity. They are unsure what exactly is happening, but they believe that the
+On the second afternoon, the Concinnous Houses have a meeting to discuss the "Insurrectionist" activity. They are unsure what exactly is happening, but they believe that the citizens are feeling emboldened by the recent attacks elsewhere in the Feywild and are using them to rise up against the Houses.
+

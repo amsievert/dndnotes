@@ -59,4 +59,6 @@ With that, Dallim teleports away.
 On the second afternoon, the Concinnous Houses have a meeting to discuss the "Insurrectionist" activity. They are unsure what exactly is happening, but they believe that the citizens are feeling emboldened by the recent attacks elsewhere in the Feywild and are using them to rise up against the Houses.
 
 The attack:
-If Dallim isn't dead within the two days, the attack commences. He stands at the top of the bluffs and uses Wish to cast Meteor Swarm, and then casts Earthquake to destroy the city, sparing those who left beforehand.
+If Dallim isn't dead within the two days, the attack commences. He stands at the top of the bluffs with Ileus alongside him and uses Wish to cast Meteor Swarm, and then casts Earthquake to destroy the city, sparing those who left beforehand.
+
+Wherever the party ends up fighting Dallim, Ileus watches from afar, studying for his own inevitable fight with the party.

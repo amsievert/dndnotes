@@ -45,3 +45,4 @@ The party hears whispers of a speech that Dallim is going to make later in the e
 At this point the crowd erupts in cheers. Over the applause, Dallim calls out, "Tomorrow night you shall bear witness to the great Unweaving. Should you wish to see it yourself, find your way into the bluffs before sunset."
 With that, Dallim teleports away.
 
+On the second afternoon, the Concinnous Houses have a meeting to discuss the "Insurrectionist" activity. They are unsure what exactly is happening, but they believe that the

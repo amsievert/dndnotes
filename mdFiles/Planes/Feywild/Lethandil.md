@@ -2,5 +2,8 @@ This Feywild city sits in a river basin where the river loops around the city an
 
 #### The Concinnous Houses
 ##### House Talles
+Matriarch: Wysana Talles
 ##### House Karasce
-##### House 
+Matriarch: Liatara (Lia) Karasce
+##### House Saries
+Matriarch: Reyana Saries

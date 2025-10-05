@@ -1,1 +1,1 @@
-This Feywl
+This Feywild city sits in a river basin where the river loops around the city and at certain points carves through the streets. Much of the city is adorned with large willow trees. Some residents even build their houses beneath the hanging limbs of the willow trees. The city's elites, 

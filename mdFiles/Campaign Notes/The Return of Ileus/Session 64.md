@@ -33,3 +33,6 @@ Dallim's Plan:
 Dallim is going to destroy and recruit from one more town in the Feywild, Lethandil. After that, he is going to begin his assault on Harmonia's Palace in Seldoris. If the party is able to deduce that Dallim plans to assault Lethandil, they can attempt to stop his assault there and kill him.
 
 The Unweaver's home base is the ruins of Castellum. If the party makes it here or to Lethandil, they will meet Hama (Utu's brother).
+
+#### Exploring Lethandil
+If the party travels to Lethandil, they find a city in the midst of being infected by Unweaver ideology. The city is run by High Fey that withhold higher means of magic from the masses. 

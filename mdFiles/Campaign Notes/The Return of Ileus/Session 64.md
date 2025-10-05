@@ -30,7 +30,13 @@ Arboreans:
 - Ritora
 Lethandil:
 - Faelas
-- 
+- Cyran
+- Amra
+- Elion
+- Tanyth
+- Enwyn
+- Aimar
+- Gaelin
 
 Dallim's Plan:
 Dallim is going to destroy and recruit from one more town in the Feywild, Lethandil. After that, he is going to begin his assault on Harmonia's Palace in Seldoris. If the party is able to deduce that Dallim plans to assault Lethandil, they can attempt to stop his assault there and kill him.
@@ -52,3 +58,5 @@ With that, Dallim teleports away.
 
 On the second afternoon, the Concinnous Houses have a meeting to discuss the "Insurrectionist" activity. They are unsure what exactly is happening, but they believe that the citizens are feeling emboldened by the recent attacks elsewhere in the Feywild and are using them to rise up against the Houses.
 
+The attack:
+If Dallim isn't dead within the two days, the attack commences. He stands at the top of the bluffs and uses Wish to cast Meteor Swarm, and then casts Earthquake to destroy the city, sparing those who left beforehand.

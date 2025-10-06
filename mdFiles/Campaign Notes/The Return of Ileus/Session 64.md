@@ -1,4 +1,4 @@
-	Current Day: 19th of Friga, 2519 PS
+Current Day: 19th of Friga, 2519 PS
 
 The Council:
 After uncovering the Unweaver plot, Esylra asks the party to travel to Harmonia's Tower with her to inform Harmonia and to ask her to do more about the Unweavers.

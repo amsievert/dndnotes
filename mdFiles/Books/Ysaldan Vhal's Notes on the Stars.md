@@ -1,3 +1,3 @@
-Hemlia 25, 842 PS
+Hemlia 25, 943 PS
 
-Long have astronomers studied the Heavens to answer the questions of the material realm. Since time immemorial, mortals have looked to the night sky and painted their own history amongst the stars. It seems a statistical anomaly then that there would exist sections of the 
+Long have astronomers studied the Heavens to answer the questions of the material realm. Since time immemorial, mortals have looked to the night sky and painted their own history amongst the stars. It seems a statistical anomaly then that there would exist sections of the night sky that have been completely overlooked. Yet, I have located a strange constellation in the Aloran Quadrant, just below Mother Gith, that is unlabeled in all of the other texts in my collection. 

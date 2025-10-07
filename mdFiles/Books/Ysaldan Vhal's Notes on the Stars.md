@@ -4,4 +4,4 @@ Long have astronomers studied the Heavens to answer the questions of the materia
 
 The strangest part of the constellation however is that there seems to be a lack of all matter at the center of it. I have observed it with many different magnifications, and have been unable to locate any other celestial bodies within the confines of the constellation. This space appears to be some sort of void. I am unsure as to what this could entail.
 
-We know the 
+We know the stars are a glimpse into the Astral Plane, that interstitial space that fills in the gaps between the Outer Planes. It could be possible that this void is somehow the edge of the Astral Plane if such a place could even exist. Nevertheless, I am preparing to use the Elderbark trees to travel there and investigate.

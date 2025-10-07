@@ -40,4 +40,10 @@ Hidden amongst the trees atop the hill on the far side of the clearing is a squa
 
 The door is locked and is made of metal with a circular window at head level.
 
-Inside is a table and chair at the eyepiece of the telescope. On the table is a star chart labeled "Aloran Quadrant". It has four constellations on it, "The Dragon", "Mother Gith", "Annam", 
+Inside is a table and chair at the eyepiece of the telescope. On the table is a star chart labeled "Aloran Quadrant". It has four constellations on it, "The Dragon", "Mother Gith", "Annam", and "Void?" accompanied with a small journal entry written by Ysaldan.
+
+In a corner of this room there is another small altar to Harmonia. This one lacks a Harmonium crystal.
+
+There is also a small cot in another corner of the room.
+
+Against the wall between the cot and the altar is a row of 

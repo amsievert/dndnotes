@@ -26,4 +26,5 @@ On the third day, before reaching Jequith, the party encounters Jeff the Cronds 
 
 Late in the third day the party reaches [[Jequith]].
 
-After leaving Jequith, it takes another three days to reach the Void Fortress. 
+After leaving Jequith, it takes another three days to reach the Void Fortress.
+

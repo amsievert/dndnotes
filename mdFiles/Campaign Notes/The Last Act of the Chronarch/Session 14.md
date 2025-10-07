@@ -28,3 +28,5 @@ Late in the third day the party reaches [[Jequith]].
 
 After leaving Jequith, it takes another three days to reach the Void Fortress.
 
+On the second day of travel, the party comes across the camp of a small band of 
+

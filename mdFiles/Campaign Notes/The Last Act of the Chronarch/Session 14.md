@@ -46,4 +46,4 @@ In a corner of this room there is another small altar to Harmonia. This one lack
 
 There is also a small cot in another corner of the room.
 
-Against the wall between the cot and the altar is a row of 
+Against the wall between the cot and the altar is a row of floor to ceiling bookcases, with a rolling ladder that slides along to allow access to the higher levels. Along the rail at the top, 5 elven words are etched into the metal: "Crossroads", "Song", "Sanctuary", ""

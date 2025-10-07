@@ -40,4 +40,4 @@ Hidden amongst the trees atop the hill on the far side of the clearing is a squa
 
 The door is locked and is made of metal with a circular window at head level.
 
-Inside is a table and chair at the eyepiece of the telescope. On the table is a star chart labeled "Aloran Quadrant". It has four constellations on it, "The Dragon", "Mother Gith"
+Inside is a table and chair at the eyepiece of the telescope. On the table is a star chart labeled "Aloran Quadrant". It has four constellations on it, "The Dragon", "Mother Gith", "Annam", 

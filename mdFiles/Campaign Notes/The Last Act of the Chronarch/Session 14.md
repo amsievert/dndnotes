@@ -30,5 +30,7 @@ After leaving Jequith, it takes another three days to reach the Void Fortress.
 
 On the second day of travel, the party comes across the camp of a small band of No'zaral Military soldiers. There are about 15 of them, led by a captain named Gorm (half-orc from Kul-Radein). The soldiers are guarding the border with the Atrisean Dynasty.
 
+On the second night, an Oni hunts whoever is keeping watch. It's beady eyes watch from the dark.
 
+Around mid-afternoon on the third day of travel, the party reaches the area that is indicated by Ysaldan's map. 
 

@@ -32,5 +32,7 @@ On the second day of travel, the party comes across the camp of a small band of 
 
 On the second night, an Oni hunts whoever is keeping watch. It's beady eyes watch from the dark.
 
-Around mid-afternoon on the third day of travel, the party reaches the area that is indicated by Ysaldan's map. 
+Around mid-afternoon on the third day of travel, the party reaches the area that is indicated by Ysaldan's map.
+
+The area is a small clearing 
 

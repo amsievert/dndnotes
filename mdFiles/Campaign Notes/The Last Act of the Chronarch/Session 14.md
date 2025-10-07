@@ -34,5 +34,6 @@ On the second night, an Oni hunts whoever is keeping watch. It's beady eyes watc
 
 Around mid-afternoon on the third day of travel, the party reaches the area that is indicated by Ysaldan's map.
 
-The area is a small clearing with a hill on the far side, half covered with the treeline. The area here is naturally more hilly, since it is close to the Exalted Summit. The clearing itself doesn't have much, except for a few stones stacked in what could be the remnants of a small garden wall. Also beneath some leaves is an extremely dirty and cracked crystal 
+The area is a small clearing with a hill on the far side, half covered with the treeline. The area here is naturally more hilly, since it is close to the Exalted Summit. The clearing itself doesn't have much, except for a few stones stacked in what could be the remnants of a small garden wall. Also beneath some leaves is an extremely dirty and cracked crystal ball about the size of a softball. This is an old arcane focus from the wizards that came to collect the Void Seal.
 
+Hidden amongst the trees atop the hill on the far side of the clearing is a squat shack with a medium-sized telescope protruding from the roof. The building is made of stones similar to the ones in the garden wall and the whole thing is covered in ivy. 

@@ -34,5 +34,5 @@ On the second night, an Oni hunts whoever is keeping watch. It's beady eyes watc
 
 Around mid-afternoon on the third day of travel, the party reaches the area that is indicated by Ysaldan's map.
 
-The area is a small clearing 
+The area is a small clearing with a hill on the far side, half covered with the treeline. The area here is naturally more hilly, since it is close to the Exalted Summit. The clearing itself doesn't have much, except for a few stones stacked in what could be the remnants of a small garden wall. Also beneath some leaves is an extremely dirty and cracked crystal 
 

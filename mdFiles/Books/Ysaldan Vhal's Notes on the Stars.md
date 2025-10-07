@@ -1,3 +1,7 @@
 Hemlia 25, 943 PS
 
-Long have astronomers studied the Heavens to answer the questions of the material realm. Since time immemorial, mortals have looked to the night sky and painted their own history amongst the stars. It seems a statistical anomaly then that there would exist sections of the night sky that have been completely overlooked. Yet, I have located a strange constellation in the Aloran Quadrant, just below Mother Gith, that is unlabeled in all of the other texts in my collection. 
+Long have astronomers studied the Heavens to answer the questions of the material realm. Since time immemorial, mortals have looked to the night sky and painted their own history amongst the stars. It seems a statistical anomaly then that there would exist sections of the night sky that have been completely overlooked. Yet, I have located a strange constellation in the Aloran Quadrant, just below Mother Gith, that is unlabeled in all of the other texts in my collection. The stars of this constellation are incredibly faint, indicating that the formation is very far away from Argena, which could also indicate that these stars are incredibly old. 
+
+The strangest part of the constellation however is that there seems to be a lack of all matter at the center of it. I have observed it with many different magnifications, and have been unable to locate any other celestial bodies within the confines of the constellation. This space appears to be some sort of void. I am unsure as to what this could entail.
+
+We know the 

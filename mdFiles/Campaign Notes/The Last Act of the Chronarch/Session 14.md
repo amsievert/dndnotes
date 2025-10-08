@@ -1,3 +1,4 @@
+Current 
 **Ysaldan Vhal's Magnum Opus**
 In her note from the tower, Vhal mentions that her Magnum Opus is hidden within the Westerwood. This Magnum Opus is the Void Seal. Using the ancient magic of the Elderbark trees, she traveled to the edge of the universe and collected some of the Void fragments from there and crafted them into the Void Seal. She created this artifact at the end of the Arcane Resurgence as she realized the troubles that magic was bringing into the world.
 

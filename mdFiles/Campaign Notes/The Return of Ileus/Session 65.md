@@ -39,4 +39,4 @@ It takes Siedus some time to remember, but he directs the party to an old [[Ozew
 ### The Murmuring Sanctum
 The Murmuring Sanctum is a small clearing with a small babbling brook that runs through it and seemingly infinite leaves that fall on the ground. However, neither the brook nor the leaves make any noise as they fall.
 
-A small forest spirit named Ping lives in the glade and knows the notes to deactivate the ward, but can only speak them aloud, which can't happen because of the silence. An ornate lute lies in the center of the clearing and is the only item that can make noise here. A DC 10 performance check quiets the glade. On a fail, the glade  
+A small forest spirit named Ping lives in the glade and knows the notes to deactivate the ward, but can only speak them aloud, which can't happen because of the silence. An ornate lute lies in the center of the clearing and is the only item that can make noise here. A DC 10 performance check quiets the glade. On a fail, the glade becomes angry and the leaves become still in the air. The party feels the air being sucked from the area, and if 2 more performance checks fail, they will begin to suffocate. 

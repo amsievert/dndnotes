@@ -16,3 +16,4 @@ Hama Battle Strategy:
 Back up the other Unweavers where needed, but mostly focus on fighting the party.
 
 Dallim Battle Strategy:
+Use fly speed to escape counterspell and melee range and cast a chain lightning or delayed blast fireball on the Bladesingers. Then go after the party, goal is to always stay flying out of melee range.

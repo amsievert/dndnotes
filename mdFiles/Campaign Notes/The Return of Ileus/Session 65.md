@@ -22,6 +22,8 @@ Dallim has a contingency spell cast on him that activates when he gets below 30 
 #### IN THE EVENT OF A TPK
 The party feel their souls leave for the Scales of Life in the Outlands. They appear in a long line of souls waiting to enter a large room through huge wooden doors. They wait around for a bit in the line before they feel their souls violently pulled back to their bodies. They regain consciousness and find themselves inside a forcecage, having been revived by Ileus. It is now night time in the Feywild, and Dallim is about to begin his attack on Lethandil. He briefly monologues to the party before telling them to witness true freedom and beginning his attack.
 
+Meanwhile, Ileus 
+
 #### IN THE EVENT OF A ROD OF SECURITY USE
 The remaining Unweavers ready their ambush on the spot the party left from. They lay a glyph of warding down on the spot and take up defensive positions. The glyph of warding contains a wall of force the traps whoever activated the rod. An alarm spell also triggers when this happens.
 

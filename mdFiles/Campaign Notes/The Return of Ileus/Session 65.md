@@ -34,4 +34,7 @@ The attack on Lethandil is prevented and Ileus up on the cliff teleports away.
 ## The Hunt for the Shield
 Harmonia believes that the Eladrin Seldori Siedus in Aubade Palace knows more about Ozewyn's adventures from the many years ago.
 
-It takes Siedus some time to remember, but he directs the party to an old [[Ozewyn's Journal|journal of Ozewyn's]] that he has lying around in his vault. The journal contains six phrases and possible locations. Siedus is familiar with the Murmuring Sanctum, as it is one of the places that Ozewyn loved to travel to most. The Sanctum is located in the forest not terribly far from
+It takes Siedus some time to remember, but he directs the party to an old [[Ozewyn's Journal|journal of Ozewyn's]] that he has lying around in his vault. The journal contains six phrases and possible locations. Siedus is familiar with the Murmuring Sanctum, as it is one of the places that Ozewyn loved to travel to most. The Sanctum is located in the forest not terribly far from Aubade Palace.
+
+### The Murmuring Sanctum
+The Murmuring Sanctum is a small clearing with a small babbling brook that runs through it and seemingly infinite leaves that fall on the ground. However, neither the brook nor the leaves make any noise as they fall. 

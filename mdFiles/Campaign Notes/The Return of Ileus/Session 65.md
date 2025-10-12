@@ -20,4 +20,7 @@ Use fly speed to escape counterspell and melee range and cast a chain lightning 
 
 Dallim has a contingency spell cast on him that activates when he gets below 30 hp. When it activates, it dimension doors him up to Ileus, who then teleports them away, back to Castellum.
 #### IN THE EVENT OF A TPK
-The party feel their souls leave for the Scales of Life in the Outlands. They appear in a long line of souls waiting to enter a large room through huge wooden doors. They wait around for a bit in the line before they feel their souls violently pulled back to their bodies. They regain consciousness and find themselves restrained, having been revived by Ileus. It is now night time in the Feywild, and Dallim is about to begin his attack on Lethandil. He briefly 
+The party feel their souls leave for the Scales of Life in the Outlands. They appear in a long line of souls waiting to enter a large room through huge wooden doors. They wait around for a bit in the line before they feel their souls violently pulled back to their bodies. They regain consciousness and find themselves restrained, having been revived by Ileus. It is now night time in the Feywild, and Dallim is about to begin his attack on Lethandil. He briefly monologues to the party before telling them to witness true freedom and beginning his attack.
+
+#### IN THE EVENT OF A ROD OF SECURITY USE
+The remaining Unweavers ready their ambush on the spot the party left from. They lay a glyph of warding down on the spot and take up defensive positions. The glyph of warding contains an upcasted hold person spell to target 

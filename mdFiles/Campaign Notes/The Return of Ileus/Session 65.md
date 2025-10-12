@@ -8,4 +8,11 @@ Use upcasted Magic Missile to target Astarius.
 Use Chaos Bolt or normal fire bolt for Holfog.
 
 Bladesingers Battle Strategy:
-Three rush into the Unweavers to engage in melee, while the other three hang back for spells. 
+Three rush into the Unweavers to engage in melee, while the other three hang back for spells.
+Melee Bladesingers: Cast shadow blade and start swinging.
+Ranged Bladesingers: Use fireball and counterspell.
+
+Hama Battle Strategy:
+Back up the other Unweavers where needed, but mostly focus on fighting the party.
+
+Dallim Battle Strategy:

@@ -32,3 +32,6 @@ The attack on Lethandil is prevented and Ileus up on the cliff teleports away.
 
 
 ## The Hunt for the Shield
+Harmonia believes that the Eladrin Seldori Siedus in Aubade Palace knows more about Ozewyn's adventures from the many years ago.
+
+It takes Siedus some time to remember, but he directs the party to an old journal of Ozewyn's that he has lying around in his vault. The journal contains six phrases (locations?). 

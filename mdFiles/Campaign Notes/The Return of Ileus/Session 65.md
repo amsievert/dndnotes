@@ -17,3 +17,7 @@ Back up the other Unweavers where needed, but mostly focus on fighting the party
 
 Dallim Battle Strategy:
 Use fly speed to escape counterspell and melee range and cast a chain lightning or delayed blast fireball on the Bladesingers. Then go after the party, goal is to always stay flying out of melee range.
+
+Dallim has a contingency spell cast on him that activates when he gets below 30 hp. When it activates, it dimension doors him up to Ileus, who then teleports them away, back to Castellum.
+
+

@@ -12,7 +12,9 @@ My time in this body is finally up. I've done what I can to protect the knowledg
 
 My friend, these wards protect the shield, only once all of them are disabled will you be able to find the shield.
 
-Ward of Silence - Murmuring Sanctum
-Ward of Reflection - Crystal Canopy
+Ward of Time - Hourglass Isle
 Ward of Absence - Null Island
-Ward of Promises - 
+Ward of Reflection - Crystal Canopy
+Ward of Silence - Murmuring Sanctum
+Ward of Promises - Oath Tree
+Ward of Resonance

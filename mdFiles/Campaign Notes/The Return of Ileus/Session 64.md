@@ -36,7 +36,7 @@ Lethandil:
 - Tanyth
 - Enwyn
 - Aimar
-- Gaelin
+- Gaelin - Commander
 
 Dallim's Plan:
 Dallim is going to destroy and recruit from one more town in the Feywild, Lethandil. After that, he is going to begin his assault on Harmonia's Palace in Seldoris. If the party is able to deduce that Dallim plans to assault Lethandil, they can attempt to stop his assault there and kill him.

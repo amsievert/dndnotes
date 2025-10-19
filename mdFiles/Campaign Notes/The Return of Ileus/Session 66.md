@@ -48,4 +48,6 @@ The ward can be deactivated by blocking the sunlight, but as the party is explor
 
 If the silvery pools are illuminated and are fallen into, the creature take 4d10 radiant damage.
 #### Null Island
-Siedus puts the party in contact with a sailor he knows named Aimar. Aimar is a sea elf who has traveled on Aquallor many times b
+Siedus puts the party in contact with a sailor he knows named Aimar. Aimar is a sea elf who has traveled on Aquallor many times before. He lets the party travel on his Catamaran, as he takes them to where he believes Null Island is. He explains that the island is mostly unexplored since magic doesn't work on it.
+
+The island itself is no more than a mile across in both directions with low tree cover and a shallow shield volcano that rises in the middle, poking just above the trees. 

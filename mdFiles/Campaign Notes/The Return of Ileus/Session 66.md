@@ -64,6 +64,6 @@ Harmonia sends the party to the location where she is hearing the song from. At 
 
 They are standing at the top of a large stone temple. As they make their way through the temple, they find all different kinds of imagery depicting the Fracture, the Dissension, the Scourge, even the Age of Dragons. Walking through the temple feels like walking through history.
 
-Eventually they find themselves in a large chapel with draconic imagery. There is a secret door behind the altar in this chapel that leads underground. After following a dark, winding path, some parts blocked by sand. They find themselves inside a massive underground cavern. In the center of the cavern the see the remains of an adult dragon (Vestryl). On the front of the dragons chest, the Shield is attach to the ribs. As the party approaches the remains, they reanimate.
+Eventually they find themselves in a large chapel with draconic imagery. There is a secret door behind the altar in this chapel that leads underground. After following a dark, winding path, some parts blocked by sand. They find themselves inside a massive underground cavern. In the center of the cavern the see the remains of an adult dragon (Vestryl). On the front of the dragons chest, the Shield is attach to the ribs. As the party approaches the remains, they reanimate. (Dracolich)
 
 As Vestryl stands in front of the party, a voice rumbles through the cavern. It calls for those worthy to defeat him in combat and take up the mantle. Vestryl can use the shield stuck to his chest as if he was wielding it normally.

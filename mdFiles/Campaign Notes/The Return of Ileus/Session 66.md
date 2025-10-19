@@ -60,4 +60,6 @@ As this last ward is deactivated, the whole plane shakes and a brief chord rings
 #### The Ward of Resonance
 With all the other Wards deactivated, Harmonia can now hear the song of the final ward. It is calling from the Forbidden Realm of Mithardir. This forgotten third layer of Arborea is a vast white sand desert with ruins of ancient civilization. This also belonged to a pantheon of gods from the Dissension who were killed. However, all of the followers of these gods were also killed during the war, so the degradation of the layer is greatly increased. 
 
-Harmonia sends the party to the 
+Harmonia sends the party to the location where she is hearing the song from. At the location in the desert is a small ring of 5 rune-inscribed stones. 4 of them are inactive now, but the last one is glowing hotly, almost vibrating trying to contain whatever is inside this ring. If the stone is removed from the ring, or magically dispelled, the last ward breaks and a massive shockwave blasts out from the ring. Everyone makes a DC 15 Dexterity Save, and is thrown back 20 feet on a fail. As the shockwave spreads, it blows all of the nearby sand away, revealing the area around the party.
+
+They are standing at the top of a large stone temple. 

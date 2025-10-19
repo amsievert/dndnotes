@@ -54,4 +54,8 @@ The island itself is no more than a mile across in both directions with low tree
 
 Among some small trinkets around the glyph is an hourglass with sand in it, but also a tiny crystal that *tinks* against the glass inside, trying to return somewhere, acting as a sort of compass. It is pointing to Hourglass Isle.
 #### Hourglass Isle
-Following the small crystal leads the party to another island on Aquallor where time has completely frozen. The ship gets stuck in the water a few hundred feet off the shore since the water is stuck in time. This island is larger than the last, 
+Following the small crystal leads the party to another island on Aquallor where time has completely frozen. The ship gets stuck in the water a few hundred feet off the shore since the water is stuck in time. This island is larger than the last, and has wildlife, all frozen in time. The crystal leads the party to an overhang cave. Inside the cave is a glyph made up of similar looking crystals to the one in the hourglass. To deactivate the glyph, the crystal must be released from the hourglass, whereupon it shatters the glyph and deactivates the ward.
+
+As this last ward is deactivated, the whole plane shakes and a brief chord rings out through the sky. Harmonia immediately calls the party and asks what happened. She brings them back to her palace.
+#### The Ward of Resonance
+With all the other Wards deactivated, Harmonia can now hear the song of the final ward. 

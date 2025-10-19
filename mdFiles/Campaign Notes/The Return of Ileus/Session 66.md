@@ -62,4 +62,6 @@ With all the other Wards deactivated, Harmonia can now hear the song of the fina
 
 Harmonia sends the party to the location where she is hearing the song from. At the location in the desert is a small ring of 5 rune-inscribed stones. 4 of them are inactive now, but the last one is glowing hotly, almost vibrating trying to contain whatever is inside this ring. If the stone is removed from the ring, or magically dispelled, the last ward breaks and a massive shockwave blasts out from the ring. Everyone makes a DC 15 Dexterity Save, and is thrown back 20 feet on a fail. As the shockwave spreads, it blows all of the nearby sand away, revealing the area around the party.
 
-They are standing at the top of a large stone temple. As they make their way through the temple, they find 
+They are standing at the top of a large stone temple. As they make their way through the temple, they find all different kinds of imagery depicting the Fracture, the Dissension, the Scourge, even the Age of Dragons. Walking through the temple feels like walking through history.
+
+Eventually they find themselves in a large chapel with draconic imagery. There is a secret door behind the altar in this chapel that leads underground. After following a dark, winding path, some parts blocked by sand. They find themselves inside a massive underground cavern. In the center of the cavern 

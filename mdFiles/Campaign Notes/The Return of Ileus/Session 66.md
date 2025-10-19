@@ -35,7 +35,11 @@ Harbored in the Olympian Ruins is an Androsphinx named Kaarsi. Kaarsi is a lefto
 Harmonia believes that the Eladrin Seldori Siedus in Aubade Palace knows more about Ozewyn's adventures from the many years ago.
 
 It takes Siedus some time to remember, but he directs the party to an old [[Ozewyn's Journal|journal of Ozewyn's]] that he has lying around in his vault. The journal contains six phrases and possible locations. Siedus is familiar with the Murmuring Sanctum, as it is one of the places that Ozewyn loved to travel to most. The Sanctum is located in the forest not terribly far from Aubade Palace.
-### The Murmuring Sanctum
+#### The Murmuring Sanctum
 The Murmuring Sanctum is a small clearing with a small babbling brook that runs through it and seemingly infinite leaves that fall on the ground. However, neither the brook nor the leaves make any noise as they fall.
 
 A small forest spirit named Ping lives in the glade and knows the notes to deactivate the ward, but can only speak them aloud, which can't happen because of the silence. An ornate lute lies in the center of the clearing and is the only item that can make noise here. A DC 13 performance check quiets the glade. On a fail, the glade becomes angry and the leaves become still in the air. The party feels the air being sucked from the area, and if 2 more performance checks fail, they will begin to suffocate.
+
+With the silence dispelled, Ping can deactivate the ward, and also knows of the location of the Crystal Canopy. It is deep in Lolth's Grove, beneath the thick dark canopies there.
+#### The Crystal Canopy
+The Crystal Canopy is a spot in Lolth's Grove where a small beam of sunlight has cracked through the 

@@ -44,4 +44,7 @@ With the silence dispelled, Ping can deactivate the ward, and also knows of the 
 #### The Crystal Canopy
 The Crystal Canopy is a spot in Lolth's Grove where a small beam of sunlight has cracked through the Canopy and is reflected off of silver pools of liquid and the reflective leaves of trees that are growing here.
 
-The ward can be deactivated by blocking the sunlight, but there is a Drow Favored Consort here named 
+The ward can be deactivated by blocking the sunlight, but as the party is exploring the pool, a Drow Favored Consort casts a darkness spell over the hole in the canopy making the entire area full darkness. The consort then attacks from 120 feet away with arcane eruption attacks.
+
+If the silvery pools are illuminated and are fallen into, the creature take 4d10 radiant damage.
+### Oath Tree

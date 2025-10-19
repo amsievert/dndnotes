@@ -19,4 +19,4 @@ The party has a few options:
 Dallim only has his six remaining Unweavers left with him as he travels with his new followers on the way through the Feywild. Harmonia is able to teleport the party close to his position so they can jump him on the road. However, she emphasizes that they must prepare carefully.
 
 ### Relic Heist
-Ileus, Dallim, and the Unweavers are settled in the destroyed Castle Keep in 
+Ileus, Dallim, and the Unweavers are settled in the destroyed Castle Keep in Castellum. The keep has multiple holes in the walls, but the tall walls still offer decent protection. The camp is under the effect of a [Mordenkainen's Private Sanctum](https://dnd5e.wikidot.com/spell:mordenkainens-private-sanctum). 

@@ -16,5 +16,4 @@ Ward of Time - Hourglass Isle
 Ward of Absence - Null Island
 Ward of Reflection - Crystal Canopy
 Ward of Silence - Murmuring Sanctum
-Ward of Promises - Oath Tree
 Ward of Resonance

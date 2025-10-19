@@ -47,4 +47,5 @@ The Crystal Canopy is a spot in Lolth's Grove where a small beam of sunlight has
 The ward can be deactivated by blocking the sunlight, but as the party is exploring the pool, a Drow Favored Consort casts a darkness spell over the hole in the canopy making the entire area full darkness. The consort then attacks from 120 feet away with arcane eruption attacks.
 
 If the silvery pools are illuminated and are fallen into, the creature take 4d10 radiant damage.
-### Oath Tree
+#### Null Island
+Siedus puts the party in contact with a sailor he knows named Aimar. Aimar is a sea elf who has traveled on Aquallor many times b

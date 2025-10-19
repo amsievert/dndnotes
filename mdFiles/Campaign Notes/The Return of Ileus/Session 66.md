@@ -32,7 +32,7 @@ The option of the Olympian Ruins remains:
 Harbored in the Olympian Ruins is an Androsphinx named Kaarsi. Kaarsi is a leftover servant of one of the Olympian Gods (Athena). He has taken it upon himself to try and care for the remaining Olympian monsters. They have no food left in Olympia and need to take food from the wilds of Seldoris. Since the Seldorians don't seem to care about the refugees, they figured they were free to eat them instead of the fauna of Seldoris.
 
 ### The Shield of Ozewyn
-Harmonia believes that the Eladrin Seldori Siedus in Aubade Palace knows more about Ozewyn's adventures from the many years ago.
+Harmonia believes that the Eladrin Seldori Siedus in Aubade Palace knows more about Ozewyn's adventures from the many years ago. **MAKE SURE TO MENTION OZEWYN HAVING A DRAGON COMPANION NAMED VES** (short for Vestryl)
 
 It takes Siedus some time to remember, but he directs the party to an old [[Ozewyn's Journal|journal of Ozewyn's]] that he has lying around in his vault. The journal contains six phrases and possible locations. Siedus is familiar with the Murmuring Sanctum, as it is one of the places that Ozewyn loved to travel to most. The Sanctum is located in the forest not terribly far from Aubade Palace.
 #### The Murmuring Sanctum
@@ -64,4 +64,4 @@ Harmonia sends the party to the location where she is hearing the song from. At 
 
 They are standing at the top of a large stone temple. As they make their way through the temple, they find all different kinds of imagery depicting the Fracture, the Dissension, the Scourge, even the Age of Dragons. Walking through the temple feels like walking through history.
 
-Eventually they find themselves in a large chapel with draconic imagery. There is a secret door behind the altar in this chapel that leads underground. After following a dark, winding path, some parts blocked by sand. They find themselves inside a massive underground cavern. In the center of the cavern 
+Eventually they find themselves in a large chapel with draconic imagery. There is a secret door behind the altar in this chapel that leads underground. After following a dark, winding path, some parts blocked by sand. They find themselves inside a massive underground cavern. In the center of the cavern the see the remains of an adult dragon (Vestryl). On the front of the dragons chest, the Shield is attach to the ri

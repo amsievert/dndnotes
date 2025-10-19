@@ -58,4 +58,6 @@ Following the small crystal leads the party to another island on Aquallor where 
 
 As this last ward is deactivated, the whole plane shakes and a brief chord rings out through the sky. Harmonia immediately calls the party and asks what happened. She brings them back to her palace.
 #### The Ward of Resonance
-With all the other Wards deactivated, Harmonia can now hear the song of the final ward. 
+With all the other Wards deactivated, Harmonia can now hear the song of the final ward. It is calling from the Forbidden Realm of Mithardir. This forgotten third layer of Arborea is a vast white sand desert with ruins of ancient civilization. This also belonged to a pantheon of gods from the Dissension who were killed. However, all of the followers of these gods were also killed during the war, so the degradation of the layer is greatly increased. 
+
+Harmonia sends the party to the 

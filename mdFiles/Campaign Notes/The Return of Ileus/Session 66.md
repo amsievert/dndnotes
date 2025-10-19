@@ -9,3 +9,14 @@ A few hours after the attack on Lethandil, Astarius receives a sending message f
 
 ## Options
 The party has a few options:
+- [[#Attacking Dallim on the Road|Attack]] Dallim on the road to Castellum
+- [[#Relic Heist|Go to Castellum]] and try to steal back some of the relics before Ileus sends them back to his demiplane
+- Try to solve the new refugee crisis
+- Prepare for a potential attack on Seldoris
+- Find the Shield of Ozewyn
+
+### Attacking Dallim on the Road
+Dallim only has his six remaining Unweavers left with him as he travels with his new followers on the way through the Feywild. Harmonia is able to teleport the party close to his position so they can jump him on the road. However, she emphasizes that they must prepare carefully.
+
+### Relic Heist
+Ileus, Dallim, and the Unweavers are settled in the destroyed Castle Keep in 

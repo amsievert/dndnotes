@@ -42,4 +42,6 @@ A small forest spirit named Ping lives in the glade and knows the notes to deact
 
 With the silence dispelled, Ping can deactivate the ward, and also knows of the location of the Crystal Canopy. It is deep in Lolth's Grove, beneath the thick dark canopies there.
 #### The Crystal Canopy
-The Crystal Canopy is a spot in Lolth's Grove where a small beam of sunlight has cracked through the 
+The Crystal Canopy is a spot in Lolth's Grove where a small beam of sunlight has cracked through the Canopy and is reflected off of silver pools of liquid and the reflective leaves of trees that are growing here.
+
+The ward can be deactivated by blocking the sunlight, but there is a Drow Favored Consort here named 

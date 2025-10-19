@@ -11,14 +11,31 @@ A few hours after the attack on Lethandil, Astarius receives a sending message f
 The party has a few options:
 - [[#Attacking Dallim on the Road|Attack]] Dallim on the road to Castellum
 - [[#Relic Heist|Go to Castellum]] and try to steal back some of the relics before Ileus sends them back to his demiplane
-- Try to solve the new refugee crisis
-- Prepare for a potential attack on Seldoris
-- Find the Shield of Ozewyn
+- [[#More Refugees|Try to solve]] the new refugee crisis
+- [[#The Aftermath|Prepare]] for a potential attack on Seldoris
+- [[Find the Shield]] of Ozewyn
 
 ### Attacking Dallim on the Road
 Dallim only has his six remaining Unweavers left with him as he travels with his new followers on the way through the Feywild. Harmonia is able to teleport the party close to his position so they can jump him on the road. However, she emphasizes that they must prepare carefully.
 
 ### Relic Heist
+The party can get tipped off to this quest because the spear still communicates with Utu.
+
 Ileus, Dallim, and the Unweavers are settled in the destroyed Castle Keep in Castellum. The keep has multiple holes in the walls, but the tall walls still offer decent protection. The camp is under the effect of a [Mordenkainen's Private Sanctum](https://dnd5e.wikidot.com/spell:mordenkainens-private-sanctum). Ileus's workshop in the camp is at the top of a crooked tower that sits at the corner of the keep. There are windows and an observatory telescope at the top, as well as a few bricks missing from the walls on the way up. The windows are trapped with hold person glyphs, and the stairs are trapped with [Symbol](https://dnd5e.wikidot.com/spell:symbol) (pain) spells.
 
-Ileus hardly ever leaves the study, and rarely takes his eyes off the relics, since this is a Simulacrum and doesn't need to sleep. When he does leave the relics, he puts them in a "Chest of holding", a locked chest with a DC 22 arcane lock that has the effect of a bag of holding. He is still working on analyzing the artifacts, but it seems the Amulet of Greater Health and the Hammer of Epius have already been
+Ileus hardly ever leaves the study, and rarely takes his eyes off the relics, since this is a Simulacrum and doesn't need to sleep. When he does leave the relics, he puts them in a "Chest of holding", a locked chest with a DC 22 arcane lock that has the effect of a bag of holding. He is still working on analyzing the artifacts, but it seems the Amulet of Greater Health and the Hammer of Epius have already been sent back to his demiplane.
+
+### More Refugees
+With Lethandil destroyed, there are even more refugees and Seldoris is very close to boiling over. Dallim must be killed or the refugees need a new place to stay in Seldoris.
+
+The option of the Olympian Ruins remains:
+Harbored in the Olympian Ruins is an Androsphinx named Kaarsi. Kaarsi is a leftover servant of one of the Olympian Gods (Athena). He has taken it upon himself to try and care for the remaining Olympian monsters. They have no food left in Olympia and need to take food from the wilds of Seldoris. Since the Seldorians don't seem to care about the refugees, they figured they were free to eat them instead of the fauna of Seldoris.
+
+### The Shield of Ozewyn
+Harmonia believes that the Eladrin Seldori Siedus in Aubade Palace knows more about Ozewyn's adventures from the many years ago.
+
+It takes Siedus some time to remember, but he directs the party to an old [[Ozewyn's Journal|journal of Ozewyn's]] that he has lying around in his vault. The journal contains six phrases and possible locations. Siedus is familiar with the Murmuring Sanctum, as it is one of the places that Ozewyn loved to travel to most. The Sanctum is located in the forest not terribly far from Aubade Palace.
+### The Murmuring Sanctum
+The Murmuring Sanctum is a small clearing with a small babbling brook that runs through it and seemingly infinite leaves that fall on the ground. However, neither the brook nor the leaves make any noise as they fall.
+
+A small forest spirit named Ping lives in the glade and knows the notes to deactivate the ward, but can only speak them aloud, which can't happen because of the silence. An ornate lute lies in the center of the clearing and is the only item that can make noise here. A DC 13 performance check quiets the glade. On a fail, the glade becomes angry and the leaves become still in the air. The party feels the air being sucked from the area, and if 2 more performance checks fail, they will begin to suffocate.

@@ -50,4 +50,6 @@ If the silvery pools are illuminated and are fallen into, the creature take 4d10
 #### Null Island
 Siedus puts the party in contact with a sailor he knows named Aimar. Aimar is a sea elf who has traveled on Aquallor many times before. He lets the party travel on his Catamaran, as he takes them to where he believes Null Island is. He explains that the island is mostly unexplored since magic doesn't work on it.
 
-The island itself is no more than a mile across in both directions with low tree cover and a shallow shield volcano that rises in the middle, poking just above the trees. 
+The island itself is no more than a mile across in both directions with low tree cover and a shallow shield volcano that rises in the middle, poking just above the trees. In the Volcano's caldera amidst the lava, 2 fire elemental myrmidons guard a glyph on a pedestal that is protected by a fire shield fueled by the elementals, who must be killed to break the shield.
+#### Hourglass Isle
+Aimar also knows of a 

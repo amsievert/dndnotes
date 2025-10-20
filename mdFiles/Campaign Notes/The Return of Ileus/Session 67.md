@@ -1,0 +1,1 @@
+Current Day: 22nd of Friga, 2519 PS

@@ -1,1 +1,1 @@
-Current Day: 24rd of Friga, 2519 PS
+Current Day: 25th of Friga, 2519 PS

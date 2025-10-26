@@ -13,4 +13,6 @@ Status: Returned to Spellreach
 Spear of the Blood Chief:
 Exercise EXTREME CAUTION when handling, item is sentient. Entity fought back against Legend Lore ritual, had to be subdued. Artifact was created by the Blood Chief during the First Blood War. Stolen and wielded by Ageor the fool during the Scourge.
 
-Possible Awakened State: 
+Possible Awakened State: Pact?
+
+Status: Research ongoing

@@ -6,6 +6,8 @@ Ileus, Dallim, and the Unweavers are settled in the destroyed Castle Keep in Cas
 
 Ileus hardly ever leaves the study, and rarely takes his eyes off the relics, since this is a Simulacrum and doesn't need to sleep. When he does leave the relics, he puts them in a "Chest of holding", a locked chest with a DC 22 arcane lock that has the effect of a bag of holding. He is still working on analyzing the artifacts, but it seems the Amulet of Greater Health and the Hammer of Epius have already been sent back to his demiplane.
 
+Hama's 
+
 ### More Refugees
 With Lethandil destroyed, there are even more refugees and Seldoris is very close to boiling over. Dallim must be killed or the refugees need a new place to stay in Seldoris.
 

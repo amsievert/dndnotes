@@ -4,4 +4,11 @@ Greatly increases bodily health and constitution. Created by Libai as a gift to 
 Status: Returned to Spellreach
 
 Hammer of Epius:
-Created by Archmage Epius with the help of Giantkind smiths beneath Mount Smedr. Imbued with the power of a Primordial being. Turns opponents to stone when power surges. After Epius's death, the Hammer was kept safe by 
+Created by Archmage Epius with the help of Giantkind smiths beneath Mount Smedr. Imbued with the power of a Primordial being. Turns opponents to stone when power surges. After Epius's death, the Hammer was kept safe by Giants in the forge. Mages during Arcane Resurgence attempted to steal it unsuccessfully.
+
+Possible Awakened State: Higher likelihood of stone transmutation?
+
+Status: Returned to Spellreach
+
+Spear of the Blood Chief:
+Exercise EXTREME CAUTION when handling, item is sentient. Entity fought back against Legend Lore ritual. 

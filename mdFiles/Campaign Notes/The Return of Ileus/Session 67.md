@@ -1,4 +1,4 @@
-Current Day: 25th of Friga, 2519 PS
+Current Day: 26th of Friga, 2519 PS
 ### Relic Heist
 The party can get tipped off to this quest because the spear still communicates with Utu.
 

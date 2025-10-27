@@ -23,4 +23,5 @@ Against the wall between the cot and the altar is a row of floor to ceiling book
 
 The elevator only goes between this upper level and another chamber far below ground. It opens up into a small chamber with a projection of the starry sky suspended in a magically darkened ceiling. Beyond the antechamber is a library. The library has been completely ransacked, shelves knocked over, pages torn from books, and other scrape marks across the ground that lead out towards the elevator.
 
-Between the ransacked library and the next room is a long corridor. In the corridor
+Between the ransacked library and the next room is a long corridor. In the corridor is a single skeletal arm with rotted cloth on it. Just past this arm, a disguised magical glyph activates when anyone gets too close to it, opening a 15 foot-long opening in the floor that attempts to swallow up people and quickly close to crush them. A DC 13 dexterity saving throw escapes the trap if it activates. At the bottom of the pit, crushed bones with cloth matching the arm can be seen.
+

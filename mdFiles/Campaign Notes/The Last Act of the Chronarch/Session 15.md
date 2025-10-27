@@ -27,3 +27,4 @@ Between the ransacked library and the next room is a long corridor. As the party
 
 The next room after the corridor is a seeming endlessly deep cavern with massive pillars of gears rising up from the darkness and connecting to the roof. The pillars are slowly turning, powering something. The gears form natural platforms to jump across, but there are more skeletal bodies on the gears. These ones don't have any broken bones but are leaned up against the pillars dead. As the party begins climbing across the gears, small homunculus fly up from below and begin pelting the crossers with darts and bites.
 
+The next room is what the previous was powering, a massive machine that looks like a fusion reactor. The machine is shaped like a massive torus with wires and gearshafts 

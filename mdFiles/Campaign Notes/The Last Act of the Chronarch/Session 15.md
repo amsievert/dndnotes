@@ -1,0 +1,23 @@
+Current Day: 1st of Calo, 2519 PS
+
+**Ysaldan Vhal's Magnum Opus**
+In her note from the tower, Vhal mentions that her Magnum Opus is hidden within the Westerwood. This Magnum Opus is the Void Seal. Using the ancient magic of the Elderbark trees, she traveled to the edge of the universe and collected some of the Void fragments from there and crafted them into the Void Seal. She created this artifact at the end of the Arcane Resurgence as she realized the troubles that magic was bringing into the world.
+
+However, sometime during the Age of Peace, local explorers stumbled upon Vhal's laboratory and alerted higher authorities, who took the Void Seal and separated it into pieces and sent these pieces far away from each other. The power of the Void Seal couldn't be completely destroyed however, and even the pieces on their own hold great power. Some of the pieces are on Chandaria while others were sent to other planes. They have since changed hands from the original beings that held them, but they can be tracked down.
+#### Traveling to the Void Fortress
+Around mid-afternoon on the third day of travel, the party reaches the area that is indicated by Ysaldan's map.
+
+The area is a small clearing with a hill on the far side, half covered with the treeline. The area here is naturally more hilly, since it is close to the Exalted Summit. The clearing itself doesn't have much, except for a few stones stacked in what could be the remnants of a small garden wall. Also beneath some leaves is an extremely dirty and cracked crystal ball about the size of a softball. This is an old arcane focus from the wizards that came to collect the Void Seal.
+
+Hidden amongst the trees atop the hill on the far side of the clearing is a squat shack with a medium-sized telescope protruding from the roof. The building is made of stones similar to the ones in the garden wall and the whole thing is covered in ivy.
+
+The door is locked and is made of metal with a circular window at head level.
+
+Inside is a table and chair at the eyepiece of the telescope. On the table is a star chart labeled "Aloran Quadrant". It has four constellations on it, "The Dragon", "Mother Gith", "Annam", and "Void?" accompanied with a small journal entry written by Ysaldan.
+
+In a corner of this room there is another small altar to Harmonia. This one lacks a Harmonium crystal.
+
+There is also a small cot in another corner of the room.
+
+Against the wall between the cot and the altar is a row of floor to ceiling bookcases, with a rolling ladder that slides along to allow access to the higher levels. Along the rail at the top, 5 elven words are etched into the metal:  "To Hold", "Sanctuary", "Knowledge", "Song", and "Crossroads". When the ladder is placed over a word and that word is spoken, the word alights. The words "Crossroads", "Song", then "Sanctuary" must be activated in that order to open one of the bookcases, revealing a creaky metal elevator operated by pully. On the elevator however is a large construct (Shield Guardian stat block) that has the insignia of Spellhaven (Eight pointed silver star surrounded by gold band) printed across its metal chestplate. It quickly scans the party then immediately attacks.
+

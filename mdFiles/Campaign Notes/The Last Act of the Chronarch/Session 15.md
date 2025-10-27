@@ -23,3 +23,4 @@ Against the wall between the cot and the altar is a row of floor to ceiling book
 
 The elevator only goes between this upper level and another chamber far below ground. It opens up into a small chamber with a projection of the starry sky suspended in a magically darkened ceiling. Beyond the antechamber is a library. The library has been completely ransacked, shelves knocked over, pages torn from books, and other scrape marks across the ground that lead out towards the elevator.
 
+Between the ransacked library and the next room is a long corridor. In the corridor

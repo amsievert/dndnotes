@@ -32,4 +32,6 @@ The next room is what the previous was powering, a massive machine that looks li
 The final room is through a door labeled containment. Inside are two groups of bodies, one mages and one gith warriors. They died fighting each other. In the center of the room is a broken display case with a Void Fragment inside. Its power is tangible while standing in the room, and its unclear exactly why this Fragment is still here. In reality, the Void Seal was broken during this fight that happened in the containment area to allow the mages to defeat the gith defenders. This last fragment remains because it is bound to this area. Because so, as soon as it is touched, some of the gith skeletons reanimate and attack anyone else in the room. 3 Githyanki Warriors.
 
 ### The Elderbark Trees
-On his journey back to his home town, Rango learns that the Elderbark Trees at the center of their village 
+On his journey back to his home town, Rango learns that the Elderbark Trees at the center of their village are smoking more than before. A sentry a few nights ago even claims to have seen the bark beginning to split open and flames lick out momentarily. The elders of the village have increased the power they are channeling into the trees to keep them healthy because of this.
+
+What is really happening: A powerful entity from the Elemental Plane of fire possesses one of the Void Fragments, which is allowing them to channel the power of the Void Seal to rip through the Interplanar Fabric.

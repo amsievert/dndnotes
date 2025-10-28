@@ -27,4 +27,6 @@ Between the ransacked library and the next room is a long corridor. As the party
 
 The next room after the corridor is a seeming endlessly deep cavern with massive pillars of gears rising up from the darkness and connecting to the roof. The pillars are slowly turning, powering something. The gears form natural platforms to jump across, but there are more skeletal bodies on the gears. These ones don't have any broken bones but are leaned up against the pillars dead. As the party begins climbing across the gears, small homunculus fly up from below and begin pelting the crossers with darts and bites.
 
-The next room is what the previous was powering, a massive machine that looks like a fusion reactor. The machine is shaped like a massive torus with wires and gearshafts 
+The next room is what the previous was powering, a massive machine that looks like a fusion reactor. The machine is shaped like a massive torus with wires and gear shafts attaching to it from the ceiling. In the center of the Torus is a small circular container, almost like a mould. Pistons from the ring look as if they could press in on the circle. The machine is currently off but there is a very obvious switch near the side of the room. This machine is what distilled the void essence into the Void Seal.
+
+The final room is through a door labeled containment. Inside are two different groups of bodies, both mages, that seem to have died fighting each other. There are necromancy ritual circles h

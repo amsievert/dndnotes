@@ -1,3 +1,4 @@
+
 Current Day: 1st of Calo, 2519 PS
 
 **Ysaldan Vhal's Magnum Opus**

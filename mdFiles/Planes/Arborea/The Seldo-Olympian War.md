@@ -12,4 +12,9 @@ Following this retaliation, Seldoris troops made significant headway into occupy
 ### Year Three
 As the war raged on and the Seldoris troops continued their campaign into the heart of Olympia, occupation and death became the norm for many inhabitants of Olympia. Because of this, many more Olympians were willing to join the war effort on the frontlines. As Seldoris citizens grew complacent with the war, the Olympians rallied and grew stronger. With Seldoris forces spread thin across Olympia, the Olympians were able to use guerilla warfare tactics to slowly liberate many of their towns.
 
-At the same time, Harmonia was very occupied with the Dissension. The Olympians seized the opportunity and raised an army that successfully drove the Seldorians from their lands, and even managed to set
+At the same time, Harmonia was very occupied with the Dissension. The Olympians seized the opportunity and raised an army that successfully drove the Seldorians from their lands, and even managed to set up an outpost across the border, on the shores of Lake Goneril.
+
+Following this liberation, the war entered a period of stalemate, and the next few years saw little change in territory or power.
+
+### Year Six
+13 YD saw the explosion of kinetic energy that had been building up in the previous two years of stalemate. From their outpost by Lake Goneril, the Olympian forces had been sending forces up and down the Silverflow river, terrorizing the towns and villages that sat on the 

@@ -23,4 +23,6 @@ In year six, the Olympian naval forces had gained control of the Silverflow rive
 
 After regaining control of the Silverflow river, both sides gathered troops around Lake Goneril, shaping up for the climactic battle of the war. At this point in the fighting, both sides had lost thousands of troops, and both realms had seen much destruction. In addition, the Dissension was showing no sign of stopping. Both Harmonia and the Olympians grew desperate to end this war.
 
-On the shores of Lake Goneril, 100,000 troops met 
+On the shores of Lake Goneril, 100,000 troops met on the battlefield to decide the outcome of the war. A large group of Olympian Gorgons led the charge into the Seldorian ranks, breaking through the line and unleashing their petrification on the soldiers. A platoon of Cyclopes was close behind, shattering the petrified Seldorians and spreading chaos among the nearby Elven forces. Siedus and the other Seldori struggled to rally their troops.
+
+While the battle on the ground raged on 

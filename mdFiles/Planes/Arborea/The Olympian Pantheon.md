@@ -2,4 +2,6 @@ The Gods of the Olympian Pantheon were minor deities that existed before the Sco
 
 Regardless of their origin, they settled in Arborea alongside [[Harmonia]] and her [[Seldori]]. The Olympians got along amicably with Harmonia, and the two forces divided Arvandor into their own realms of [[Seldoris]] and Olympia.
 
-The Olympian Gods were nowhere near as powerful as the [[Gods and Mythos|Aeonic Pantheon]]. Because of this, the descendants 
+The Olympian Gods were nowhere near as powerful as the [[Gods and Mythos|Aeonic Pantheon]]. Because of this, the descendants of the Olympians are seen across the planes as monstrosities. This monstrous opinion was only exacerbated after the death of the Pantheon. Upon losing their divinity, the Olympian descendants' bodies and minds deteriorated, turning them into true monsters.
+
+

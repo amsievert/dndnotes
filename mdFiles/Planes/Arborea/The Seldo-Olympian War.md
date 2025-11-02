@@ -1,3 +1,3 @@
 The effects of the beginning of [[The Great Dissension|the Great Dissension]] were felt across the Planes. In Arborea, the realms of Seldoris and Olympia broke out in war following the start of the Great Dissension. While no deities from either side would die from this conflict, many inhabitants from both realms would lose their lives in the fighting.
 ## Casus Belli
-The inciting incident for the war was 
+The inciting incident for the war was an Olympian attack on [[Seldoris#Grandfather Oak|Grandfather Oak]] in Seldoris. Harmonia and her Seldori, who joined the Great Dissension as part of the Upper Planes Alliance, were using Grandfather Oak as a hub to move Alliance troops across the Planes. 

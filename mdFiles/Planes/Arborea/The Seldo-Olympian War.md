@@ -17,4 +17,6 @@ At the same time, Harmonia was very occupied with the Dissension. The Olympians 
 Following this liberation, the war entered a period of stalemate, and the next few years saw little change in territory or power.
 
 ### Year Six
-13 YD saw the explosion of kinetic energy that had been building up in the previous two years of stalemate. From their outpost by Lake Goneril, the Olympian forces had been sending forces up and down the Silverflow river, terrorizing the towns and villages that sat on the 
+13 YD saw the explosion of kinetic energy that had been building up in the previous two years of stalemate. From their outpost by Lake Goneril, the Olympian forces had been sending forces up and down the Silverflow river, terrorizing the towns and villages that sat on the river banks.
+
+In year six, the Olympian naval forces had gained control of the Silverflow river all the way up to the Sparkling Sea. It was here however that they would finally meet their match. A fleet of Elven warships, moored in Sea Elf Grotto, crossed paths with an Olympian raiding fleet. The Olympian fleet retreated to the mouth of the Silverflow river, easily outrunning the slower warships. At the river mouth, the raiding ships regrouped with the rest of the Olympian fleet

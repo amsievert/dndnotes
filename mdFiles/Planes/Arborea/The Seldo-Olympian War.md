@@ -10,4 +10,6 @@ Following the attack on Grandfather Oak and the Seldori Council's declaration of
 
 Following this retaliation, Seldoris troops made significant headway into occupying Olympia. This was the trend for most of the first two years.
 ### Year Three
-As the war raged on and the Seldoris troops continued their campaign into the heart of Olympia, occupation and death became the norm for many inhabitants of Olympia. 
+As the war raged on and the Seldoris troops continued their campaign into the heart of Olympia, occupation and death became the norm for many inhabitants of Olympia. Because of this, many more Olympians were willing to join the war effort on the frontlines. As Seldoris citizens grew complacent with the war, the Olympians rallied and grew stronger. With Seldoris forces spread thin across Olympia, the Olympians were able to use guerilla warfare tactics to slowly liberate many of their towns.
+
+At the same time, Harmonia was very occupied with the Dissension. The Olympians seized the opportunity and raised an army that successfully drove the Seldorians from their lands, and even managed to set

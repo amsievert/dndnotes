@@ -1,2 +1,1 @@
-The gods of the Olympian Pantheon 
-Like the [[Gods and Mythos|Aeonic Pantheon]]
+The Gods of the Olympian Pantheon were minor deities that existed before the Scourge. The entire pantheon was killed by the Anteity League during the Scourge, and the names of all its Gods have long been lost to time. Like the [[Gods and Mythos|Aeonic Pantheon]], it's unsure exactly when this pantheon came to be in the Universe. Some theologists theorized that the Olympians could have come from a different Multiverse. 

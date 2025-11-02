@@ -1,0 +1,1 @@
+The effects of the beginning of [[The Great Dissension|the Great Dissension]] were felt across the Planes. In Arborea, 

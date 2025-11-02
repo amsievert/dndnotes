@@ -1,1 +1,3 @@
-The effects of the beginning of [[The Great Dissension|the Great Dissension]] were felt across the Planes. In Arborea, 
+The effects of the beginning of [[The Great Dissension|the Great Dissension]] were felt across the Planes. In Arborea, the realms of Seldoris and Olympia broke out in war following the start of the Great Dissension. While no deities from either side would die from this conflict, many inhabitants from both realms would lose their lives in the fighting.
+## Casus Belli
+The inciting incident for the war was 

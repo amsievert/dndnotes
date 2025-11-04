@@ -8,4 +8,7 @@ Elminster's entire goal of the encounter is to leave with the Void Fragment and 
 
 Elminster knows that the Void Seal itself is a powerful conjuration artifact and that even just holding a fragment of it grants power.
 
-His motivation for doing this is because he believes that by retrieving this Void Fragment, he will finally make his brother Tannaeus proud. He hates the party because they have constantly made him look like a fool for his brother. 
+His motivation for doing this is because he believes that by retrieving this Void Fragment, he will finally make his brother Tannaeus proud. He hates the party because they have constantly made him look like a fool for his brother. Elminster is the little brother of the Lysanders and he has only ever wanted to make his brother proud.
+The most tragic part about this whole situation is that he is not even working for his brother, but instead is being manipulated by The Chronarch. 
+
+If Elminster successfully obtains the Fragment, he leaves and starts travelling back to Spellhaven via the Jequith port. He also stabilizes any players that are down because his boss told him to. He has two revivify 

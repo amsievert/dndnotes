@@ -13,7 +13,8 @@ With the silence dispelled, Ping can deactivate the ward, and also knows of the 
 Ping was assigned to protect this ward by Ozewyn after she escaped from Carceri.
 Things that Ping knows:
 - Ozewyn spent many years creating the wards to hide the shield
-- Ping first met Ozewyn 
+- Ping first met Ozewyn during the Dissension when she was learning magic from Harmonia and Siedus
+- Ping helped Ozewyn and Ves hide after escaping Carceri since Siedus was still angry at her after the Scourge
 #### The Crystal Canopy
 The Crystal Canopy is a spot in Lolth's Grove where a small beam of sunlight has cracked through the Canopy and is reflected off of silver pools of liquid and the reflective leaves of trees that are growing here.
 

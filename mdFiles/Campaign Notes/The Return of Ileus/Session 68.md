@@ -1,4 +1,4 @@
-Current Day: 26th of Friga, 2519 PS
+Current Day: 27th of Friga, 2519 PS
 ### [[Relics of Dissension|The Shield of Ozewyn]]
 Harmonia believes that the Eladrin Seldori Siedus in Aubade Palace knows more about Ozewyn's adventures from the many years ago. **MAKE SURE TO MENTION OZEWYN HAVING A DRAGON COMPANION NAMED VES** (short for Vestryl)
 

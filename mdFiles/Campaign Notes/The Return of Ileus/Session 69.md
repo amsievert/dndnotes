@@ -16,6 +16,8 @@ Things that Ping knows:
 - Ping first met Ozewyn during the Dissension when she was learning magic from Harmonia and Siedus
 - Ping helped Ozewyn and Ves hide after escaping Carceri since Siedus was still angry at her after the Scourge
 #### The Crystal Canopy
+While traveling from the Olympian Ruins and over the mountains to Lolth's Grove, the mountain pass is guarded by two Drow Warriors named Istoril and Kia. They question the party on their coming from the Olympian ruins and warn them that the grove may be hard to traverse for them. They know what the Crystal Canopy is and are scared of it because of the daylight.
+
 The Crystal Canopy is a spot in Lolth's Grove where a small beam of sunlight has cracked through the Canopy and is reflected off of silver pools of liquid and the reflective leaves of trees that are growing here.
 
 The ward can be deactivated by blocking the sunlight, but as the party is exploring the pool, a Drow Favored Consort casts a darkness spell over the hole in the canopy making the entire area full darkness. The consort then attacks from 120 feet away with arcane eruption attacks.

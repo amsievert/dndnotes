@@ -30,7 +30,7 @@ After 1d4 days, a massive storm engulfs the ship. The storm follows a DC20 storm
 
 As the party reaches within 2 days of Null Island the water becomes hot to the touch, and very sulfurous.
 
-The island itself is no more than a mile across in both directions with low tree cover and a shallow shield volcano that rises in the middle, poking just above the trees. The entire island is incredibly still, with almost no sense of movement or life of any sort besides the trees, which appear to be petrified with ash. In the Volcano's caldera amidst the lava, 2 fire elemental myrmidons guard a glyph on a pedestal that is protected by a fire shield fueled by the elementals, who must be killed to break the shield.
+The island itself is no more than a mile across in both directions with low tree cover and a shallow shield volcano that rises in the middle, poking just above the trees. The entire island is incredibly still, with almost no sense of movement or life of any sort besides the trees, which appear to be petrified with ash. In the Volcano's caldera amidst the lava, 2 fire elemental myrmidons guard a glyph on a pedestal that is protected by a fire shield fueled by the elementals, who must be killed to break the shield. Also in the caldera, thin cracks of black void carve their way through the lava. The lava seems to be flowing out from the void. As the fighting starts, a githyanki gish hops out of one of the near voids and joins the combat.
 
 Among some small trinkets around the glyph is an hourglass with sand in it, but also a tiny crystal that *tinks* against the glass inside, trying to return somewhere, acting as a sort of compass. It is pointing to Hourglass Isle.
 #### Hourglass Isle

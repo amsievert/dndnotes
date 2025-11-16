@@ -17,9 +17,12 @@ If the silvery pools are illuminated and are fallen into, the creature takes 4d1
 The Drow was not the original defender of this ward. The original defender was an Eladrin whose bones can found half submerged in one of the glowing pools. However, the Drow was driven mad by the power of the sun shining through the clearing. On the Drow's body, the area around its exposed eyes is cracked and burned and the eyes themselves have a crazy look. The rest of the Drow's body is covered in veins that appear to be flowing with the same silvery look as the pools.
 #### Null Island
 Siedus puts the party in contact with a sailor he knows named Aimar. Aimar is a sea elf who has traveled on Aquallor many times before. He lets the party travel on his Catamaran, as he takes them to where he believes Null Island is. He explains that the island is mostly unexplored since magic doesn't work on it.
-
 ##### Aquallor Encounters
-When travelling on Aimar's ship, a long rest can only be taken when docked on land. 
+When travelling on Aimar's ship, a long rest can only be taken when docked on land.
+
+Sailing to Null Island takes two weeks.
+
+One night, Aimar remarks that Naivara the resurgent goddess has graced the ship with her presence. The full moon hangs in the sky, brighter and larger
 
 The island itself is no more than a mile across in both directions with low tree cover and a shallow shield volcano that rises in the middle, poking just above the trees. In the Volcano's caldera amidst the lava, 2 fire elemental myrmidons guard a glyph on a pedestal that is protected by a fire shield fueled by the elementals, who must be killed to break the shield.
 

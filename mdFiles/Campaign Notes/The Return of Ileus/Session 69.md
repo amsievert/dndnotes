@@ -6,7 +6,7 @@ While traveling from the Olympian Ruins and over the mountains to Lolth's Grove,
 
 While traveling through the darkness of the grove, rustling can be heard near the party. A strange vibrating squawking can be heard surrounding the party. After circling the party for a bit, a drow child emerges from the undergrowth. The child's name is Zarra. After brief talking, a hooked horror jumps from the undergrowth towards Zarra and the party. This hooked horror is Zarra's pet named Hoohoo. Zarra has grown up in the woods for her whole life, and she believes that she was born from the trees.
 
-
+After following the light of the canopy for a while, another smaller light becomes visible. If followed, this light is a small patch of glowing mushroom stalks. At the center of the patch is a large bone 
 
 The Crystal Canopy is a spot in Lolth's Grove where a small beam of sunlight has cracked through the Canopy and is reflected off of silver pools of liquid and the reflective leaves of trees that are growing here.
 

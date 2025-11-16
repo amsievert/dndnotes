@@ -1,22 +1,10 @@
 Current Day: 28th of Friga, 2519 PS
 ### [[Relics of Dissension|The Shield of Ozewyn]]
-Harmonia believes that the Eladrin Seldori Siedus in Aubade Palace knows more about Ozewyn's adventures from the many years ago. **MAKE SURE TO MENTION OZEWYN HAVING A DRAGON COMPANION NAMED VES** (short for Vestryl)
-
-It takes Siedus some time to remember, but he directs the party to an old [[Ozewyn's Journal|journal of Ozewyn's]] that he has lying around in his vault. The journal contains six phrases and possible locations. Siedus is familiar with the Murmuring Sanctum, as it is one of the places that Ozewyn loved to travel to most. The Sanctum is located in the forest not terribly far from Aubade Palace.
-#### The Murmuring Sanctum
-The Murmuring Sanctum is a small clearing with a small babbling brook that runs through it and seemingly infinite leaves that fall on the ground. However, neither the brook nor the leaves make any noise as they fall.
-
-A small forest spirit named Ping lives in the glade and knows the notes to deactivate the ward, but can only speak them aloud, which can't happen because of the silence. An ornate lute lies in the center of the clearing and is the only item that can make noise here. A DC 13 performance check quiets the glade. On a fail, the glade becomes angry and the leaves become still in the air. The party feels the air being sucked from the area, and if 2 more performance checks fail, they will begin to suffocate.
-
-With the silence dispelled, Ping can deactivate the ward, and also knows of the location of the Crystal Canopy. It is deep in Lolth's Grove, beneath the thick dark canopies there.
-
-Ping was assigned to protect this ward by Ozewyn after she escaped from Carceri.
-Things that Ping knows:
-- Ozewyn spent many years creating the wards to hide the shield
-- Ping first met Ozewyn during the Dissension when she was learning magic from Harmonia and Siedus
-- Ping helped Ozewyn and Ves hide after escaping Carceri since Siedus was still angry at her after the Scourge
 #### The Crystal Canopy
+##### Lolth's Grove Encounters
 While traveling from the Olympian Ruins and over the mountains to Lolth's Grove, the mountain pass is guarded by two Drow Warriors named Istoril and Kia. They question the party on their coming from the Olympian ruins and warn them that the grove may be hard to traverse for them. They know what the Crystal Canopy is and are scared of it because of the daylight.
+
+While traveling through the darkness of the grove, rustling can be heard near the party. A strange vibrating squawking can be heard surrounding the party. After circling the party for a bit, a drow child emerges from the undergrowth. The child's name is Zarra. 
 
 The Crystal Canopy is a spot in Lolth's Grove where a small beam of sunlight has cracked through the Canopy and is reflected off of silver pools of liquid and the reflective leaves of trees that are growing here.
 

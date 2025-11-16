@@ -6,13 +6,15 @@ While traveling from the Olympian Ruins and over the mountains to Lolth's Grove,
 
 While traveling through the darkness of the grove, rustling can be heard near the party. A strange vibrating squawking can be heard surrounding the party. After circling the party for a bit, a drow child emerges from the undergrowth. The child's name is Zarra. After brief talking, a hooked horror jumps from the undergrowth towards Zarra and the party. This hooked horror is Zarra's pet named Hoohoo. Zarra has grown up in the woods for her whole life, and she believes that she was born from the trees.
 
-After following the light of the canopy for a while, another smaller light becomes visible. If followed, this light is a small patch of glowing mushroom stalks. At the center of the patch is a large bone glowing with the same light as the mushroom stalks. A DC 13 medicine check reveals that this bone is the tip of a toe bone. A DC 18 religion or arcana check reveals some divine nature of this large bone piece. 
+After following the light of the canopy for a while, another smaller light becomes visible. If followed, this light is a small patch of glowing mushroom stalks. At the center of the patch is a large bone glowing with the same light as the mushroom stalks. A DC 13 medicine check reveals that this bone is the tip of a toe bone. A DC 18 religion or arcana check reveals some divine nature of this large bone piece. The glowing mushrooms can be harvested to get 1d6 mushrooms that act as healing potions.
 
 The Crystal Canopy is a spot in Lolth's Grove where a small beam of sunlight has cracked through the Canopy and is reflected off of silver pools of liquid and the reflective leaves of trees that are growing here.
 
 The ward can be deactivated by blocking the sunlight, but as the party is exploring the pool, a Drow Favored Consort casts a darkness spell over the hole in the canopy making the entire area full darkness. The consort then attacks from 120 feet away with arcane eruption attacks.
 
-If the silvery pools are illuminated and are fallen into, the creature take 4d10 radiant damage.
+If the silvery pools are illuminated and are fallen into, the creature takes 4d10 radiant damage.
+
+The Drow was not the original defender of this ward. The original defender was an Eladrin 
 #### Null Island
 Siedus puts the party in contact with a sailor he knows named Aimar. Aimar is a sea elf who has traveled on Aquallor many times before. He lets the party travel on his Catamaran, as he takes them to where he believes Null Island is. He explains that the island is mostly unexplored since magic doesn't work on it.
 

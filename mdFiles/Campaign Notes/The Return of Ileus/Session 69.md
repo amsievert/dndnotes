@@ -4,7 +4,9 @@ Current Day: 28th of Friga, 2519 PS
 ##### Lolth's Grove Encounters
 While traveling from the Olympian Ruins and over the mountains to Lolth's Grove, the mountain pass is guarded by two Drow Warriors named Istoril and Kia. They question the party on their coming from the Olympian ruins and warn them that the grove may be hard to traverse for them. They know what the Crystal Canopy is and are scared of it because of the daylight.
 
-While traveling through the darkness of the grove, rustling can be heard near the party. A strange vibrating squawking can be heard surrounding the party. After circling the party for a bit, a drow child emerges from the undergrowth. The child's name is Zarra. 
+While traveling through the darkness of the grove, rustling can be heard near the party. A strange vibrating squawking can be heard surrounding the party. After circling the party for a bit, a drow child emerges from the undergrowth. The child's name is Zarra. After brief talking, a hooked horror jumps from the undergrowth towards Zarra and the party. This hooked horror is Zarra's pet named Hoohoo. Zarra has grown up in the woods for her whole life, and she believes that she was born from the trees.
+
+
 
 The Crystal Canopy is a spot in Lolth's Grove where a small beam of sunlight has cracked through the Canopy and is reflected off of silver pools of liquid and the reflective leaves of trees that are growing here.
 

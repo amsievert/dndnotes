@@ -1,4 +1,4 @@
-Current Day: 3rd of Glanix, 2520 PS
+Current Day: 2nd of Glanix, 2520 PS
 ### [[Relics of Dissension|The Shield of Ozewyn]]
 #### The Crystal Canopy
 ##### Lolth's Grove Encounters

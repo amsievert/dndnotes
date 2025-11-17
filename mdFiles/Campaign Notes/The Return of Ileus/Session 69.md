@@ -1,4 +1,4 @@
-Current Day: 28th of Friga, 2519 PS
+Current Day: 29th of Friga, 2519 PS
 ### [[Relics of Dissension|The Shield of Ozewyn]]
 #### The Crystal Canopy
 ##### Lolth's Grove Encounters

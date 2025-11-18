@@ -8,8 +8,8 @@ The mages have traveled 10 hours a day to try to make time on the party. By the 
 
 Some of the old sailors who spend their days on the Harborfront in [[Jequith]] saw the mages tiredly hurry onto the ship and depart.
 
-There are a few ships that the party can follow Elminster on. Good Fortune is a Galley captained by a dwarf named Kilgore. The Cruel Deceit is a Warship captained by a half-elf named Arryn. The Swift Cyclone is a Sailing Ship captained by a human named Archie. The mages took a Sailing Ship, so they will be traveling fast.
+There are a few ships that the party can follow Elminster on. Good Fortune is a Galley captained by a dwarf named Kilgore. The Cruel Deceit is a Warship captained by a half-elf named Arryn. The Swift Cyclone is a Sailing Ship captained by a human named Archie. The mages took a Sailing Ship, so they will be traveling fast. The captains, especially those on the slower fighting ships will agree to help the party given that they are offered the flotsam from the sunken ship.
 
 A sailing ship will catch up with the mage's ship around Saltmarsh. A warship or galley will catch up with the mage's ship about 50 miles off the coast of Valdens. While this combat will probably be easier, there is a 50% chance that the party will be marked as pirates and arrested in Spellhaven along with their captain.
 
-If the party is put in j
+If the party is put in jail, the Chronarch will come and get them out. Otherwise, he sends them a sending message asking to meet at his office in [[Spellhaven]], which is in the Crystal Forum.

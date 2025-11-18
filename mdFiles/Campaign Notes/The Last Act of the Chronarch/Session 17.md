@@ -8,4 +8,4 @@ The mages have traveled 10 hours a day to try to make time on the party. By the 
 
 Some of the old sailors who spend their days on the Harborfront in [[Jequith]] saw the mages tiredly hurry onto the ship and depart.
 
-There are a few ships that the party can follow Elminster on. 
+There are a few ships that the party can follow Elminster on. Good Fortune is a Galley captained by a dwarf named Kilgore. The Cruel Deceit is a Warship captained by a half-elf named Arryn. The Swift Cyclone is a Sailing Ship captained by a human named Archie. The mages took a Sailing Ship, so they will be traveling fas

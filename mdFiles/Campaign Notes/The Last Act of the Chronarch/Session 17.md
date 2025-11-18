@@ -8,3 +8,4 @@ The mages have traveled 10 hours a day to try to make time on the party. By the 
 
 Some of the old sailors who spend their days on the Harborfront in [[Jequith]] saw the mages tiredly hurry onto the ship and depart.
 
+There are a few ships that the party can follow Elminster on. 

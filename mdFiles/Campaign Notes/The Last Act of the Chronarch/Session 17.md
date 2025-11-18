@@ -4,4 +4,7 @@ The party returns to consciousness 3 hours after being downed by Elminster. The 
 
 Back in the gears room, one of the mages has died to the drones and her body is stuck on the gears. She has a map on her that has Jequith marked with a ship icon and the words "Misty Revenge" by the ship. This is the name of the ship that the mages are taking back to Spellhaven.
 
-The mages have traveled 10 hours a day to try to make time on the party. 
+The mages have traveled 10 hours a day to try to make time on the party. By the time they reach Jequith, one mage has 3 points of exhaustion and the other has 2. Elminster has no levels of exhaustion. The mages depart on Calo 4, early in the morning.
+
+Some of the old sailors who spend their days on the Harborfront in [[Jequith]] saw the mages tiredly hurry onto the ship and depart.
+

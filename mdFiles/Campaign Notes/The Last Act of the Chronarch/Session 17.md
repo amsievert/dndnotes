@@ -1,4 +1,4 @@
-Current Day: 1st of Calo, 2506 PS
+Current Day: 2nd of Calo, 2506 PS
 
 The party returns to consciousness 3 hours after being downed by Elminster. The body of the mage killed in the combat has been recovered. All of the passkeys were taken except for one which is pinned to the door that leads back up.
 

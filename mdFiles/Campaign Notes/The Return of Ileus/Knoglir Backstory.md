@@ -1,1 +1,3 @@
-Knoglir was born in 348 PD. During the dissension, he fought for the Upper Planes Alliance, where he would eventually meet a young Ileus under the service of Genesis. The two of them bonded, and Ileus taught Knoglir the power of knowledge. 
+Knoglir was born in 348 PD. During the dissension, he fought for the Upper Planes Alliance, where he would eventually meet a young Ileus under the service of Genesis. The two of them bonded, and Ileus taught Knoglir the power of knowledge. Knoglir was immediately sold on this. He grew and Ileus quickly became very close friends, as Ileus would teach Knoglir everything that Genesis taught him about arcane magic. This friendship wouldn't last forever however.
+
+Through all of their time together, Ileus never told Knoglir of the growing 

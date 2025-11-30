@@ -2,4 +2,4 @@ Knoglir was born in 348 PD. During the dissension, he fought for the Upper Plane
 
 Through all of their time together, Ileus never told Knoglir of the growing Anteitic movement. Ileus believed that Knoglir wouldn't understand since the dragons were granted innate magical powers from the fracture. They had not known oppression like the humanoids had.
 
-When the Divine Betrayal happened at the Battle for Caelum Insula, Ileus was standing right next to Knoglir, and he turned to him, and said "I'm sorry friend, but I promise you'll understand some day", before unleashing a powerful 
+When the Divine Betrayal happened at the Battle for Caelum Insula, Ileus was standing right next to Knoglir, and he turned to him, and said "I'm sorry friend, but I promise you'll understand some day", before throwing a charged delayed blast fireball at Knoglir and flying away just before it exploded. 

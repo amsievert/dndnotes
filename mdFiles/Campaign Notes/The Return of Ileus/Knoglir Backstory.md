@@ -6,4 +6,8 @@ When the Divine Betrayal happened at the Battle for Caelum Insula, Ileus was sta
 
 During the Scourge, Knoglir was put on a special task force by Genesis to hunt down the Archmages, especially Ileus. However, they were never able to track him down.
 
-After the Scourge, Knoglir felt lost, and wandered the planes for a while, meeting with old friends and enemies from the Dissension. He did this until the Rending of Skies, where he met Thalroth the Storm Wyrm and gained control of a large domin
+After the Scourge, Knoglir felt lost, and wandered the planes for a while, meeting with old friends and enemies from the Dissension. He did this until the Rending of Skies, where he met Thalroth the Storm Wyrm and gained control of a large dominion.
+
+During the Age of Dragons, Knoglir used his power to collect every bit of knowledge from those under his rule. He even performed a ritual called Mind Grafting where a special metal band was placed around someone's head and absorbed their mind into Knoglir's through a crown that he would wear.
+
+Following the Age of Dragons, Knoglir felt incredibly guilty, and he took as much of his hoard as he could carry and retreated to his current lair in Rodigia. Since then, he has been researching 

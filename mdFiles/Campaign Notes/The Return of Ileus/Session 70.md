@@ -23,9 +23,11 @@ In the Volcano's caldera amidst the lava, 2 fire elemental myrmidons guard a gly
 
 Among some small trinkets around the glyph is an hourglass with sand in it, but also a tiny crystal that *tinks* against the glass inside, trying to return somewhere, acting as a sort of compass. It is pointing to Hourglass Isle.
 #### Hourglass Isle
+Travelling to Hourglass Isle takes 10 days.
+
 A large barrel floats past the boat. The barrel has "Aldercrest Vineyard" printed across the side. The barrel is full of extremely expensive fine wine.
 
-
+One night, Aimar is laying on top of the canopy over the captain's deck.
 
 Following the small crystal leads the party to another island on Aquallor where time has completely frozen. The ship gets stuck in the water a few hundred feet off the shore since the water is stuck in time. This island is larger than the last, and has wildlife, all frozen in time. The crystal leads the party to an overhang cave. Inside the cave is a glyph made up of similar looking crystals to the one in the hourglass. To deactivate the glyph, the crystal must be released from the hourglass, whereupon it shatters the glyph and deactivates the ward.
 

@@ -8,6 +8,6 @@ During the Scourge, Knoglir was put on a special task force by Genesis to hunt d
 
 After the Scourge, Knoglir felt lost, and wandered the planes for a while, meeting with old friends and enemies from the Dissension. He did this until the Rending of Skies, where he met Thalroth the Storm Wyrm and gained control of a large dominion.
 
-During the Age of Dragons, Knoglir used his power to collect every bit of knowledge from those under his rule. He even performed a ritual called Mind Grafting where a special metal band was placed around someone's head and absorbed their mind into Knoglir's through a crown that he would wear.
+During the Age of Dragons, Knoglir used his power to collect every bit of knowledge from those under his rule. He even performed a ritual called Mind Grafting where a special metal band was placed around someone's head and absorbed their mind into Knoglir's through a crown that he would wear. When he wasn't collecting knowledge from his underlings, he spent his days looking for the Relics of Dissension, in a hope of learning what became of Ileus. 
 
 Following the Age of Dragons, Knoglir felt incredibly guilty, and he took as much of his hoard as he could carry and retreated to his current lair in Rodigia. Since then, he has been researching 

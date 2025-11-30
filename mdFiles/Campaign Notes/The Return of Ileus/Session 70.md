@@ -15,12 +15,16 @@ After 1d4 days, a massive storm engulfs the ship. The storm follows a DC20 storm
 
 One day while sailing, Aimar points out a shadow moving through the water. As the shadow approaches, he recognizes it as a sheel, a massive snake, flat like a flounder, swimming through the water. The snake passes by paying no attention to the boat. It is looking for an elf that stole a very precious gemstone from it. 
 
-As the party reaches within 2 days of Null Island the water becomes hot to the touch, and very sulfurous. There are bodies of large fish floating in the water. Magma mephits are 
+As the party reaches within 2 days of Null Island the water becomes hot to the touch, and very sulfurous. There are bodies of large fish floating in the water. Magma mephits are feeding on the bodies. 
 
-The island itself is no more than a mile across in both directions with low tree cover and a shallow shield volcano that rises in the middle, poking just above the trees. The entire island is incredibly still, with almost no sense of movement or life of any sort besides the trees, which appear to be petrified with ash. In the Volcano's caldera amidst the lava, 2 fire elemental myrmidons guard a glyph on a pedestal that is protected by a fire shield fueled by the elementals, who must be killed to break the shield. Also in the caldera, thin cracks of black void carve their way through the lava. Every round of combat, a spectator flies out of one of the void cracks. 
+The island itself is no more than a mile across in both directions with low tree cover and a shallow shield volcano that rises in the middle, poking just above the trees. Most of the island is incredibly still. However, there are a few small marmoset creatures that hop around along the ground. All across the island, there are pockets where the air looks broken like glass. One of the marmoset creatures hops through it and instantly dies.
+
+In the Volcano's caldera amidst the lava, 2 fire elemental myrmidons guard a glyph on a pedestal that is protected by a fire shield fueled by the elementals, who must be killed to break the shield. Also in the caldera, thin cracks of black void carve their way through the lava. Every round of combat, a spectator flies out of one of the void cracks. 
 
 Among some small trinkets around the glyph is an hourglass with sand in it, but also a tiny crystal that *tinks* against the glass inside, trying to return somewhere, acting as a sort of compass. It is pointing to Hourglass Isle.
 #### Hourglass Isle
+A large barrel floats past the boat. The words 
+
 Following the small crystal leads the party to another island on Aquallor where time has completely frozen. The ship gets stuck in the water a few hundred feet off the shore since the water is stuck in time. This island is larger than the last, and has wildlife, all frozen in time. The crystal leads the party to an overhang cave. Inside the cave is a glyph made up of similar looking crystals to the one in the hourglass. To deactivate the glyph, the crystal must be released from the hourglass, whereupon it shatters the glyph and deactivates the ward.
 
 As this last ward is deactivated, the whole plane shakes and a brief chord rings out through the sky. Harmonia immediately calls the party and asks what happened. She brings them back to her palace.

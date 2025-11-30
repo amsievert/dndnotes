@@ -27,7 +27,9 @@ Travelling to Hourglass Isle takes 10 days.
 
 A large barrel floats past the boat. The barrel has "Aldercrest Vineyard" printed across the side. The barrel is full of extremely expensive fine wine.
 
-One night, Aimar is laying on top of the canopy over the captain's deck. He invites the party to lay with him. The night sky is lit up with a massive meteor shower. He explains that sometimes during a new moon, Naiv
+One night, Aimar is laying on top of the canopy over the captain's deck. He invites the party to lay with him. The night sky is lit up with a massive meteor shower. He explains that sometimes during a new moon, Naivara's soul returns to the depths of the Astral plane and her power alights the other stars and causes them to streak across the night sky. This is a common story, but in reality, during a new moon, Naivara's protection of the border between the Astral plane and the other planes grows thinnest, and aberrations from the Astral plane attempt to invade the other planes, which is what the shooting stars actually are. A DC 18 perception check sees the small outline of a dragon following one of the shooting stars that seems extra close to the ground. This star streaks perpendicular to the direction to hourglass isle.
+
+A few days later, the party notices that a small island t
 
 Following the small crystal leads the party to another island on Aquallor where time has completely frozen. The ship gets stuck in the water a few hundred feet off the shore since the water is stuck in time. This island is larger than the last, and has wildlife, all frozen in time. The crystal leads the party to an overhang cave. Inside the cave is a glyph made up of similar looking crystals to the one in the hourglass. To deactivate the glyph, the crystal must be released from the hourglass, whereupon it shatters the glyph and deactivates the ward.
 

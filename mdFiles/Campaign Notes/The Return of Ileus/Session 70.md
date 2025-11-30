@@ -27,7 +27,7 @@ Travelling to Hourglass Isle takes 10 days.
 
 A large barrel floats past the boat. The barrel has "Aldercrest Vineyard" printed across the side. The barrel is full of extremely expensive fine wine.
 
-One night, Aimar is laying on top of the canopy over the captain's deck.
+One night, Aimar is laying on top of the canopy over the captain's deck. He invites the party to lay with him. The night sky is lit up with a massive meteor shower. He explains that sometimes during a new moon, when Naivara's presence is weakest, the Astral plane grows 
 
 Following the small crystal leads the party to another island on Aquallor where time has completely frozen. The ship gets stuck in the water a few hundred feet off the shore since the water is stuck in time. This island is larger than the last, and has wildlife, all frozen in time. The crystal leads the party to an overhang cave. Inside the cave is a glyph made up of similar looking crystals to the one in the hourglass. To deactivate the glyph, the crystal must be released from the hourglass, whereupon it shatters the glyph and deactivates the ward.
 

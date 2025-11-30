@@ -13,9 +13,11 @@ One night, Aimar remarks that Naivara the resurgent goddess has graced the ship 
 
 After 1d4 days, a massive storm engulfs the ship. The storm follows a DC20 storm from page 202 of Saltmarsh. The ship itself has the keelboat stat block. In the storm, a DC 17 perception check sees the outlines of dragons fighting each other with lightning breath in the sky high above the water. Aimar guesses that the storm is a result of the draconic souls from the age of dragons that constantly fight across Aquallor.
 
+
+
 As the party reaches within 2 days of Null Island the water becomes hot to the touch, and very sulfurous.
 
-The island itself is no more than a mile across in both directions with low tree cover and a shallow shield volcano that rises in the middle, poking just above the trees. The entire island is incredibly still, with almost no sense of movement or life of any sort besides the trees, which appear to be petrified with ash. In the Volcano's caldera amidst the lava, 2 fire elemental myrmidons guard a glyph on a pedestal that is protected by a fire shield fueled by the elementals, who must be killed to break the shield. Also in the caldera, thin cracks of black void carve their way through the lava. The lava seems to be flowing out from the void. As the fighting starts, a githyanki gish hops out of one of the near voids and joins the combat.
+The island itself is no more than a mile across in both directions with low tree cover and a shallow shield volcano that rises in the middle, poking just above the trees. The entire island is incredibly still, with almost no sense of movement or life of any sort besides the trees, which appear to be petrified with ash. In the Volcano's caldera amidst the lava, 2 fire elemental myrmidons guard a glyph on a pedestal that is protected by a fire shield fueled by the elementals, who must be killed to break the shield. Also in the caldera, thin cracks of black void carve their way through the lava. Every round of combat, a spectator flies out of one of the void cracks. 
 
 Among some small trinkets around the glyph is an hourglass with sand in it, but also a tiny crystal that *tinks* against the glass inside, trying to return somewhere, acting as a sort of compass. It is pointing to Hourglass Isle.
 #### Hourglass Isle

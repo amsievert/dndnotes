@@ -13,9 +13,9 @@ One night, Aimar remarks that Naivara the resurgent goddess has graced the ship 
 
 After 1d4 days, a massive storm engulfs the ship. The storm follows a DC20 storm from page 202 of Saltmarsh. The ship itself has the keelboat stat block. In the storm, a DC 17 perception check sees the outlines of dragons fighting each other with lightning breath in the sky high above the water. Aimar guesses that the storm is a result of the draconic souls from the age of dragons that constantly fight across Aquallor.
 
-One day while sailing, Aimar points out a shadow moving through the water. As the shadow approaches, he recognizes it as a sheel, a massive snake, flat like a flounder, swimming through the water. The snake passes by paying no attention to the boat. 
+One day while sailing, Aimar points out a shadow moving through the water. As the shadow approaches, he recognizes it as a sheel, a massive snake, flat like a flounder, swimming through the water. The snake passes by paying no attention to the boat. It is looking for an elf that stole a very precious gemstone from it. 
 
-As the party reaches within 2 days of Null Island the water becomes hot to the touch, and very sulfurous.
+As the party reaches within 2 days of Null Island the water becomes hot to the touch, and very sulfurous. There are bodies of large fish floating in the water. Magma mephits are 
 
 The island itself is no more than a mile across in both directions with low tree cover and a shallow shield volcano that rises in the middle, poking just above the trees. The entire island is incredibly still, with almost no sense of movement or life of any sort besides the trees, which appear to be petrified with ash. In the Volcano's caldera amidst the lava, 2 fire elemental myrmidons guard a glyph on a pedestal that is protected by a fire shield fueled by the elementals, who must be killed to break the shield. Also in the caldera, thin cracks of black void carve their way through the lava. Every round of combat, a spectator flies out of one of the void cracks. 
 

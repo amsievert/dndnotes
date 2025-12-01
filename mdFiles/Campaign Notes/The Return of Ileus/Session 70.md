@@ -1,4 +1,4 @@
-Current Day: 12th of Glanix, 2520 PS
+Current Day: 13th of Glanix, 2520 PS
 ### [[Relics of Dissension|The Shield of Ozewyn]]
 #### Null Island
 Siedus puts the party in contact with a sailor he knows named Aimar. Aimar is a sea elf who has traveled on Aquallor many times before. He lets the party travel on his Catamaran (The Twilight Tide), as he takes them to where he believes Null Island is. He explains that the island is mostly unexplored since magic doesn't work on it.

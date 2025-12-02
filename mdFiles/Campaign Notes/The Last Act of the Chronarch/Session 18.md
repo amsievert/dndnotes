@@ -10,4 +10,7 @@ The next day when the ship gets to shore, port authorities attempt to arrest the
 
 The party is interrogated by the jail warden named Gilda Sunden. She asks for them to identify themselves and identify their relationship to Captain Kilgore.
 
-After a day of being in jail, the Chronarch comes in and tells them that they are free to leave. He sees them and mentions that something seems very familiar about them and he has a lot of questions. He leads them out of the jail and towards the Byway Station in Mutas. 
+After a day of being in jail, the Chronarch comes in and tells them that they are free to leave. He sees them and mentions that something seems very familiar about them and he has a lot of questions. He leads them out of the jail and towards the Byway Station in Mutas. He then takes them along the Byway to Spellhaven. The whole time he is asking them questions about their experiences before time travelling and after arriving in Lanbruk.
+
+The Chronarch's Tower in Spellhaven is within the second ring. The tower rises high above the surrounding city blocks. He takes them up to his study near the top of the tower where he briefs them on what he believes is going on with the Void Seal.
+

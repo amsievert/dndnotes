@@ -8,6 +8,6 @@ After the fire has been extinguished, the crew sets about looting the sinking ma
 
 The next day when the ship gets to shore, port authorities attempt to arrest the crew and the party. If arrested, they are taken to a jail in Mutas where the Party and Captain Kilgore are put in one cell, while the rest of the crew is split in other cells. Each cell is covered by a Mordenkainen's Private Sanctum spell preventing teleportation into and out of it.
 
-The party is interrogated by the jail warden named Godrick Sunden. He asks for them to identify themselves and identify their relationship to Captain Kilgore.
+The party is interrogated by the jail warden named Gilda Sunden. She asks for them to identify themselves and identify their relationship to Captain Kilgore.
 
-After a day of being in jail, the Chronarch comes in and tells them that they are free to leave. He sees them and mentions that something seems very familiar about them and he has a lot of questions.
+After a day of being in jail, the Chronarch comes in and tells them that they are free to leave. He sees them and mentions that something seems very familiar about them and he has a lot of questions. He leads them out of the jail and towards the Byway Station in Mutas. 

@@ -14,3 +14,4 @@ After a day of being in jail, the Chronarch comes in and tells them that they ar
 
 The Chronarch's Tower in Spellhaven is within the second ring. The tower rises high above the surrounding city blocks. He takes them up to his study near the top of the tower where he briefs them on what he believes is going on with the Void Seal.
 
+He tells them about how he believes that the Void Seal was shattered years ago by mages from Spellhaven who then erased their own memories and destroyed any written information about the artifact. He also tells them about how they need to accumulate all of the fragments here, in order to then take them to be destroyed. 

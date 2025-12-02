@@ -1,5 +1,5 @@
 As the one armed Elminster kneels on the bow of the ship, his form quivers with the power of the Void Fragment. He is losing a lot of blood from multiple wounds across his body, most of all his missing arm. He looks at the ground momentarily before beginning a summoning ritual using the power of the Void Fragment. The portal starts to appear on the ground in front of him and demonic chittering can be heard from the other side of the portal. The portal suddenly fizzles out before anything can come through. Elminster looks up surprised and sees Captain Kilgore limping forward through the flames on the ship's deck, having just counterspelled his Summon Lesser Demons spell.
 
-Elminster's shoulders slump and he hangs his head defeated. Kilgore nods to the party and gestures for them to take the lead with Elminster. Elminster's breath is extremely labored and the blood continues pooling around him.
+Elminster's shoulders slump and he hangs his head defeated. Kilgore nods to the party and gestures for them to take the lead with Elminster. Elminster's breath is extremely labored and the blood continues pooling around him. He accepts his defeat and wishes for death rather than capture.
 
-He accepts his 
+After dealing with Elminster, the party must deal with the fire aboard the ship (DC 15, page 201 GoS). Any perception checks made while this is happening sees a distant ship quickly turning away from the battle and heading towards Valdens.

@@ -1,0 +1,1 @@
+As the one armed Elminster kneels on the bow of the ship, 

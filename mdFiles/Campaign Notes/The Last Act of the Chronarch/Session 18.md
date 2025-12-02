@@ -20,4 +20,4 @@ He ends by saying that he would like to work with the party to gather the shards
 
 The Chronarch has heard rumors from the Elemental Plane of Fire that sound like they could be due to a Shard-Wielder. He asks the party if they encountered anything along their travel thus far that could be related to this. This should hopefully lead the party to return to Rango's home village.
 
-Once in Spellhaven,
+Once in Spellhaven, the party reaches level 5.

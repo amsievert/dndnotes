@@ -1,1 +1,1 @@
-As the one armed Elminster kneels on the bow of the ship, his form quivers with the power of the Void Fragment. 
+As the one armed Elminster kneels on the bow of the ship, his form quivers with the power of the Void Fragment. He is losing a lot of blood from multiple wounds across his body, most of all his missing arm. He 

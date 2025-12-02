@@ -3,3 +3,5 @@ As the one armed Elminster kneels on the bow of the ship, his form quivers with 
 Elminster's shoulders slump and he hangs his head defeated. Kilgore nods to the party and gestures for them to take the lead with Elminster. Elminster's breath is extremely labored and the blood continues pooling around him. He accepts his defeat and wishes for death rather than capture.
 
 After dealing with Elminster, the party must deal with the fire aboard the ship (DC 15, page 201 GoS). Any perception checks made while this is happening sees a distant ship quickly turning away from the battle and heading towards Valdens.
+
+After the fire has been extinguished, the crew sets about looting 

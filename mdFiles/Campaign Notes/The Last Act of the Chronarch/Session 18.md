@@ -1,1 +1,1 @@
-As the one armed Elminster kneels on the bow of the ship, 
+As the one armed Elminster kneels on the bow of the ship, his form quivers with the power of the Void Fragment. 

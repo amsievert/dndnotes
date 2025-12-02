@@ -5,3 +5,5 @@ Elminster's shoulders slump and he hangs his head defeated. Kilgore nods to the 
 After dealing with Elminster, the party must deal with the fire aboard the ship (DC 15, page 201 GoS). Any perception checks made while this is happening sees a distant ship quickly turning away from the battle and heading towards Valdens.
 
 After the fire has been extinguished, the crew sets about looting the sinking mage ship. Kilgore's ship can't steer towards Valdens until the next day, since they need to repair the destroyed helm.
+
+The next day when the ship gets to shore, port authorities attempt to arrest the crew and the party. If arrested, they are taken to a jail in Mutas where the Party and Captain Kilgore are put in one cell, while the rest of the crew is split in other cells. 

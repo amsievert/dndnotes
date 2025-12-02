@@ -6,4 +6,6 @@ After dealing with Elminster, the party must deal with the fire aboard the ship 
 
 After the fire has been extinguished, the crew sets about looting the sinking mage ship. Kilgore's ship can't steer towards Valdens until the next day, since they need to repair the destroyed helm.
 
-The next day when the ship gets to shore, port authorities attempt to arrest the crew and the party. If arrested, they are taken to a jail in Mutas where the Party and Captain Kilgore are put in one cell, while the rest of the crew is split in other cells. 
+The next day when the ship gets to shore, port authorities attempt to arrest the crew and the party. If arrested, they are taken to a jail in Mutas where the Party and Captain Kilgore are put in one cell, while the rest of the crew is split in other cells. Each cell is covered by a Mordenkainen's Private Sanctum spell preventing teleportation into and out of it.
+
+The party is interrogated by the jail warden named Godrick Sunden. He asks 

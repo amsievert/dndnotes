@@ -4,4 +4,6 @@ As Vestryl stands in front of the party, a voice rumbles through the cavern. It 
 ## Present Day Mondrall
 Following the Alliance's army discovering the devastation of Mondrall during the Dissension, they cleaned up the bodies of the few garrisoned troops that were left in the city's barracks, then left the city as it was.
 
-The city used to have a nice stone brick wall around its exterior, but they were destroyed by Orcish siege engines during the sacking. Near the top of the gently sloped town is a large barracks and training ground. In the 
+The city used to have a nice stone brick wall around its exterior, but they were destroyed by Orcish siege engines during the sacking. Near the top of the gently sloped town is a large barracks and training ground. In the middle of the large training yard is a huge funeral pyre now covered with foliage. The skeletons are wearing plate armor with the symbol of Genesis emblazoned on them.
+
+In a 

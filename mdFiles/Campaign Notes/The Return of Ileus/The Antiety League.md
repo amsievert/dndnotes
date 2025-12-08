@@ -40,8 +40,8 @@ When the Ancient Archmages were banished, their souls were marked, and would ale
 More Ileus Insight
 During the Great Dissension, fighting was brought to the Opulent Steppe. An orc army in the service of Gruumsh marched across it, laying waste to once beautiful cities. People evacuated the cities of the Opulent Steppe in the wake of the incoming orc army. Later, when the forces of the upper planes came through, they found the cities ransacked.
 
-In Thalmor, Ileus found his neighborhood of poor people slaughtered. He found his parents' house destroyed with his parents dead inside.
+In Monfort, Ileus found his neighborhood of poor people slaughtered. He found his parents' house destroyed with his parents dead inside.
 
-He later learned that the Orcs had attacked Mondrall because they found that Genesis's best soldiers were coming from there. This was his tipping point and was when he dedicated himself to the Anteity League.
+He later learned that the Orcs had attacked Monfort because they found that Genesis's best soldiers were coming from there. This was his tipping point and was when he dedicated himself to the Anteity League.
 
 Upon learning what happened to the Opulent Steppe after the Battle of the Planes, Ileus was furious that his homeland was destroyed. He took it as further proof that the gods need to be killed.

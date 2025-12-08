@@ -3,3 +3,4 @@ Situated on the slopes of Mount Tayeche (which is now known as the Exalted Summi
 
 Due to it's lack of divine influence, Monfort actually survived the Great Dissension and stood as a bastion of civilization in the decades following the Scourge. However, the city was not safe from Anteitic ideologies, and it was a safehaven for early practitioners of the arcane arts. 
 ## Present Day Monfort
+Monfort survived through the Scourge and the Age of Dragons, before being destroyed during the Astral Devastation.

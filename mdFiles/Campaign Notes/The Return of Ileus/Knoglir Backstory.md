@@ -2,9 +2,9 @@ Knoglir was born in 348 PD. During the dissension, he fought for the Upper Plane
 
 Through all of their time together, Ileus never told Knoglir of the growing Anteitic movement. Ileus believed that Knoglir wouldn't understand since the dragons were granted innate magical powers from the fracture. They had not known oppression like the humanoids had.
 
-When the Divine Betrayal happened at the Battle for Caelum Insula, Ileus was standing right next to Knoglir, and he turned to him, and said "I'm sorry friend, but I promise you'll understand some day", before throwing a charged delayed blast fireball at Knoglir and flying away just before it exploded. Knoglir survived but was unable to fight for the rest of that battle and had to take time to heal, his confusion turning to hatred for Ileus.
+When the Divine Betrayal happened at the Battle for Caelum Insula, Ileus was standing right next to Knoglir, and he turned to him, and said "I'm sorry friend, but I promise you'll understand some day", before throwing a charged delayed blast fireball at Knoglir and manifesting a solid Illusory barrier beneath himself to escape just before it exploded. Knoglir survived but was unable to fight for the rest of that battle and had to take time to heal, his confusion turning to hatred for Ileus.
 
-During the Scourge, Knoglir was put on a special task force by Genesis to hunt down the Archmages, especially Ileus. However, they were never able to track him down.
+During the Scourge, Knoglir was put on a special task force by Genesis to hunt down the Archmages, especially Ileus. 
 
 After the Scourge, Knoglir felt lost, and wandered the planes for a while, meeting with old friends and enemies from the Dissension. He did this until the Rending of Skies, where he met Thalroth the Storm Wyrm and gained control of a large dominion.
 

@@ -29,6 +29,6 @@ House Tayne allegedly comes from old money, but no one really knows exactly wher
 ### House Mercer
 House Mercer has had multiple claims to the throne, however they have never actually held the crown. Despite this, they are incredibly wealthy, as the almost dynastic leaders of the Merchant's Guild in the city. They have become incredibly wealthy from collecting taxes from the city's many merchants and artisans.
 ### House Liadon
-House Liadon is the newest Royal House of Falstor. They started as a Great House in Dalonstor, growing wealthy from the fishing industry. Oriana Liadon married Prince Rolan III of House Clegane while King Rolan II was already very old. Queen Oriana and the new King Rolan III had a lot of kids, which cemented House Liadon's power among the court. 
+House Liadon is the newest Royal House of Falstor. They started as a Great House in Dalonstor, growing wealthy from the fishing industry. Oriana Liadon married Prince Rolan III of House Clegane while King Rolan II was already very old. Queen Oriana and the new King Rolan III had a lot of kids, which cemented House Liadon's power among the court. The family quickly moved to the capital city while Oriana was Queen.
 ## Lawbringers of the Herald of Light
 Priests of [[Pholtus]], the Lawbringers hold significant power in the royal court. Their main duty to the throne is to verify and uphold the sanctity of the crown. Without the blessing of Pholtus, Herald of Light, a King's rule is not considered legitimate. It is very important to have the Lawbringers on your side as a King.

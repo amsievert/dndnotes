@@ -19,10 +19,13 @@ The first royal house of Falstor. The Belmore family was a very powerful clan in
 
 House Belmore still maintains their connections with the Rodigians, and are the prime merchants when it comes to weapons in Falstor.
 ### House Clegane
-House Clegane was the next family to hold the throne. They were a family of powerful priests from the Church of Pholtus, and used this power to take the throne. They are the only Royal House to not become one through blood relation. Instead, they used 
+House Clegane was the next family to hold the throne. They were a family of powerful priests from the Church of Pholtus, and used this power to take the throne. They are the only Royal House to not become one through blood relation. Instead, they used their position within the church, to assert that their family had divine providence to wear the crown. This proved to be a very consequential event, since in modern day Falstor there are two distinct bloodlines that can claim legitimacy on the throne.
+
+House Clegane established the Lawbringers and cemented the power of [[Pholtus]] in relation to the crown. They still hold power in the Lawbringers, which is a very powerful connection.
+### House Tayne
+House Tayne became a Royal House 
 
 House Mercer
 House Liadon
-House Tayne
 ## Lawbringers of the Herald of Light
 Priests of [[Pholtus]], the Lawbringers hold significant power in the royal court. Their main duty to the throne is to verify and uphold the sanctity of the crown. Without the blessing of Pholtus, Herald of Light, a King's rule is not considered legitimate. It is very important to have the Lawbringers on your side as a King.

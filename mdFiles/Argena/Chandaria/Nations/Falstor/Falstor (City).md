@@ -16,5 +16,11 @@ For those that are aware of it, Falstor can feel like it is always on a knife's 
 The Royal Houses are called so because all of them in the past have held a legitimate claim to the Falstor throne. There are five of them, each drawing massive wealth from owning industry across the Kingdom. All five have at one point either held the crown or had a family member with a confirmed claim for the crown.
 ### House 
 The first royal house
+
+House Mercer
+House Clegane
+House Liadon
+House Belmore
+
 ## Lawbringers of the Herald of Light
 Priests of [[Pholtus]], the Lawbringers hold significant power in the royal court. Their main duty to the throne is to verify and uphold the sanctity of the crown. Without the blessing of Pholtus, Herald of Light, a King's rule is not considered legitimate. It is very important to have the Lawbringers on your side as a King.

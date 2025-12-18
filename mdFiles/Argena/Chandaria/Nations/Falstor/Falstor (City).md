@@ -23,7 +23,11 @@ House Clegane was the next family to hold the throne. They were a family of powe
 
 House Clegane established the Lawbringers and cemented the power of [[Pholtus]] in relation to the crown. They still hold power in the Lawbringers, which is a very powerful connection.
 ### House Tayne
-House Tayne became a Royal House by staging deaths for all the heirs to the throne except for one, who they knew already wanted to marry one of their daughters. Their treachery was never discovered, but was viewed as illegitimate for a while since not many people liked Conrad Belmore, who became King after the deaths of all the other heirs. However, these dissidents were forced to accept the legitimacy quickly because 
+House Tayne became a Royal House by staging deaths for all the heirs to the throne except for one, who they knew already wanted to marry one of their daughters. Their treachery was never discovered, but was viewed as illegitimate for a while since not many people liked Conrad Belmore, who became King after the deaths of all the other heirs. However, these dissidents were forced to accept the legitimacy quickly because King Conrad died a few years after becoming King, and his wife Elyana Tayne became Queen of Falstor and lived for many years.
+
+House Tayne allegedly comes from old money, but no one really knows exactly where this old money came from.
+### House Mercer
+House Mercer has had multiple claims to the throne, however they have never actually held the crown. Despite this, they are incredibly wealthy, as the almost dynastic leaders of the Merchant's Guild in the city. They have become incredibly
 
 House Mercer
 House Liadon

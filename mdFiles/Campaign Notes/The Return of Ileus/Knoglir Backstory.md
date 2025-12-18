@@ -6,7 +6,7 @@ When the Divine Betrayal happened at the Battle for Caelum Insula, Ileus was sta
 
 During the Scourge, Knoglir was put on a special task force by Genesis to hunt down the Archmages, especially Ileus. Knoglir encountered Ileus again during the Battle of the Spine, in what is now Norlund. Ileus blinded the Alliance's army with a massive illusory blizzard. His small army of mages were able to ambush the Alliance army and force them into a retreat. Knoglir himself attempted to get near Ileus, but Ileus was easily able to counter him and send him into a retreat.
 
-In Knoglir's memory of the battle: For days, the Alliance army shivers in the cold of the blizzard. 
+In Knoglir's memory of the battle: For days, the Alliance army shivers in the cold of the blizzard. Knoglir is in his dragonborn form and his strength is sapped from the cold, while icicles hang off his scales. 
 
 After the Scourge, Knoglir felt lost, and wandered the planes for a while, meeting with old friends and enemies from the Dissension. He did this until the Rending of Skies, where he met Thalroth the Storm Wyrm and gained control of a large dominion.
 

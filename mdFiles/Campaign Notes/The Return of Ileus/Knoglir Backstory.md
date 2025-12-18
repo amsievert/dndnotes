@@ -4,7 +4,7 @@ Through all of their time together, Ileus never told Knoglir of the growing Ante
 
 When the Divine Betrayal happened at the Battle for Caelum Insula, Ileus was standing right next to Knoglir, and he turned to him, and said "I'm sorry friend, but I promise you'll understand some day", before throwing a charged delayed blast fireball at Knoglir and manifesting a solid Illusory barrier beneath himself to escape just before it exploded. Knoglir survived but was unable to fight for the rest of that battle and had to take time to heal, his confusion turning to hatred for Ileus.
 
-During the Scourge, Knoglir was put on a special task force by Genesis to hunt down the Archmages, especially Ileus. Knoglir encountered Ileus again during the Battle 
+During the Scourge, Knoglir was put on a special task force by Genesis to hunt down the Archmages, especially Ileus. Knoglir encountered Ileus again during the Battle of the Spine, in what is now Norlund. Ileus 
 
 After the Scourge, Knoglir felt lost, and wandered the planes for a while, meeting with old friends and enemies from the Dissension. He did this until the Rending of Skies, where he met Thalroth the Storm Wyrm and gained control of a large dominion.
 

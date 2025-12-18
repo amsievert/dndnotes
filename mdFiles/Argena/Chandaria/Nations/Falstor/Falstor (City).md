@@ -23,7 +23,7 @@ House Clegane was the next family to hold the throne. They were a family of powe
 
 House Clegane established the Lawbringers and cemented the power of [[Pholtus]] in relation to the crown. They still hold power in the Lawbringers, which is a very powerful connection.
 ### House Tayne
-House Tayne became a Royal House 
+House Tayne became a Royal House by staging deaths for all the heirs to the throne except for one, who they knew already wanted to marry one of their daughters. Their treachery was never discovered, but was viewed as illegitimate for a while since not many people liked Conrad Belmore, who became King after the deaths of all the other heirs. However, these dissidents were forced to accept the legitimacy quickly because 
 
 House Mercer
 House Liadon

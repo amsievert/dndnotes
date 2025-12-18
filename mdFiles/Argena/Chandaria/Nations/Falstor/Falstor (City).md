@@ -7,4 +7,6 @@ The city of Falstor has a population of around 84,250 people (55% Humans, 29% Ha
 ## Government
 As the capital city of the Kingdom, Falstor is run by the King and the King's Council, which is made up of other members from the King's House. The King himself, who becomes the patriarch of his own house upon coronation, holds the final say in all court decisions. He is not obligated to listen to his council, but Kings often do because to not would put many blades at their back from their own family.
 ## Defenses
-Alongside 
+Alongside being atop Reudan's Prominence, Falstor also has a large stone wall that surrounds the entire city. These two features make the city very defensible from direct assault. However, the city is vulnerable to a prolonged siege, since it relies heavily on fish from Dalonstor for food.
+
+Across the kingdom, including in the capital city itself, the Kingsguard keep peace among the King's constituents. The Kingsguard are separate from the Kingdom's standing military, although many members of the Guard are often veterans or young people trying to get experience before joining the military. 

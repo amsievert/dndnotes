@@ -15,12 +15,13 @@ For those that are aware of it, Falstor can feel like it is always on a knife's 
 ## The Royal Houses of Falstor
 The Royal Houses are called so because all of them in the past have held a legitimate claim to the Falstor throne. There are five of them, each drawing massive wealth from owning industry across the Kingdom. All five have at one point either held the crown or had a family member with a confirmed claim for the crown.
 ### House Belmore
-The first royal house of Falstor. The Belmore family was a very powerful clan in the area prior to the founding of the Kingdom of Falstor. They had grown wealthy trading for weapons with the Rodigians. They were also close with powerful priests in service of [[Pholtus]]. They used this connection, along with their wealth, to establish a Kingdom, with a crown ordained by the gods.
+The first royal house of Falstor. The Belmore family was a very powerful clan in the area prior to the founding of the Kingdom of Falstor. They had grown wealthy trading for weapons with the Rodigians. They were also close with powerful priests in service of [[Pholtus]]. They used this connection, along with their wealth, to establish a Kingdom, with a crown ordained by the gods. Reudan Belmore became the first King of Falstor.
 
-House Belmore still m
+House Belmore still maintains their connections with the Rodigians, and are the prime merchants when it comes to weapons in Falstor.
+### House Clegane
+House Clegane was the next family to hold the throne. They were a family of powerful priests from the Church of Pholtus, and used this power to take the throne. They are the only Royal House to not become one through blood relation. Instead, they used 
 
 House Mercer
-House Clegane
 House Liadon
 House Tayne
 ## Lawbringers of the Herald of Light

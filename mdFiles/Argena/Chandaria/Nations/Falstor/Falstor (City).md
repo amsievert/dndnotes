@@ -14,5 +14,7 @@ Across the kingdom, including in the capital city itself, the Kingsguard keep pe
 For those that are aware of it, Falstor can feel like it is always on a knife's edge, teetering above total collapse. There are so many organizations, not just the Royal Houses, that are constantly vying for control of the Kingdom from the shadows.
 ## The Royal Houses of Falstor
 The Royal Houses are called so because all of them in the past have held a legitimate claim to the Falstor throne. There are five of them, each drawing massive wealth from owning industry across the Kingdom. All five have at one point either held the crown or had a family member with a confirmed claim for the crown.
+### House 
+The first royal house
 ## Lawbringers of the Herald of Light
-Priests of [[Pholtus]], the Lawbringers hold significant power in the royal court. Their main duty to the crown 
+Priests of [[Pholtus]], the Lawbringers hold significant power in the royal court. Their main duty to the throne is to verify and uphold the sanctity of the crown. Without the blessing of Pholtus, Herald of Light, a King's rule is not considered legitimate. It is very important to have the Lawbringers on your side as a King.

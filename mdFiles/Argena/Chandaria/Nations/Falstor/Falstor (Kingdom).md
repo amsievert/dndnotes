@@ -1,2 +1,2 @@
 # Overview
-The Kingdom of Falstor is situated in the Southeast of Chandaria, bordered by [[Rodigia|The Kingdom of Rodigia]] and the 
+The Kingdom of Falstor is situated in the Southeast of Chandaria, bordered by [[Rodigia|The Kingdom of Rodigia]] and the Howling Peaks to the north, and bordered on every other side by the waters of the Azure Expanse. The Kingdom's lands are dominated by fields and forests, however there is a thick swamp to the south

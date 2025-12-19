@@ -1,0 +1,1 @@
+Queen Oriana of [[Falstor (City)#House Liadon|House Liadon]] became Queen of Falstor by marrying Prince Rolan III, who would later become King Rolan III. This marriage was the reason that House Liadon, once a [[Dalonstor#The Houses of Dalonstor|Great House in Dalonstor]], ascended to the status of a [[Falstor (City)#The Royal Houses of Falstor|]]

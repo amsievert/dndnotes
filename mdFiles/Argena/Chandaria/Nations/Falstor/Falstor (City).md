@@ -5,9 +5,9 @@ Falstor is the capital city of the Kingdom of Falstor. The city is the home of t
 ## Population
 The city of Falstor has a population of around 84,250 people (55% Humans, 29% Half-Elves, 11% Elves, 5% Other). The general population of the city would be considered upper class when compared to the other cities of Falstor. Those that are not a part of the Royal Houses, are still rich merchants and artisans, or come from old money.
 ## Government
-As the capital city of the Kingdom, Falstor is run by the King and the King's Council, which is made up of other members from the King's House. The King himself, who becomes the patriarch of his own house upon coronation, holds the final say in all court decisions. He is not obligated to listen to his council, but Kings often do because to not would put many blades at their back from their own family.
+As the capital city of the Kingdom, Falstor is run by the [[King Ophal|King]] and the King's Council, which is made up of other members from the King's House. The King himself, who becomes the patriarch of his own house upon coronation, holds the final say in all court decisions. He is not obligated to listen to his council, but Kings often do because to not would put many blades at their back from their own family.
 ## Defenses
-Alongside being atop Reudan's Prominence, Falstor also has a large stone wall that surrounds the entire city. These two features make the city very defensible from direct assault. However, the city is vulnerable to a prolonged siege, since it relies heavily on fish from Dalonstor for food.
+Alongside being atop Reudan's Prominence, Falstor also has a large stone wall that surrounds the entire city. These two features make the city very defensible from direct assault. However, the city is vulnerable to a prolonged siege, since it relies heavily on fish from [[Dalonstor]] for food.
 
 Across the kingdom, including in the capital city itself, the Kingsguard keep peace among the King's constituents. The Kingsguard are separate from the Kingdom's standing military, although many members of the Guard are often veterans or young people trying to get experience before joining the military.
 # Organizations
@@ -17,9 +17,9 @@ The Royal Houses are called so because all of them in the past have held a legit
 ### House Belmore
 The first royal house of Falstor. The Belmore family was a very powerful clan in the area prior to the founding of the Kingdom of Falstor. They had grown wealthy trading for weapons with the Rodigians. They were also close with powerful priests in service of [[Pholtus]]. They used this connection, along with their wealth, to establish a Kingdom, with a crown ordained by the gods. Reudan Belmore became the first King of Falstor.
 
-House Belmore still maintains their connections with the Rodigians, and are the prime merchants when it comes to weapons in Falstor.
+House Belmore still maintains their connections with the [[Rodigia|Rodigians]], and are the prime merchants when it comes to weapons in Falstor.
 ### House Clegane
-House Clegane was the next family to hold the throne. They were a family of powerful priests from the Church of Pholtus, and used this power to take the throne. They are the only Royal House to not become one through blood relation. Instead, they used their position within the church, to assert that their family had divine providence to wear the crown. This proved to be a very consequential event, since in modern day Falstor there are two distinct bloodlines that can claim legitimacy on the throne.
+House Clegane was the next family to hold the throne. They were a family of powerful priests from the Church of [[Pholtus]], and used this power to take the throne. They are the only Royal House to not become one through blood relation. Instead, they used their position within the church, to assert that their family had divine providence to wear the crown. This proved to be a very consequential event, since in modern day Falstor there are two distinct bloodlines that can claim legitimacy on the throne.
 
 House Clegane established the Lawbringers and cemented the power of [[Pholtus]] in relation to the crown. They still hold power in the Lawbringers, which is a very powerful connection.
 ### House Tayne

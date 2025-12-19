@@ -1,4 +1,3 @@
-# Chandaria
 The continent of Chandaria sits in the northeastern region of Argena (The Shattered Lands). Chandaria is home to many factions and kingdoms, and sports the whole gamut of climates. To the north there are snowy mountains and windswept tundra. To the south are tropical islands and fetid swamps. In the center of the continent is [[#The Eternal Scorch]], a blistering hot desert with no more than small oases sprinkled throughout. Chandaria was home to multiple Ancient Archmages during [[The Great Dissension]] and still contains many Pre-Dissension era ruins.
 ## Factions and Kingdoms
 ### The Kingdom of Falstor

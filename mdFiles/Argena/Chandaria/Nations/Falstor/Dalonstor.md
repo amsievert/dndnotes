@@ -1,4 +1,3 @@
-# Dalonstor
 #### Population
 The population of Dalonstor is 32,538 (52% Humans, 29% Elves, 7% Dwarves, 7% Halflings, 5% Other).
 #### Government

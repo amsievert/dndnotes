@@ -10,4 +10,4 @@ In a small house near the bottom wall of Mondrall, the players can find a very s
 
 If dispelled, there is a spot near the table where a spot of worn ground indicates that someone has stood there and done so many times.
 
-Upstairs, Ileus has a lot of space paraphernalia, including a telescope and an orrery set to the position of Harmonic Alignment.
+Upstairs, Ileus has a lot of space paraphernalia, including a telescope and an orrery set to the position of Harmonic Alignment. The ceiling of his room is painted to look like the night sky, and it is actually an accurate model of the stars. 

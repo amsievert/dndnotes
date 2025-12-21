@@ -1,1 +1,1 @@
-The capital city of Rodigia. It sits atop Mount Thogrin, and is ruled by the Mountain King Strullar Anling. 
+The capital city of Rodigia. It sits atop Mount Thogrin, and is ruled by the Mountain King Strullar Anling. The top of Mount Thogrin itself has multiple peaks, all of which make up the actual city of Rhugnurt. There are 5 main peaks, and they are all connected with massive 

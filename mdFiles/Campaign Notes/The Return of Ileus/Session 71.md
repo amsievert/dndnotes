@@ -25,6 +25,6 @@ God King Olym is a conniving and scheming man. He only wants to help the party i
 God King Olym has a mission to act as a loyalty test for the party to gain his military support. The quest is to go recover a religious artifact that has gone missing. The artifact is a golden idol of [[Lucite]]. It went missing from a wayside temple near the Ichor River. He gives the party a seal that shows that they are agents of the God King himself, so they will have authority.
 
 Quest Overview:
-The idol of Lucite was stolen 
+The idol of Lucite was stolen by a Robber Baron from a disgraced Atrisean noble family. The Robber Baron received this mission via letter with a seal of the No'zaral government. That letter contained a briefing and a key to the temple, but was instructed to make the robbery look random. This letter and key however actually came from the God King
 
 The temple is run by an elven woman named Sister Yvette. She shows the party the scene of the crime. The temple itself is fairly small, yet it has golden accents on the stonework and has very detailed stained glass windows. Outside the door are blood stains where the temple's four guards were killed. The temple's doors seem to have been broken in by a large force. Inside, the temple's furniture is strewn about and the shrine at the front has been looted. At the front door, the ground is churned up into thick mud. A DC 10 survival check finds wagon tracks that lead right up to the door. A DC 15 survival check reveals that the door was broken down after the idol was stolen.

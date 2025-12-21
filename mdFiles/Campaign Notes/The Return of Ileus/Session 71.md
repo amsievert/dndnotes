@@ -22,4 +22,4 @@ The area around Mount Thogrin is still devastated from the siege. Much of the gr
 ## Atrisean Dynasty
 God King Olym is a conniving and scheming man. He only wants to help the party if it gets him more money, power, or reputation. He requires heavy proof of Ileus's plot in order to help the party. Overall he is very skeptical of the party.
 
-God King Olym has a mission to act as a loyal
+God King Olym has a mission to act as a loyalty test for the party to gain his military support. The quest is to go recover a religious artifact that has gone missing. The artifact is a golden idol of [[Lucite]]. It went missing from a wayside temple near the Ichor River. He gives the party a seal that shows that they are agents of the God King himself, so they will have authority.

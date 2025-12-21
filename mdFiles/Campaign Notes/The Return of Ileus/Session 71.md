@@ -24,4 +24,4 @@ God King Olym is a conniving and scheming man. He only wants to help the party i
 
 God King Olym has a mission to act as a loyalty test for the party to gain his military support. The quest is to go recover a religious artifact that has gone missing. The artifact is a golden idol of [[Lucite]]. It went missing from a wayside temple near the Ichor River. He gives the party a seal that shows that they are agents of the God King himself, so they will have authority.
 
-The temple is run by an elven woman named Sister Yvette. 
+The temple is run by an elven woman named Sister Yvette. She shows the party the scene of the crime. The temple itself is fairly small, yet it has golden accents on the stonework and has very detailed stained glass windows. Outside the door are blood stains where 

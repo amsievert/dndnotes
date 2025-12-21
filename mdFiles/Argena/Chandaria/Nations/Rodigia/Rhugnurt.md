@@ -1,1 +1,1 @@
-# Rhugnurt
+The capital city of Rodigia. It sits atop Mount Thogrin, and is ruled by the Mountain King Strullar Anling.

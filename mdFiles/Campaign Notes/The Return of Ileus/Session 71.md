@@ -17,4 +17,6 @@ In Ophal's throne room, the teenage Jeffery announces [[King Ophal]]'s titles.
 King Ophal wants to help the party, especially since he knows Astarius. He says that he could spare 2,000 soldiers to the party if they needed it. He also says that he could get a lot more if the party could bring proof of Ileus's impending doom. He believes the party but the rest of his council and generals do not, so his hands are somewhat tied. The army that King Ophal gives to the party is led by a dwarf named Ogden Strongarm. He is a heavy-set dwarf with a clearly fake eye that rolls around in its socket sometimes.
 
 ## Rodigia
-The Mountain King [[Rodigia|Strullar Anling]] is extremely reluctant to give any aid 
+The Mountain King [[Rodigia|Strullar Anling]] is extremely reluctant to give any military aid to the party. While the Larenthian Army has retreated for now, the Larenthian government has not made any motion towards establishing a truce or peace treaty. The Mountain King is very worried about another surprise attack from the Larenthian Alliance.
+
+The area around Mount Thogrin is still devastated from the siege. Much of the grass is trampled and most of the surrounding forests are destroyed. 

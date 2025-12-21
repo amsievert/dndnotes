@@ -4,4 +4,4 @@ All along the peaks of Rhugnurt, especially the smaller ones, there are wide sto
 ## Fauna
 Much like its Giantkind inhabitants, the fauna of Rhugnurt and Rodigia as a whole are larger than those from the rest of Chandaria.
 
-One of the main animal means of transportation in Rhugnurt is via 
+One of the main animal means of transportation in Rhugnurt is via Monties. These are mammoth-like creatures that have adapted to life in the steep mountainous terrain. They have the movement capability 

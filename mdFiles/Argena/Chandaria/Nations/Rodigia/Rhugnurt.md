@@ -6,4 +6,6 @@ Much like its Giantkind inhabitants, the fauna of Rhugnurt and Rodigia as a whol
 
 One of the main animal means of transportation in Rhugnurt is via Monties. These are large, furry, mammoth-like creatures that have adapted to life in the steep mountainous terrain. They have the movement capability of mountain goats, but a much greater carrying capacity. To outsiders it can be very strange at first to see these massive creatures climbing near-vertical cliff faces around Rhugnurt, but Monties have been domesticated for millennia and are a staple of Giant society.
 
-While the Monties are the go-to land mounts, the skies are ruled by Sky Whales (more commonly called Barges). These are massive mammals similar to whales that have an innate flying ability. While they have 
+While the Monties are the go-to land mounts, the skies are ruled by Sky Whales (more commonly called Barges). These are massive mammals similar to whales that have an innate flying ability. While they have extra large flippers, these are not the main source of their flight. It is unclear exactly what it is that grants them flight, it seems that they are able to naturally control their buoyancy. Barges are able to carry even more than Monties and do so through the air. However, they require a lot of food to keep healthy, and have a very long growth period to adulthood. With all this, they are a valuable creature to own.
+
+There are multiple sky docks around Rhugnurt that can keep 

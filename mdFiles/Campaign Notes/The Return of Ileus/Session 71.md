@@ -14,4 +14,7 @@ Upstairs, Ileus has a lot of space paraphernalia, including a telescope and an o
 ## Falstor
 In Ophal's throne room, the teenage Jeffery announces [[King Ophal]]'s titles. 
 
-King Ophal wants to help the party, especially since he knows Astarius. He says that he could spare 2,000 soldiers to the party if they needed it. He also says that he could get a lot more if the party could bring proof of Ileus's impending doom. He believes the party but the rest of his council and generals do not, so his hands are somewhat tied.
+King Ophal wants to help the party, especially since he knows Astarius. He says that he could spare 2,000 soldiers to the party if they needed it. He also says that he could get a lot more if the party could bring proof of Ileus's impending doom. He believes the party but the rest of his council and generals do not, so his hands are somewhat tied. The army that King Ophal gives to the party is led by a dwarf named Ogden Strongarm. He is a heavy-set dwarf with a clearly fake eye that rolls around in its socket sometimes.
+
+## Rodigia
+The Mountain King [[Rodigia|Strullar Anling]] is extremely reluctant to give any aid 

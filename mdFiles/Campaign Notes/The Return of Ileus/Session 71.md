@@ -19,6 +19,5 @@ King Ophal wants to help the party, especially since he knows Astarius. He says 
 The Mountain King [[Rodigia|Strullar Anling]] is extremely reluctant to give any military aid to the party. While the Larenthian Army has retreated for now, the Larenthian government has not made any motion towards establishing a truce or peace treaty. The Mountain King is very worried about another surprise attack from the Larenthian Alliance. What he needs most for convincing is a guarantee that his country will be safe. He won't state this need outright but it is what's most important to him.
 
 The area around Mount Thogrin is still devastated from the siege. Much of the grass is trampled and most of the surrounding forests are destroyed. Most of the road up towards Rhugnurt is cleared, but there are still a few effigies left just for good measure. Inside the walls, the city appears to have sustained damage from trebuchet and spell weaponry, but the Giantkind architecture seems to have withheld fairly well, and is already in the process of being repaired by skilled craftsmen.
-
 ## Atrisean Dynasty
-God King Olym 
+God King Olym is a conniving and scheming man. He only wants to help the party if it gets him more money, power, or reputation.

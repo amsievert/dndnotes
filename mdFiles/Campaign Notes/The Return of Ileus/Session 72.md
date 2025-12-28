@@ -45,4 +45,4 @@ Kelnan Springsong - Transmutation
 Lora Cloudeyes - Illusion
 Mordecai Hiro - Conjuration
 
-While Calmar leads the hearing, the party is questioned by other members of the Assembly, especially the other Octarchs. Katerina is heavily in support of fighting against Ileus. Meanwhile, 
+While Calmar leads the hearing, the party is questioned by other members of the Assembly, especially the other Octarchs. Katerina is heavily in support of fighting against Ileus. She believes that as Kainomancers, it is their duty to stamp out Anteitic ideologies wherever and whenever they resurface. In contrast, Leth Redd believes that while despite the threat, Spellhaven is an incredibly safe city, and its foremost duty is to protect the Valdensians, all of whom would be safe within Spellhaven's walls. Even when presented with Harmonia's seal, he stands his ground, and Calmar reminds the party that while many members of the Assembly and many citizens of Valdens are devout worshippers of 

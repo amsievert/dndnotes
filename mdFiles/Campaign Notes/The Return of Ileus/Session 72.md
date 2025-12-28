@@ -33,4 +33,9 @@ If the party returns the letter, Olym reads it and thanks them for sharing it wi
 
 If the God King is in a good mood after the conclusion of his quest, he works with the party and can share up to 10,000 soldiers.
 ## [[Valdens]]
-The arcane assembly is slightly reluctant to hear the 
+The arcane assembly is slightly reluctant to hear the party out at first, since they are majority martial characters. However, they do hear out the party, especially if the Harmonia seal is presented. The party undergoes a hearing led by Calmar Phym, the Octarch of Divination.
+
+Octarchs:
+Calmar Phym - Divination
+Hal Venner - Evocation
+Katherine 

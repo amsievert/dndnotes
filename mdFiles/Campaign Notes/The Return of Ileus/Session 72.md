@@ -29,4 +29,8 @@ The temple is run by an elven woman named Sister Yvette. She shows the party the
 
 Following the wagon tracks away from the chapel, they continue on for a few miles before leading to Djorn Dastina's camp in a small forest clearing. He (Warlord) has two men at arms with him (Gladiators). Djorn has a bag of holding that contains the Lucite idol, 30 platinum, and the mission briefing.
 
-If the party returns the letter, Olym reads it and thanks them for sharing it with him. He immediately says that this likely means war with No'zaral. If the party confronts the God King, he seems disappointed. If Dastina is still dead but there is no note, 
+If the party returns the letter, Olym reads it and thanks them for sharing it with him. He immediately says that this likely means war with No'zaral. If the party confronts the God King, he seems disappointed. If Dastina is still dead but there is no note, he announces that he will be sending extra troops to the border to secure it. If Dastina is alive, he still announces that he will be sending troops, but even more to deal with treason against the God King's bloodline (through Lucite).
+
+If the God King is in a good mood after the conclusion of his quest, he works with the party and can share up to 10,000 soldiers.
+## [[Valdens]]
+The arcane assembly is slightly reluctant to hear the 

@@ -38,4 +38,7 @@ The arcane assembly is slightly reluctant to hear the party out at first, since 
 Octarchs:
 Calmar Phym - Divination
 Hal Venner - Evocation
-Katherine 
+Katerina Espos - Enchantment
+Yellen Urt - Necromancy
+Leth Redd - Abjuration
+Traenon 

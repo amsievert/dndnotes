@@ -41,4 +41,8 @@ Hal Venner - Evocation
 Katerina Espos - Enchantment
 Yellen Urt - Necromancy
 Leth Redd - Abjuration
-Traenon 
+Kelnan Springsong - Transmutation
+Lora Cloudeyes - Illusion
+Mordecai Hiro - Conjuration
+
+While Calmar leads the hearing, the party is questioned by other members of the Assembly, especially the other Octarchs. Katerina is heavily in support of fighting against Ileus. Meanwhile, 

@@ -1,0 +1,1 @@
+A hero from Pre-Dissension Chandaria who was a very famous sorcerer. 

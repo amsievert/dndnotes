@@ -27,4 +27,6 @@ The idol of Lucite was stolen by a Robber Baron from a disgraced Atrisean noble 
 
 The temple is run by an elven woman named Sister Yvette. She shows the party the scene of the crime. The temple itself is fairly small, yet it has golden accents on the stonework and has very detailed stained glass windows. Outside the door are blood stains where the temple's four guards were killed. The temple's doors seem to have been broken in by a large force. Inside, the temple's furniture is strewn about and the shrine at the front has been looted. At the front door, the ground is churned up into thick mud. A DC 10 survival check finds wagon tracks that lead right up to the door. A DC 15 survival check reveals that the door was broken down after the idol was stolen.
 
-Following the wagon tracks away from the chapel, they continue on for a few miles before leading to Djorn Dastina's camp in a small forest clearing. 
+Following the wagon tracks away from the chapel, they continue on for a few miles before leading to Djorn Dastina's camp in a small forest clearing. He (Warlord) has two men at arms with him (Gladiators). Djorn has a bag of holding that contains the Lucite idol, 30 platinum, and the mission briefing.
+
+If the party returns the letter, Olym reads it and thanks them for sharing it with him. He immediately says that this likely means war with No'zaral. If the party confronts the God King, he seems disappointed. If Dastina is still dead but there is no note, 

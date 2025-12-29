@@ -1,1 +1,1 @@
-A hero from Pre-Dissension Chandaria who was a very famous sorcerer. 
+A hero from Pre-Dissension Chandaria who was a very famous sorcerer. He lived in what would later become Norlund. He became famous for killing a Storm Giant that lived atop a mountain in the Spine, where Leiros awakened his storm sorcery abilities to defeat the foe. After this, Leiros travelled between city-states, showing off his abilities and controlling the weather to help water crops and perform other miracles that seemed to be Godlike in ability.

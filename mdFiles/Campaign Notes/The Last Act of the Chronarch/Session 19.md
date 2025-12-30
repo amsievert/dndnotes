@@ -27,4 +27,6 @@ The jungle is extremely hot, with temperatures over 100 degrees. Not only this, 
 
 On the 2nd night of traveling while resting, a friendly Treant named Treena approaches whoever is on watch and tries to strike up conversation. If there is a fire, she first asks them politely to put it out to protect the other jungle flora. She sits with the watch and remarks how it is nice to meet someone who isn't a soldier like those that normally pass through here. Unfortunately, by extinguishing their fire, the rest of the night is filled with mosquito bites.
 
-During the next day of travel, the road passes near another cliff. This one has a wide waterfall, and the road passes through the shallow water near the edge of the waterfall. While traveling through this, the party is ambushed by three carnotaurus. These are a cross between 
+On the fourth day of travel, the road passes near another cliff. This one has a wide waterfall, and the road passes through the shallow water near the edge of the waterfall. While traveling through this, the party is ambushed by three Carnotaurus. These dinosaurs have longer horns than a real carno and can use them to gore. The carnos have the triceratops gore attack and the Allosaurus bite attack. They can do one of each per turn and have a +8 attack bonus with a +5 damage bonus.
+
+Towards the end of the fifth day of travel, the party finally reaches Fort Hanam. The fort is set in a large basin, where 

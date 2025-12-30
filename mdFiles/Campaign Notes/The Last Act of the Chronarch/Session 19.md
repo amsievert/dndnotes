@@ -31,4 +31,6 @@ On the fourth day of travel, the road passes near another cliff. This one has a 
 
 Towards the end of the fifth day of travel, the party finally reaches Fort Hanam. The fort is set in a large basin, where waterfalls flow down into, making a natural moat around the fort. The floor of the basin is about 75 feet down, and the top of the fort just crests over the lip of the basin. The road here splits, with one fork heading down a narrow cliffside path down into the basin, and another traveling around the edge for a bit before branching south towards Sangara.
 
-On the first day of travel between Fort Hanam and Sangara, the party comes across the gruesome sight of another military convoy that was attacked by 
+On the first day of travel between Fort Hanam and Sangara, the party comes across the gruesome sight of another military convoy that was attacked by dinosaurs. The convoy consists of three carts, each of them empty, seemingly having already dropped off their supplies at the fort. All three of the carts are destroyed, and there is blood and viscera scatter all over the place. A metallic glint catches the parties eyes, and they see, about 40 feet up a massive tree, a dead caravan guard impaled on a broken tree branch. The guard has no head, but is wearing full plate armor that seems like it might fit Yorik.
+
+During that night, the party hears heavy footsteps far off in the distance, 

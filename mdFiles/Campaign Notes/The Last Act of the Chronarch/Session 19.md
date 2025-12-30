@@ -29,4 +29,6 @@ On the 2nd night of traveling while resting, a friendly Treant named Treena appr
 
 On the fourth day of travel, the road passes near another cliff. This one has a wide waterfall, and the road passes through the shallow water near the edge of the waterfall. While traveling through this, the party is ambushed by three Carnotaurus. These dinosaurs have longer horns than a real carno and can use them to gore. The carnos have the triceratops gore attack and the Allosaurus bite attack. They can do one of each per turn and have a +8 attack bonus with a +5 damage bonus.
 
-Towards the end of the fifth day of travel, the party finally reaches Fort Hanam. The fort is set in a large basin, where 
+Towards the end of the fifth day of travel, the party finally reaches Fort Hanam. The fort is set in a large basin, where waterfalls flow down into, making a natural moat around the fort. The floor of the basin is about 75 feet down, and the top of the fort just crests over the lip of the basin. The road here splits, with one fork heading down a narrow cliffside path down into the basin, and another traveling around the edge for a bit before branching south towards Sangara.
+
+On the first day of travel between Fort Hanam and Sangara, the party comes across the gruesome sight of another military convoy that was attacked by 

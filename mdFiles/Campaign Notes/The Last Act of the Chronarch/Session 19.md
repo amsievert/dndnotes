@@ -10,4 +10,4 @@ The river guards inspect the party's packs and question them about their reasons
 
 It takes about 3 hours for a ferry to cross the Londrias. Disembarking from the ferry is much easier than getting on. Everyone rushes to get off as quickly as possible. Lira is waiting nearby the docks anxiously waiting, she thanks them so much for bringing her baby and asks what is happening with Marcus.
 
-Athalon is a city of traders. From here, merchants send goods across into Valdens, around into Falstor, and up the Twin Straits to the Larenthian Alliance. The city is a maze of crisscrossing streets that have hundreds of wagons and caravans driving across at all times. Since the 
+Athalon is a city of traders. From here, merchants send goods across into Valdens, around into Falstor, and up the Twin Straits to the Larenthian Alliance. The city is a maze of crisscrossing streets that have hundreds of wagons and caravans driving across at all times. Since the city's road network is very established already, the city doesn't expand outward, but rather upward. Much of the city is made of 10 to 12 story buildings made of stone and reinforced with rare metals. 

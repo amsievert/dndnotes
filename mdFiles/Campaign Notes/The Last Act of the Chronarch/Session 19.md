@@ -14,3 +14,4 @@ Athalon is a city of traders. From here, merchants send goods across into Valden
 
 Traveling further north from Athalon, the party passes into a thick forest with tall, skinny trees. Further into the forest, the party comes across a small roadside chapel. The building is no more than 20 feet by 20 feet. On one side of the front door is a carved wooden statue of [[Lucite]]. On the other side of the door is a carved wooden statue of God King Olym Teinithra. He is depicted with sharp features and short parted hair. He is holding a sword triumphantly in one hand and holding a spool of thread in the other. The chapel's door is open, and inside is a human woman praying to a gold idol of Lucite. The woman's name is Gelda and she is very old. She simply acts as an information NPC to give information about the region and the Dynasty if asked.
 
+The next day, as the party continues 

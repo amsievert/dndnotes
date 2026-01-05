@@ -1,4 +1,4 @@
-Current Day: 23rd of Glanix, 2520 PS
+Current Day: 24th of Glanix, 2520 PS
 ## Present Day Mondrall
 Following the Alliance's army discovering the devastation of Mondrall during the Dissension, they cleaned up the bodies of the few garrisoned troops that were left in the city's barracks, then left the city as it was.
 

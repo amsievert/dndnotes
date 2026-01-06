@@ -45,4 +45,8 @@ The game utilizes reactions a lot.
 ##### Running
 A player carrying the ball can move with their movement speed while carrying the ball. If at any point they enter a square adjacent to a defender, that defender can use their reaction to attempt to steal the ball by initiating a contested athletics/acrobatics roll.
 ##### Passing
-As an action, the ball carrier can attempt to pass the ball by making a ranged attack roll with the ball (the ball is a 30/90 ranged weapon). The ranged attack just needs to beat the target's AC, which motivates players to not wear armor. 
+As an action, the ball carrier can attempt to pass the ball by making a ranged attack roll with the ball (the ball is a 30/90 ranged weapon). The ranged attack just needs to beat the target's AC, which motivates players to not wear armor.
+
+A defender that is within 5 feet of the pass trajectory can use their reaction to attempt to intercept the ball. This is an Athletics/Acrobatics check where the DC is the attack roll of the pass.
+
+If there is a defender within 5 feet of the player attempting the catch the ball, 

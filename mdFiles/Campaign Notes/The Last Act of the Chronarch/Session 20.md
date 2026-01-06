@@ -34,4 +34,4 @@ If the party joins the tournament, the first team they face would be a collectio
 
 The second team is led by Idu the Bloodball champion. They call themselves Shkakethi (roughly translates to Killers). Idu has the champion stat block. The rest of his teammates have the swashbuckler stat block, except for one defender which has the Gladiator stat block and acts as a physical enforcer in defense.
 ## Festivities
-The main party happens the day after the final Bloodball game. The party goes on all day, with moonshine, fried meat, and lots of talking if wanted. At this celebration, Elder Theedh meets up with the party and talks to them further about their quest to track down the fire elemental.
+The main party happens the day after the final Bloodball game. The party goes on all day, with moonshine, fried meat, and lots of talking if wanted. At this celebration, Elder Theedh meets up with the party and talks to them further about their quest to track down the Void Shard in the fire plane. 

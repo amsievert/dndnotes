@@ -25,5 +25,7 @@ Rulla - Broodmother that helped with Rango's kids
 Esh - Unofficial leader of the Hatchwardens
 Teshar - Priest
 Mellok - Priest
-Kyrowyn 
+Kyrowyn Bramenor - Atrisean Missionary of Lucite
 Budrunk - Sunsitter and village idiot
+## Bloodball Tournament
+The Bloodball Tournament takes place in the days leading up to the Celebration of Life, with the final game being the day before the main party. If the party joins there would be 4 teams i

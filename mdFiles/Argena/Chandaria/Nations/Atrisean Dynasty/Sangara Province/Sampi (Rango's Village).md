@@ -15,4 +15,6 @@ Sampi's culture can seem uncivilized to the uninitiated, but it is actually quit
 ## Architecture
 Geographically, Sampi is built in a region where the dense Atrisean jungle becomes even more humid and swampy as it nears the coast. Due to this climate, Sampi consists mostly of small houses made with mud and other dried vegetation. Another popular building among the village are the Vutos (Saunas, roughly translates to Sun Room in common). These mud structures are built to channel the high equatorial sun into water tubs that evaporate and heat the Vuto with steam. These are a necessity to help the Lizardfolk regulate their body temperatures.
 
-In the center of the village is the Shallosh, a large ziggurat built near the Elderbark trees at the center of the village. The Shallosh acts as a temple to the lizard gods. 
+In the center of the village is the Shallosh, a large ziggurat built near the Elderbark trees at the center of the village. The Shallosh acts as a temple to the lizard gods. It provides an excellent view of the Elderbarks while praying.
+
+All of the buildings of Sampi are spread across a swampy marsh 

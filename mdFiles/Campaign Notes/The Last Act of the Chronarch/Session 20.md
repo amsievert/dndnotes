@@ -11,3 +11,4 @@ There are no more encounters before reaching [[Tree and Scale Village|Rango's Vi
 ## Overview
 The village Elders are against any idea of trying to follow the fire monsters back through the tree. They claim that to do so would invite only trouble to the village. They also claim that they are currently busy planning for the celebration of an elder's recent death. One of the Elders says that maybe if Rango and friends can win the Garmior (Bloodball) tournament leading up to the celebration, he will talk to them further about possibilities at the actual celebration.
 
+At the actual celebration, everything seems to be going very well and everyone is having a fantastic time. Late into the night while the festivities are still raging on, the Mother tree suddenly opens and multiple fire elementals and a large elemental (Efreeti) burst through and begin laying waste to the village.

@@ -22,5 +22,8 @@ Tho - Recently Deceased Elder
 Lort - Huntmaster
 Idu - Bloodball Champion
 Rulla - Broodmother that helped with Rango's kids
-Esh - 
-Budrunk - Sunsitter
+Esh - Unofficial leader of the Hatchwardens
+Teshar - Priest
+Mellok - Priest
+
+Budrunk - Sunsitter and village idiot

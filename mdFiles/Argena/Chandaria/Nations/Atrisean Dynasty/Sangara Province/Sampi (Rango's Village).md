@@ -30,7 +30,11 @@ The Lizardfolk people believe that these four deities created the world as it is
 The last surviving remnants of the Lizardfolk Gods in the mortal world are said to be the Elderbark trees that sit at the center of Sampi. It is believed that these trees, one large Mother tree and many smaller child trees, were left behind by the Gods when they departed for the Beastlands, and serve as a means of monitoring their children as well as a way for the Lizardfolk to communicate spiritually with the Gods.
 ## Social Organization
 There are many different jobs in Lizardfolk society. Each is aptly named in a very direct way, as is custom with many other facets of Lizardfolk culture. A few common jobs are:
-- Hatchwarden: Protector of the 
+- Hatchwarden: Protector of the egg hatcheries in the village.
+- Broodmother: One who helps those with many hatchlings. A babysitter of sorts.
+- Huntmaster: A leader of hunting parties.
+- Cooker: A specialist in preparing meals.
+- Sunsitter: A derogatory word to describe someone who is lazy or unemployed.
 ## History
 The history of Sampi and the Lizardfolk people is told entirely through the oral traditions. Lizardfolk love telling stories, through song, story, or even dance sometimes (although the dances often look more like fighting than anything else).
 ### Creation Myth

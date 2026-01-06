@@ -13,3 +13,4 @@ The death of an Elder is considered to be a cause for great celebration, because
 # Culture
 Sampi's culture can seem uncivilized to the uninitiated, but it is actually quite deep. It just requires a very esoteric knowledge of the traditions of the Lizardfolk.
 ## Architecture
+Geographically, Sampi is built in a region where the dense Atrisean jungle becomes even more humid and swampy as it nears the coast. Due to this climate, Sampi consists mostly of small houses made with mud and other dried vegetation. Another popular building among the village are the Vutos (Saunas, roughly translates to )

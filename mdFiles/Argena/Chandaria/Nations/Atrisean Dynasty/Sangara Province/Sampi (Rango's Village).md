@@ -7,4 +7,9 @@ Sampi has a population of around 320 people, with over 95% of them being Lizardf
 
 The people of Sampi get along very well, as there is no real class structure or other means of social segregation. The only group that is slightly elevated are the Elders, who are simply the oldest and wisest members of the population. They are revered because they are seen to be closer to the Beastlands because they are closer to dying. This gives them somewhat of an inherent divinity.
 ## Government
-The population of Sampi entrust the governing of the village to the Elders, of which there are currently 10 considered to be old enough. 
+The population of Sampi entrust the governing of the village to the Elders, of which there are currently 10 considered to be old enough. The duties of an Elder are to manage supplies of food, delegate the construction of new buildings, and remedy any other complaints brought forth by other members of the village.
+
+The death of an Elder is considered to be a cause for great celebration, because it marks the end of their journey in the mortal world and begins their existence in the eternity of the Beastlands.
+# Culture
+Sampi's culture can seem uncivilized to the uninitiated, but it is actually quite deep. It just requires a very esoteric knowledge of the traditions of the Lizardfolk.
+## Architecture

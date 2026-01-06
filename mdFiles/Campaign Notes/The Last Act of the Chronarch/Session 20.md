@@ -35,4 +35,8 @@ If the party joins the tournament, the first team they face would be a collectio
 The second team is led by Idu the Bloodball champion. They call themselves Shkakethi (roughly translates to Killers). Idu has the champion stat block. The rest of his teammates have the swashbuckler stat block, except for one defender which has the Gladiator stat block and acts as a physical enforcer in defense.
 
 ### Bloodball Rules
-Bloodball is similar to handball 
+Bloodball is similar to handball but with extreme violence. The game can be played with any number of players on a team, but they must be equal numbers. In terms of violence there are only two things not allowed: killing a player, and interacting with the goalie. The goalie is the only protected player.
+
+When holding the ball, the ball carrier has two options. They can run with the ball, or throw it to a teammate. However, there is a semicircle zone around each team's goal that it is forbidden to carry the ball into or receive the ball inside of.
+
+A team scores by throwing the ball past

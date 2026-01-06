@@ -12,3 +12,11 @@ There are no more encounters before reaching [[Tree and Scale Village|Rango's Vi
 The village Elders are against any idea of trying to follow the fire monsters back through the tree. They claim that to do so would invite only trouble to the village. They also claim that they are currently busy planning for the celebration of an elder's recent death. One of the Elders says that maybe if Rango and friends can win the Garmior (Bloodball) tournament leading up to the celebration, he will talk to them further about possibilities at the actual celebration.
 
 At the actual celebration, everything seems to be going very well and everyone is having a fantastic time. Late into the night while the festivities are still raging on, the Mother tree suddenly opens and multiple fire elementals and a large elemental (Efreeti) burst through and begin laying waste to the village. This would seem strange to Rango, since he knows that raids like this shouldn't be happening for a few years, something is different. (In truth what is different is that since the party has found the first Void Shard much sooner than Elminster did in the old timeline, Tannaeus and the Chronarch have started racing for the Void Shard from the Fire Plane much sooner, kickstarting this sequence of events much sooner than before)
+## NPCs
+Shenk - Village Elder
+Tiss - Village Elder
+Ranti - Village Elder
+Kugu - Village Elder
+Theedh - Village Elder
+
+Budrunk - Sunsitter

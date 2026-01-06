@@ -32,4 +32,4 @@ The Bloodball Tournament takes place in the days leading up to the Celebration o
 
 If the party joins the tournament, the first team they face would be a collection of local young adults calling themselves the Swamp Stompers. There team is made up of druid and spy stat blocks.
 
-The second team is led by Idu the Bloodball champion. They call themselves 
+The second team is led by Idu the Bloodball champion. They call themselves Shkakethi (roughly translates to Killers). Idu has the champion stat block. The rest of his teammates have the swashbuckler stat block, except for one defender which has 

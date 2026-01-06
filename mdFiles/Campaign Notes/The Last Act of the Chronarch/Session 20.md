@@ -18,5 +18,9 @@ Tiss - Village Elder
 Ranti - Village Elder
 Kugu - Village Elder
 Theedh - Village Elder
-
+Tho - Recently Deceased Elder
+Lort - Huntmaster
+Idu - Bloodball Champion
+Rulla - Broodmother that helped with Rango's kids
+Esh - 
 Budrunk - Sunsitter

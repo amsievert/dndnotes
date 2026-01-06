@@ -9,4 +9,4 @@ The following night, the T-rexes ambush the party. Their low vibrating vocalizat
 There are no more encounters before reaching [[Tree and Scale Village|Rango's Village]]. Which is reached midway through the 4th day of travel.
 # In Tree and Scale
 ## Overview
-The village Elders are 
+The village Elders are against any idea of trying to follow the fire monsters back through the tree. They claim that to do so would invite only trouble to the village. 

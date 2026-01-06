@@ -17,4 +17,6 @@ Geographically, Sampi is built in a region where the dense Atrisean jungle becom
 
 In the center of the village is the Shallosh, a large ziggurat built near the Elderbark trees at the center of the village. The Shallosh acts as a temple to the lizard gods. It provides an excellent view of the Elderbarks while praying.
 
-All of the buildings of Sampi are spread across a swampy marsh 
+All of the buildings of Sampi are spread across a swampy marsh, and are connected by a network of waterways, as opposed to streets. While there are rafts and floats used by the few non-lizardfolk inhabitants of Sampi to navigate the village, most of the populace simply prefers to swim wherever they need to go.
+## Religion
+The Lizardfolk of Sampi pray to their own gods, who are not part of the [[Gods and Mythos (Aeonic Pantheon)|Aeonic Pantheon]]. They recognize 

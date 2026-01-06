@@ -1,4 +1,3 @@
-# Gods and Mythos
 ### List of Gods
 - [[Lucite]] - Goddess of fortune and luck
 - [[Pholtus]] - God of light and law

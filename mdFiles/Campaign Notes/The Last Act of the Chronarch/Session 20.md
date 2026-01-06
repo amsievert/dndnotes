@@ -6,11 +6,4 @@ During that night, the party hears heavy footsteps far off in the distance, foll
 
 The following night, the T-rexes ambush the party. Their low vibrating vocalizations can be heard by whoever is on watch. A good perception check hears their padded footsteps slowly stalking around the edge of the camp. A bad perception check only sees the catlike eyes catching the fire for a moment before disappearing and getting a different ambush angle.
 
-There are no more encounters before reaching Rango's village. Which is reached midway through the 4th day of travel.
-
-Skjall - tree
-Kagh - and
-Ternock - scale
-Shripomn - village
-
-Skjalkagh'ternockshripomn
+There are no more encounters before reaching [[Tree and Scale Village|Rango's V]]. Which is reached midway through the 4th day of travel.

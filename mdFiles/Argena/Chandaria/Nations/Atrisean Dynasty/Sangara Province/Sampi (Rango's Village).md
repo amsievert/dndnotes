@@ -28,4 +28,7 @@ The Lizardfolk of Sampi pray to their own gods, who are not part of the [[Gods a
 The Lizardfolk people believe that these four deities created the world as it is, and have protected it from evil for many years. They also believe that these deities live in the Beastlands, where they rule over a land free of evil and full of wilderness. Dying and going to live alongside the Gods in the Beastlands is the greatest honor and aspiration of a Lizardfolk.
 ## History
 The history of Sampi and the Lizardfolk people is told entirely through the oral traditions. Lizardfolk love telling stories, through song, story, or even dance sometimes (although the dances often look more like fighting than anything else).
+### Creation Myth
+The story goes that the entire world was created by many Gods, not just the four Lizardfolk Gods. They all collaborated together to build a world teeming with life. The Lizardfolk Gods created the swamp and the jungle to appeal best to the likes of their children, the original Lizardfolk. They had their own little section of paradise in the mortal world.
 
+The other Gods that created other parts of the world were foolish deities. They grew to hate each other and their creations, and they had a huge fight. These other Gods all killed each other in the fighting, but the Lizardfolk Gods didn't join this frivolous fight, and instead protected their children from the devastation. Following the fight, the Lizardfolk Gods decided it would be best to return to their home, a 

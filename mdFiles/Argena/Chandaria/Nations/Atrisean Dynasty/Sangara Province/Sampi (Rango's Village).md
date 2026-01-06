@@ -25,4 +25,7 @@ The Lizardfolk of Sampi pray to their own gods, who are not part of the [[Gods a
 3. Eeso- The God of the Sky
 4. Haal - The Goddess of the Water
 
-The lizardfolk people believe that these four deities created the world as it is, and have protected it from evil for many years. 
+The Lizardfolk people believe that these four deities created the world as it is, and have protected it from evil for many years. They also believe that these deities live in the Beastlands, where they rule over a land free of evil and full of wilderness. Dying and going to live alongside the Gods in the Beastlands is the greatest honor and aspiration of a Lizardfolk.
+## History
+The history of Sampi and the Lizardfolk people is told entirely through the oral traditions. Lizardfolk love telling stories, through song, story, or even dance sometimes (although the dances often look more like fighting than anything else).
+

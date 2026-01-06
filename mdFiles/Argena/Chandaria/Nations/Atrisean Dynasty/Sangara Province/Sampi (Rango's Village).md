@@ -22,5 +22,7 @@ All of the buildings of Sampi are spread across a swampy marsh, and are connecte
 The Lizardfolk of Sampi pray to their own gods, who are not part of the [[Gods and Mythos (Aeonic Pantheon)|Aeonic Pantheon]]. They recognize four gods, each with their own divine domain:
 1. Vu - The Goddess of the Sun
 2. Sjo - The God of the Earth
-3. La - The God of the Sky
+3. Eeso- The God of the Sky
 4. Haal - The Goddess of the Water
+
+The lizardfolk people believe that these four deities created the world as it is, and have protected it from evil for many years. 

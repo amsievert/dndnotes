@@ -49,4 +49,6 @@ As an action, the ball carrier can attempt to pass the ball by making a ranged a
 
 A defender that is within 5 feet of the pass trajectory can use their reaction to attempt to intercept the ball. This is an Athletics/Acrobatics check where the DC is the attack roll of the pass.
 
-If there is a defender within 5 feet of the player attempting the catch the ball, 
+If there is a defender within 5 feet of the player attempting the catch the ball, they can use their reaction to force the catching player to make a contested athletics/acrobatics check. If the defender wins the contest, the ball is knocking loose and lands on the ground.
+##### Loose Ball
+Picking up the ball from the ground requires a player to use their action to pick it up.

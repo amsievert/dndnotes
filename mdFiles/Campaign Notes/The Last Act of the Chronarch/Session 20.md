@@ -27,7 +27,7 @@ Teshar - Priest
 Mellok - Priest
 Kyrowyn Bramenor - Atrisean Missionary of Lucite
 Budrunk - Sunsitter and village idiot
-## [[Games|Bloodball]] Tournament
+## [[Games#Bloodball|Bloodball]] Tournament
 The Bloodball Tournament takes place in the days leading up to the Celebration of Life, with the final game being the day before the main party. If the party joins there would be 4 teams in the tournament, meaning the champion would need to win two games.
 
 If the party joins the tournament, the first team they face would be a collection of local young adults calling themselves the Swamp Stompers. There team is made up of druid and spy stat blocks.

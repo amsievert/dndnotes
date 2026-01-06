@@ -27,28 +27,9 @@ Teshar - Priest
 Mellok - Priest
 Kyrowyn Bramenor - Atrisean Missionary of Lucite
 Budrunk - Sunsitter and village idiot
-## Bloodball Tournament
+## [[Games|Bloodball]] Tournament
 The Bloodball Tournament takes place in the days leading up to the Celebration of Life, with the final game being the day before the main party. If the party joins there would be 4 teams in the tournament, meaning the champion would need to win two games.
 
 If the party joins the tournament, the first team they face would be a collection of local young adults calling themselves the Swamp Stompers. There team is made up of druid and spy stat blocks.
 
 The second team is led by Idu the Bloodball champion. They call themselves Shkakethi (roughly translates to Killers). Idu has the champion stat block. The rest of his teammates have the swashbuckler stat block, except for one defender which has the Gladiator stat block and acts as a physical enforcer in defense.
-
-### Bloodball Rules
-Bloodball is similar to handball but with extreme violence. The game can be played with any number of players on a team, but they must be equal numbers. In terms of violence there are only two things not allowed: killing a player, and interacting with the goalie. The goalie is the only protected player.
-
-When holding the ball, the ball carrier has two options. They can run with the ball, or throw it to a teammate. However, there is a semicircle zone around each team's goal that it is forbidden to step inside of.
-
-A team scores by throwing the ball past the goalie and into the goal, which scores 1 point. The game is usually played to 5 points.
-#### Mechanics
-The game utilizes reactions a lot.
-##### Running
-A player carrying the ball can move with their movement speed while carrying the ball. If at any point they enter a square adjacent to a defender, that defender can use their reaction to attempt to steal the ball by initiating a contested athletics/acrobatics roll.
-##### Passing
-As an action, the ball carrier can attempt to pass the ball by making a ranged attack roll with the ball (the ball is a 30/90 ranged weapon). The ranged attack just needs to beat the target's AC, which motivates players to not wear armor.
-
-A defender that is within 5 feet of the pass trajectory can use their reaction to attempt to intercept the ball. This is an Athletics/Acrobatics check where the DC is the attack roll of the pass.
-
-If there is a defender within 5 feet of the player attempting the catch the ball, they can use their reaction to force the catching player to make a contested athletics/acrobatics check. If the defender wins the contest, the ball is knocking loose and lands on the ground.
-##### Loose Ball
-Picking up the ball from the ground requires a player to use their action to pick it up.

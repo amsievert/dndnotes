@@ -26,6 +26,8 @@ The Lizardfolk of Sampi pray to their own gods, who are not part of the [[Gods a
 4. Haal - The Goddess of the Water
 
 The Lizardfolk people believe that these four deities created the world as it is, and have protected it from evil for many years. They also believe that these deities live in the Beastlands, where they rule over a land free of evil and full of wilderness. Dying and going to live alongside the Gods in the Beastlands is the greatest honor and aspiration of a Lizardfolk.
+
+The last surviving remnants of the Lizardfolk Gods in the mortal world are said to be the Elderbark trees that sit at the center of Sampi. It is believed that these trees, one large Mother tree and many smaller child trees, were left behind by the Gods when they departed for the Beastlands, and serve as a means of 
 ## History
 The history of Sampi and the Lizardfolk people is told entirely through the oral traditions. Lizardfolk love telling stories, through song, story, or even dance sometimes (although the dances often look more like fighting than anything else).
 ### Creation Myth
@@ -33,4 +35,4 @@ The story goes that the entire world was created by many Gods, not just the four
 
 The other Gods that created other parts of the world were foolish deities. They grew to hate each other and their creations, and they had a huge fight. These other Gods all killed each other in the fighting, but the Lizardfolk Gods didn't join this frivolous fight, and instead protected their children from the devastation. Following the fight, the Lizardfolk Gods decided it would be best to return to their home, a land inconceivably far from the jungle. This fabled land came to be known as the Beastlands, and is said to be where dead Lizardfolk go to reunite with their kin and creators.
 ### Village History
-Sampi itself traces its history back a few hundred years. It was supposedly founded when a few families decided to band together to protect each other against a group of "Big Ones" (monsters) that were terrorizing the area. They eventually kill
+Sampi itself traces its history back a few hundred years. It was supposedly founded when a few families decided to band together to protect each other against a group of "Big Ones" (monsters) that were terrorizing the area. They eventually killed the monsters and attracted more nearby Lizardfolk to their settlement, who assimilated into what would soon become the village of Sampi. These first families are known as "The Great Hunters", since they hunted and killed the "Big Ones", a task that has inspired a tradition among the Lizardfolk of hunting great beasts and reveling in the glory of the hunt.

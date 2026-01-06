@@ -39,4 +39,8 @@ Bloodball is similar to handball but with extreme violence. The game can be play
 
 When holding the ball, the ball carrier has two options. They can run with the ball, or throw it to a teammate. However, there is a semicircle zone around each team's goal that it is forbidden to carry the ball into or receive the ball inside of.
 
-A team scores by throwing the ball past
+A team scores by throwing the ball past the goalie and into the goal, which scores 1 point. The game is usually played to 5 points.
+#### Mechanics
+The game utilizes reactions a lot.
+##### Running
+A player carrying the ball can move with their movement speed while carrying the ball. If at any point they enter a square adjacent to a defender, that defender can use their reaction to attempt to steal the ball by initiating a contested athletics/acrobatics roll. 

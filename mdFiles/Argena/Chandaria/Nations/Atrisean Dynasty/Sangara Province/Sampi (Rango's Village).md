@@ -27,7 +27,10 @@ The Lizardfolk of Sampi pray to their own gods, who are not part of the [[Gods a
 
 The Lizardfolk people believe that these four deities created the world as it is, and have protected it from evil for many years. They also believe that these deities live in the Beastlands, where they rule over a land free of evil and full of wilderness. Dying and going to live alongside the Gods in the Beastlands is the greatest honor and aspiration of a Lizardfolk.
 
-The last surviving remnants of the Lizardfolk Gods in the mortal world are said to be the Elderbark trees that sit at the center of Sampi. It is believed that these trees, one large Mother tree and many smaller child trees, were left behind by the Gods when they departed for the Beastlands, and serve as a means of 
+The last surviving remnants of the Lizardfolk Gods in the mortal world are said to be the Elderbark trees that sit at the center of Sampi. It is believed that these trees, one large Mother tree and many smaller child trees, were left behind by the Gods when they departed for the Beastlands, and serve as a means of monitoring their children as well as a way for the Lizardfolk to communicate spiritually with the Gods.
+## Social Organization
+There are many different jobs in Lizardfolk society. Each is aptly named in a very direct way, as is custom with many other facets of Lizardfolk culture. A few common jobs are:
+- Hatchwarden: Protector of the 
 ## History
 The history of Sampi and the Lizardfolk people is told entirely through the oral traditions. Lizardfolk love telling stories, through song, story, or even dance sometimes (although the dances often look more like fighting than anything else).
 ### Creation Myth

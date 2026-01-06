@@ -30,4 +30,6 @@ Budrunk - Sunsitter and village idiot
 ## Bloodball Tournament
 The Bloodball Tournament takes place in the days leading up to the Celebration of Life, with the final game being the day before the main party. If the party joins there would be 4 teams in the tournament, meaning the champion would need to win two games.
 
-If the party joins the tournament, the first team they face would be 
+If the party joins the tournament, the first team they face would be a collection of local young adults calling themselves the Swamp Stompers. There team is made up of druid and spy stat blocks.
+
+The second team is led by Idu the Bloodball champion. They call themselves 

@@ -8,7 +8,7 @@ The following night, the T-rexes ambush the party. Their low vibrating vocalizat
 
 There are no more encounters before reaching [[Tree and Scale Village|Rango's Village]]. Which is reached midway through the 4th day of travel.
 
-Shiqursyhk (Shic-qur-she-hisk)
+Rango: Shiqursyhk (Shic-qur-she-hisk)
 # In Tree and Scale
 ## Overview
 The village Elders are against any idea of trying to follow the fire monsters back through the tree. They claim that to do so would invite only trouble to the village. They also claim that they are currently busy planning for the celebration of an elder's recent death. One of the Elders (Elder Theedh) says that maybe if Rango and friends can win the Garmior (Bloodball) tournament leading up to the celebration, she will talk to them further about possibilities at the actual celebration.

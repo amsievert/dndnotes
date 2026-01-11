@@ -1,0 +1,23 @@
+Current Day: 24th of Glanix, 2520 PS
+
+Current Troops: 10,000 Falstor, 3,000 Giants, 5-10k Valdens
+## [[Atrisean Dynasty]]
+God King Olym is a conniving and scheming man. He only wants to help the party if it gets him more money, power, or reputation. He requires heavy proof of Ileus's plot in order to help the party. Overall he is very skeptical of the party.
+
+God King Olym has a mission to act as a loyalty test for the party to gain his military support. The quest is to go recover a religious artifact that has gone missing. The artifact is a golden idol of [[Lucite]]. It went missing from a wayside temple near the Ichor River. He gives the party a seal that shows that they are agents of the God King himself, so they will have authority.
+
+Quest Overview:
+The idol of Lucite was stolen by a Robber Baron from a disgraced Atrisean noble family, the Dastina family. The Robber Baron's name is Djorn Dastina. The Robber Baron received this mission via letter with a seal of the No'zaral government. That letter contained a briefing and a key to the temple, but was instructed to make the robbery look random. This letter and key however actually came from the God King's Head of Cultural Doctrine (Propaganda). This can be found by inspecting the seal. A DC 20 history check reveals that the seal is a fake. If the Robber Baron sees the seal of the God King that the party carries, he mentions how the God King is finally coming to finish off his family and that he won't go down without a fight. If the party brings back the letter, the God King is very pleased and uses it as a Casus Belli to potentially go to war with No'zaral.
+
+The temple is run by an elven woman named Sister Yvette. She shows the party the scene of the crime. The temple itself is fairly small, yet it has golden accents on the stonework and has very detailed stained glass windows. Outside the door are blood stains where the temple's four guards were killed. The temple's doors seem to have been broken in by a large force. Inside, the temple's furniture is strewn about and the shrine at the front has been looted. At the front door, the ground is churned up into thick mud. A DC 10 survival check finds wagon tracks that lead right up to the door. A DC 15 survival check reveals that the door was broken down after the idol was stolen.
+
+Following the wagon tracks away from the chapel, they continue on for a few miles before leading to Djorn Dastina's camp in a small forest clearing. He (Warlord) has two men at arms with him (Gladiators). Djorn has a bag of holding that contains the Lucite idol, 30 platinum, and the mission briefing.
+
+If the party returns the letter, Olym reads it and thanks them for sharing it with him. He immediately says that this likely means war with No'zaral. If the party confronts the God King, he seems disappointed. If Dastina is still dead but there is no note, he announces that he will be sending extra troops to the border to secure it. If Dastina is alive, he still announces that he will be sending troops, but even more to deal with treason against the God King's bloodline (through Lucite).
+
+If the God King is in a good mood after the conclusion of his quest, he works with the party and can share up to 10,000 soldiers.
+## [[No'zaral]]
+The Round welcomes the party with much respect for their achievements. They are invited to testify and present their demands within an amphitheater in the Civic Ring. If the party already has helped the Atrisean Dynasty, the Round is very unlikely to help. Otherwise, they respond very well to populist rhetoric and equalitarian arguments. The hearing here is led by Roundman Vance Thilmar, who openly welcomes other Roundmen and observers to join in on the debate.
+### Clockwork Consortium
+If the Round is convinced to help in the fight, the Clockwork Consortium will also help the party. They don't have any actual soldiers, but they have some technologies that can help. One device that the Consortium has is the Revivinator, which can be loaded with a revivify diamond to cast revivify. Another device they have is a gravity anchor (flavored earthbind spell), that fires a projectile that locks onto a flying creature and increases its mass, drawing the creature to the ground.
+# Ileus's Plan

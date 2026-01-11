@@ -21,3 +21,4 @@ The Round welcomes the party with much respect for their achievements. They are 
 ### Clockwork Consortium
 If the Round is convinced to help in the fight, the Clockwork Consortium will also help the party. They don't have any actual soldiers, but they have some technologies that can help. One device that the Consortium has is the Revivinator, which can be loaded with a revivify diamond to cast revivify. Another device they have is a gravity anchor (flavored earthbind spell), that fires a projectile that locks onto a flying creature and increases its mass, drawing the creature to the ground.
 # Ileus's Plan
+Ileus has now caught wind of the party gathering powers from around Chandaria. He decides to launch a two-pronged attack against the party's homefronts. 

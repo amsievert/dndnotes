@@ -1,0 +1,9 @@
+Current Day: 25th of Glanix, 2520 PS
+## [[No'zaral]]
+The Round welcomes the party with much respect for their achievements. They are invited to testify and present their demands within an amphitheater in the Civic Ring. If the party already has helped the Atrisean Dynasty, the Round is very unlikely to help. Otherwise, they respond very well to populist rhetoric and equalitarian arguments. The hearing here is led by Roundman Vance Thilmar, who openly welcomes other Roundmen and observers to join in on the debate.
+
+The leader of the thieve's guild here goes by the name Skip.
+### Clockwork Consortium
+If the Round is convinced to help in the fight, the Clockwork Consortium will also help the party. They don't have any actual soldiers, but they have some technologies that can help. One device that the Consortium has is the Revivinator, which can be loaded with a revivify diamond to cast revivify. Another device they have is a gravity anchor (flavored earthbind spell), that fires a projectile that locks onto a flying creature and increases its mass, drawing the creature to the ground.
+# Ileus's Plan
+Ileus has now caught wind of the party gathering powers from around Chandaria. He decides to launch a two-pronged attack against the party's home fronts. The first thing he does is convince Chief Alfir that this alliance that is forming is doing so with the sole intention of destroying Larenthia since the enemies are allied with Rodigia, whom the Larenthians believe to be terrorists. Ileus then launches two attacks. He assembles a mercenary force of 2,000 soldiers to take over Kha'anj Oasis. At the same time, he assembles a militia of Falstor Colonists to march on Stormion City and take the city, with the intention of launching a further assault towards Falstor itself. His goal is to force the party to pick only one fight.

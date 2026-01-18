@@ -4,7 +4,7 @@ The Round welcomes the party with much respect for their achievements. They are 
 
 The leader of the thieve's guild here goes by the name Skip.
 ### Voting Results
-After two days, the results of the vote come back in a comfortable win in support of joining the coalition against the Larenthian Alliance. During this time, Ileus's plan is already underway. 
+After two days, the results of the vote come back in a comfortable win in support of joining the coalition against the Larenthian Alliance. During this time, Ileus's plan is already underway. His mercenary army is assembling at the southern Larenthian border. He has also killed the Falstor ambassadors in the colonies and used illusion to make it seem as if they are still there and everything is ok.
 ### Clockwork Consortium
 If the Round is convinced to help in the fight, the Clockwork Consortium will also help the party. They don't have any actual soldiers, but they have some technologies that can help. One device that the Consortium has is the Revivinator, which can be loaded with a revivify diamond to cast revivify. Another device they have is a gravity anchor (flavored earthbind spell), that fires a projectile that locks onto a flying creature and increases its mass, drawing the creature to the ground.
 # Ileus's Plan

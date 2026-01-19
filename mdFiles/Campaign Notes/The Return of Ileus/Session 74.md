@@ -1,6 +1,6 @@
 Current Day: 24th of Glanix, 2520 PS
 
-Current Troops: 10,000 Falstor, 3,000 Giants, 5-10k Valdens
+Current Troops: 10,000 Falstor, 3,000 Giants, 5-10k Valdens, 20,000 No'zaral
 ## [[Atrisean Dynasty]]
 God King Olym is a conniving and scheming man. He only wants to help the party if it gets him more money, power, or reputation. He requires heavy proof of Ileus's plot in order to help the party. Overall he is very skeptical of the party.
 

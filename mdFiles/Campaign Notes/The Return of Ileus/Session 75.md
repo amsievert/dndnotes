@@ -1,4 +1,4 @@
-Current Day: 25th of Glanix, 2520 PS
+Current Day: 26th of Glanix, 2520 PS
 ## [[No'zaral]]
 The Round welcomes the party with much respect for their achievements. They are invited to testify and present their demands within an amphitheater in the Civic Ring. If the party already has helped the Atrisean Dynasty, the Round is very unlikely to help. Otherwise, they respond very well to populist rhetoric and equalitarian arguments. The hearing here is led by Roundman Vance Thilmar, who openly welcomes other Roundmen and observers to join in on the debate.
 

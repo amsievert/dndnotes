@@ -1,4 +1,4 @@
-Current Day: 29th of Glanix, 2520 PS
+Current Day: , 2520 PS
 Current Troops: 10,000 Falstor, 3,000 Giants, 5-10k Valdens, 20,000 No'zaral
 ## [[No'zaral]]
 The Round welcomes the party with much respect for their achievements. They are invited to testify and present their demands within an amphitheater in the Civic Ring. If the party already has helped the Atrisean Dynasty, the Round is very unlikely to help. Otherwise, they respond very well to populist rhetoric and equalitarian arguments. The hearing here is led by Roundman Vance Thilmar, who openly welcomes other Roundmen and observers to join in on the debate.

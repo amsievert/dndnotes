@@ -20,7 +20,7 @@ Mellok - Priest
 Kyrowyn Bramenor - Atrisean Missionary of Lucite
 Budrunk - Sunsitter and village idiot
 ## [[Games#Bloodball|Bloodball]] Tournament
-Party's team name is Rango and the fleshies.
+Party's team name is Rango and the fleshies.111
 
 The Bloodball Tournament takes place in the days leading up to the Celebration of Life, with the final game being the day before the main party. If the party joins there would be 4 teams in the tournament, meaning the champion would need to win two games.
 

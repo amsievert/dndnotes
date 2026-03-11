@@ -1,4 +1,4 @@
-Current Day: 24th of Calo, 2506 PS
+Current Day: 25th of Calo, 2506 PS
 # In Tree and Scale
 At the actual celebration, everything seems to be going very well and everyone is having a fantastic time. Late into the night while the festivities are still raging on, the Mother tree suddenly opens and multiple fire elementals and a large elemental (Efreeti) burst through and begin laying waste to the village. This would seem strange to Rango, since he knows that raids like this shouldn't be happening for a few years, something is different. (In truth what is different is that since the party has found the first Void Shard much sooner than Elminster did in the old timeline, Tannaeus and the Chronarch have started racing for the Void Shard from the Fire Plane much sooner, kickstarting this sequence of events much sooner than before)
 ## NPCs

@@ -4,10 +4,10 @@ At the actual celebration, everything seems to be going very well and everyone i
 ## NPCs
 Shenk - Village Elder
 Tiss - Village Elder
-Ranti - Boneworker
 Kugu - Village Elder
 Theedh - Village Elder
 Tho - Recently Deceased Elder
+Ranti - Boneworker
 Lort - Huntmaster
 Idu - Bloodball Champion
 Rulla - Broodmother that helped with Rango's kids

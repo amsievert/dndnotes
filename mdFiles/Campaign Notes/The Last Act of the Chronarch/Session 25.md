@@ -5,7 +5,9 @@ Following the attack on the village, the survivors start to clear the debris and
 ### The Ritual (In depth)
 For the ritual, the blood of "an innocent willfully given" is procured by one of the temple acolytes sacrificing themselves and their blood being collected in a bowl. The givers for both sources must die, since this is said to transfuse the blood with their life force, making it extremely potent. Then for the blood of "an innocent forcefully taken" a body is brought in of a soldier that was fought on a hunt. The body is unconscious but alive, being preserved in a wispy leaf-like cocoon of Graveleaf. The priests in the room unwrap the body and place it on an altar, where they begin chanting around it. As the chanting intensifies, cuts begin opening across the body and blood begins pouring out expeditiously, flowing down the sides of the altar and following grooves on the ground that make up the symbols of the four lizard gods. Eventually the blood drains into a large pool, which the ritual participant must submerge in to let the blood soak into their own cuts.
 
-Finally, the blood originally collected from the participant is mixed with, in this case, ash collected from the massive elemental. It is then painted back onto the participant in symbols, each representing the soul of someone who was killed by the elementals. 
+Finally, the blood originally collected from the participant is mixed with, in this case, ash collected from the massive elemental. It is then painted back onto the participant in symbols, each representing the soul of someone who was killed by the elementals. More chanting continues, and the symbols begin to ignite, burning into the skin of the participant. The symbols will fade but never completely, until the pact is completed and they will go away.
+
+Final Chant to ignite symbols: "Lords of Lacertia, Gods of all being"
 ## NPCs
 Shenk - Village Elder
 Tiss - Village Elder

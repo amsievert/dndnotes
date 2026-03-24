@@ -35,7 +35,9 @@ A large firestorm spreads across the landscape, forcing the party to take cover
 
 One of the first things the party encounters is a wide lava stream, 50 feet across, that separates the landscape that they must cross. There are occasionally pieces of melting rock that flow past in the stream, but beyond those there is nothing else in the stream itself. The goal here is simple, cross the stream.
 
-As the party 
+As the party begins to get tired and settle in for their long rest, they may spot a group of 4 fire salamanders, simply watching them from the top of a ridgeline in the distance.
+
+The next day, the party is walking through a valley, where they find large basalt monoliths haphazardly propped up in the scorched dirt. These monoliths are engraved with some sort of ancient dwarvish sc
 ## NPCs
 Shenk - Village Elder
 Tiss - Village Elder

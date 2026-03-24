@@ -1,6 +1,6 @@
 Current Day: 25th of Calo, 2506 PS
 
-Following the attack on the village, the survivors start to clear the debris and put out the remaining fires. Meanwhile, Mellok prepares the profane ritual of blood. The ritual takes place in an underground chamber beneath the Shallosh. Teshar and Mellok argue about whether it is right to perform the ritual or not. The ritual itself involves 
+Following the attack on the village, the survivors start to clear the debris and put out the remaining fires. Meanwhile, Mellok prepares the profane ritual of blood. The ritual takes place in an underground chamber beneath the Shallosh. Teshar and Mellok argue about whether it is right to perform the ritual or not. The ritual itself involves letting a lot of blood from the 
 ## NPCs
 Shenk - Village Elder
 Tiss - Village Elder

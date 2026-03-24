@@ -29,6 +29,8 @@ From atop the hill, the party sees great the great lake of lava that sits below 
 Glowing embers light a cave entrance
 Long-forgotten carvings etched into basalt stones mark out an ancient and undiscernible path through the fiery landscape.
 A natural bridge made of cooled magma
+The sturdy skeleton of an ancient, colossal beast lies half-buried in molten rock, creating natural shelter from the heat.
+Ancient basalt obelisks rise mysteriously from the ground, their purpose lost to time and void.
 
 
 ## NPCs

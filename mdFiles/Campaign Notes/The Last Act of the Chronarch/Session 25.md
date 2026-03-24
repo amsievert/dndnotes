@@ -39,6 +39,7 @@ Behind the altar of the cathedral is a hidden door that requires a DC 15 investi
 
 After the valley, a fire storm rolls through forcing the party to find shelter. There are nearby caves if necessary.
 
+They meet an Azer named Durt who is foraging for food. He is from the nearby village of Stonemeld.
 
 ## NPCs
 Shenk - Village Elder

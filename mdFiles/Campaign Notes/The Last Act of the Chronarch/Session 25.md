@@ -27,11 +27,7 @@ The first aspect of the plane that becomes apparent is the heat. The temperature
 From atop the hill, the party sees great the great lake of lava that sits below everything on this plane. With massive cliffs dripping magma down into its surface. They see many volcanoes off in the distance spewing ash and chemicals into the air. The castle is not visible from this hill. The only sign of life is a small village visible on the horizon.
 ### Encounters
 Glowing embers light a cave entrance
-Long-forgotten carvings etched into basalt stones mark out an ancient and undiscernible path through the fiery landscape.
 A natural bridge made of cooled magma
-The sturdy skeleton of an ancient, colossal beast lies half-buried in molten rock, creating natural shelter from the heat.
-Ancient basalt obelisks rise mysteriously from the ground, their purpose lost to time and void.
-A large firestorm spreads across the landscape, forcing the party to take cover
 
 One of the first things the party encounters is a wide lava stream, 50 feet across, that separates the landscape that they must cross. There are occasionally pieces of melting rock that flow past in the stream, but beyond those there is nothing else in the stream itself. The goal here is simple, cross the stream.
 
@@ -39,7 +35,11 @@ As the party begins to get tired and settle in for their long rest, they may spo
 
 The next day, the party is walking through a valley, where they find large basalt monoliths haphazardly propped up in the scorched dirt. These monoliths are engraved with some sort of ancient dwarvish script. It is legible for those who speak dwarvish but the dialect is very strange. The stones speak of the Goddess Reicha, and some sort of great fortune. "And the Mistress of Fortune granted them riches, which they used to honor her in stone." "As they dug from Terra's cradles, the Goddess grew jealous." "She grew tired of their appeasement, and banished them to a land far beyond Terra's expanse, where no riches grew from the ground." "There they toiled, in the land of ash, cursed by their Goddess to never know the joys of earth again." "And past the serpentkin's bones, which lay ascorched, they stored the remnants of their once great fortune, hoping some day, the Mistress of Fortune would return to forgive them". At the end of these stones, the valley splits into two separate paths. Down one path, there is the skeleton of some massive fire snake. Down the other path it seems to continue on before leveling out into a flat plain. Traveling through the serpent bones, there is a small arched doorway leading into the side of the hill. The door is heavy stone, but is unlocked. Inside is a temple, elaborately hewn from the stone itself. Inside the temple are numerous skeletons of dwarves that seem to have died in battle. Parts of the stone are burnt and scorched. A good investigation check finds the outlines of a genie's oil lamp burned into the stone near the front of the cathedral.
 
-Behind the altar of the cathedral is a hidden door that requires a DC 15 investigation or perception check to spot. There is a button to open the door disguised as one of the bricks on the nearby wall. Behind the door, is a narrow passageway that leads deeper underground. Deep underground, in a chamber illuminated by exposed lava flows, is a pedestal that displays an ornate belt (A belt of dwarvenkind). There are also a few more dwarf skeletons around here. These ones seem to have died naturally. One of the has etched into the wall, "Our Goddess has abandoned us, damned us to perish slowly in this tomb of our own making, once thought to honor her fortunes."
+Behind the altar of the cathedral is a hidden door that requires a DC 15 investigation or perception check to spot. There is a button to open the door disguised as one of the bricks on the nearby wall. Behind the door, is a narrow passageway that leads deeper underground. Deep underground, in a chamber illuminated by exposed lava flows, is a pedestal that displays an ornate belt (A belt of dwarvenkind). There are also a few more dwarf skeletons around here. These ones seem to have died naturally. One of the has etched into the wall, "Our Goddess has abandoned us, damned us to perish slowly in this tomb of our own making, once thought to honor her fortunes." Around the pedestal is a pile of gemstones that together is worth 3,500 gp. The first person to touch the gold or the belt is subjected to the Flesh to Stone spell DC 14.
+
+After the valley, a fire storm rolls through forcing the party to find shelter. There are nearby caves if necessary.
+
+
 ## NPCs
 Shenk - Village Elder
 Tiss - Village Elder

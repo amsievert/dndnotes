@@ -18,7 +18,7 @@ Finally, the blood originally collected from the participant is mixed with, in t
 Final Chant to ignite symbols: "Lords of Lacertia, Gods of all being, we beseech you grant Shiqursyhk (Shic-qur-she-hisk) your protection as he burdens himself with the vengeance of your children. Vu, may your light always illuminate the path to guide him. Sjo, may you grant him soundness of body, solid like your very earth. Eeso, may you watch over him from on high, protecting the skies above. And Haal, may your waters extinguish all the flames that would dare cross paths with him." Mellok pauses briefly as the symbols begin to grow warm. "Shiqursyhk, child of the Gods, go now, and bring the rage of all lizardkin to this great abomination. Extinguish it in the name of all forebearers. Hunt knowing that the Gods are watching. Bring...our... families...home." With the end of the chant, the symbols burst into flames and begin burning Rango's skin, leaving marks across his whole body.
 
 ### The Plane of Fire
-The scar in the Elderbark tree still remains, partially alight from fire that seems to burn from deeper within the tree. Upon bringing the void shard close to the scar, it opens once again. Upon stepping into the newly opened portal, the party finds themselves 
+The scar in the Elderbark tree still remains, partially alight from fire that seems to burn from deeper within the tree. Upon bringing the void shard close to the scar, it opens once again. Upon stepping into the newly opened portal, the party finds themselves seemingly flying through the air at incredible speeds towards a castle at the edge of a cliff of volcanic rock. The castle itself seems to be made from large 
 
 ## NPCs
 Shenk - Village Elder

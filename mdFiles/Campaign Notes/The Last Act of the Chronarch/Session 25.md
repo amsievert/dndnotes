@@ -22,7 +22,11 @@ The scar in the Elderbark tree still remains, partially alight from fire that se
 
 As the party flies towards the castle, a massive Efreeti, with glowing red skin and glowing fire hair grows from the side of the castle over the sea of fire and looks at the party with searing yellow eyes. The Lord of Smolder and Ash laughs with a boom that shakes the ash off the landscape momentarily. **"Puny insects. You think I let you walk straight into my Castle of Burning Desire? The Lord of Smolder and Ash rebukes you!"** With that, the Efreeti makes a flicking motion toward the party with a massive hand, that sends the group flying away from the castle. The world is a blur as the party spins and sails across the plane of fire. Eventually they are stopped by a geyser shooting up into the air. The steam catches the party, before pulling them back down to the ground. The group hits the ground with a thud that sends volcanic sand flying in a big puff. 
 
-The first aspect of the plane that becomes apparent is the heat. The temperature is constantly hotter than any desert. Those wearing armor immediately begin sweating. The landscape around the party's landing site is 
+The first aspect of the plane that becomes apparent is the heat. The temperature is constantly hotter than any desert. Those wearing armor immediately begin sweating. The landscape around the party's landing site is made up of black rock and scorched earth, with little signs of vegetation. In front of the party is a tall hill that gives a better view of the surrounding landscape.
+
+From atop the hill, the party sees great the great lake of lava that sits below everything on this plane. With massive cliffs dripping magma down into its surface. They see many volcanoes off in the distance spewing ash and chemicals into the air. The castle is not visible from this hill. The only sign of life is a small village visible on the horizon.
+
+
 ## NPCs
 Shenk - Village Elder
 Tiss - Village Elder

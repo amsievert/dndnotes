@@ -1,6 +1,9 @@
 Current Day: 25th of Calo, 2506 PS
 
-Following the attack on the village, the survivors start to clear the debris and put out the remaining fires. Meanwhile, Mellok prepares the profane ritual of blood. The ritual takes place in an underground chamber beneath the Shallosh. Teshar and Mellok argue about whether it is right to perform the ritual or not. The ritual itself involves letting a lot of blood from the participant. Then, they must consume the blood of an innocent willfully given. After that they must be bathed in the blood of an innocent forcefully taken. Finally, their own blood is mixed with that of the target of their pact, and is painted back onto them where it 
+Following the attack on the village, the survivors start to clear the debris and put out the remaining fires. Meanwhile, Mellok prepares the profane ritual of blood. The ritual takes place in an underground chamber beneath the Shallosh. Teshar and Mellok argue about whether it is right to perform the ritual or not. The ritual itself involves letting a lot of blood from the participant. Then, they must consume the blood of an innocent willfully given. After that they must be bathed in the blood of an innocent forcefully taken. Finally, their own blood is mixed with that of the target of their pact, and is painted back onto them where it magically ignites and burns temporary marks across their skin.
+
+### The Ritual (In depth)
+For the ritual, the blood of "an innocent willfully given" is procured by one of the temple acolytes sacrificing themselves and their blood being collected in a bowl. The givers for both sources must die, since this is said to transfuse the blood with their life force, making it extremely potent. 
 ## NPCs
 Shenk - Village Elder
 Tiss - Village Elder

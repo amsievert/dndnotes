@@ -31,8 +31,11 @@ Long-forgotten carvings etched into basalt stones mark out an ancient and undisc
 A natural bridge made of cooled magma
 The sturdy skeleton of an ancient, colossal beast lies half-buried in molten rock, creating natural shelter from the heat.
 Ancient basalt obelisks rise mysteriously from the ground, their purpose lost to time and void.
+A large firestorm spreads across the landscape, forcing the party to take cover
 
+One of the first things the party encounters is a wide lava stream, 50 feet across, that separates the landscape that they must cross. There are occasionally pieces of melting rock that flow past in the stream, but beyond those there is nothing else in the stream itself. The goal here is simple, cross the stream.
 
+As the party 
 ## NPCs
 Shenk - Village Elder
 Tiss - Village Elder

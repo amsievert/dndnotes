@@ -5,17 +5,21 @@ Following the attack on the village, the survivors start to clear the debris and
 ### The Ritual (In depth)
 For the ritual, the blood of "an innocent willfully given" is procured by one of the temple acolytes sacrificing themselves and their blood being collected in a bowl.
 
-Chant for the first sacrifice: "O radiant Vu, we offer you this, the blood of an innocent willfully given. Let its purity show Shiqursyhk the proper path."
+Chant for the first sacrifice: "O radiant Vu, we offer you this, the blood of an innocent willfully given. Let its purity bless Shiqursyhk (Shic-qur-she-hisk) with the ability to fight with grace. For there is power in grace."
 
 The givers for both sources must die, since this is said to transfuse the blood with their life force, making it extremely potent. Then for the blood of "an innocent forcefully taken" a body is brought in of a soldier that was fought on a hunt. The body is unconscious but alive, being preserved in a wispy leaf-like cocoon of Graveleaf. The priests in the room unwrap the body and place it on an altar, where they begin chanting around it.
 
 As the chanting intensifies, cuts begin opening across the body and blood begins pouring out expeditiously, flowing down the sides of the altar and following grooves on the ground that make up the symbols of the four lizard gods. Eventually the blood drains into a large pool, which the ritual participant must submerge in to let the blood soak into their own cuts.
 
-Chant as the second sacrifice's blood flows from the altar: "O tumultuous Sjo, "
+Chant as the second sacrifice's blood flows from the altar: "O tumultuous Sjo, we offer you this, the blood of an innocent forcefully taken. Let its pain remind Shiqursyhk of the burden he carries."
 
 Finally, the blood originally collected from the participant is mixed with, in this case, ash collected from the massive elemental. It is then painted back onto the participant in symbols, each representing the soul of someone who was killed by the elementals. More chanting continues, and the symbols begin to ignite, burning into the skin of the participant. The symbols will fade but never completely, until the pact is completed and they will go away.
 
 Final Chant to ignite symbols: "Lords of Lacertia, Gods of all being, we beseech you grant Shiqursyhk (Shic-qur-she-hisk) your protection as he burdens himself with the vengeance of your children. Vu, may your light always illuminate the path to guide him. Sjo, may you grant him soundness of body, solid like your very earth. Eeso, may you watch over him from on high, protecting the skies above. And Haal, may your waters extinguish all the flames that would dare cross paths with him." Mellok pauses briefly as the symbols begin to grow warm. "Shiqursyhk, child of the Gods, go now, and bring the rage of all lizardkin to this great abomination. Extinguish it in the name of all forebearers. Hunt knowing that the Gods are watching. Bring...our... families...home." With the end of the chant, the symbols burst into flames and begin burning Rango's skin, leaving marks across his whole body.
+
+### The Plane of Fire
+The scar in the Elderbark tree still remains, partially alight from fire that seems to burn from deeper within the tree. Upon bringing the void shard close to the scar, it opens once again.
+
 ## NPCs
 Shenk - Village Elder
 Tiss - Village Elder

@@ -7,7 +7,7 @@ For the ritual, the blood of "an innocent willfully given" is procured by one of
 
 Finally, the blood originally collected from the participant is mixed with, in this case, ash collected from the massive elemental. It is then painted back onto the participant in symbols, each representing the soul of someone who was killed by the elementals. More chanting continues, and the symbols begin to ignite, burning into the skin of the participant. The symbols will fade but never completely, until the pact is completed and they will go away.
 
-Final Chant to ignite symbols: "Lords of Lacertia, Gods of all being, we beseech you grant Shiqursyhk (Shic-qur-she-hisk) your protection as he burdens himself with the vengeance of your children. Vu, may your light always illuminate the path to guide him. Sjo, may you grant him soundness of body, solid like your very earth. Eeso, may you watch over him from "
+Final Chant to ignite symbols: "Lords of Lacertia, Gods of all being, we beseech you grant Shiqursyhk (Shic-qur-she-hisk) your protection as he burdens himself with the vengeance of your children. Vu, may your light always illuminate the path to guide him. Sjo, may you grant him soundness of body, solid like your very earth. Eeso, may you watch over him from on high, protecting the skies above. And Haal, may your waters extinguish all the flames that would dare cross paths with him." Mellok pauses briefly as the symbols begin to grow warm. "Shiqursyhk, son "
 ## NPCs
 Shenk - Village Elder
 Tiss - Village Elder

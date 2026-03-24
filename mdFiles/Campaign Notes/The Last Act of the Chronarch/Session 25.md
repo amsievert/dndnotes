@@ -37,7 +37,7 @@ One of the first things the party encounters is a wide lava stream, 50 feet acro
 
 As the party begins to get tired and settle in for their long rest, they may spot a group of 4 fire salamanders, simply watching them from the top of a ridgeline in the distance.
 
-The next day, the party is walking through a valley, where they find large basalt monoliths haphazardly propped up in the scorched dirt. These monoliths are engraved with some sort of ancient dwarvish sc
+The next day, the party is walking through a valley, where they find large basalt monoliths haphazardly propped up in the scorched dirt. These monoliths are engraved with some sort of ancient dwarvish script. It is legible for those who speak dwarvish but the dialect is very strange. The stones speak of the Goddess Reicha, and some sort of great fortune. "And the Mistress of Fortune granted them riches, which they used to honor her in stone." ""
 ## NPCs
 Shenk - Village Elder
 Tiss - Village Elder

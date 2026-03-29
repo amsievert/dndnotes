@@ -20,4 +20,5 @@ They have ballistae with bolts that explode in the air into many smaller project
 
 Ileus has completely reshaped how the military is run, with everyone being given access to magic, rather than having it restricted to only mages. Military bootcamp consists of both combat training and magic study. All of the soldiers are happy to learn magic and it enhances their fighting.
 
-Multiple high-ranking officials in the military have been replaced by Ileus simulacra. This allows him to really do what he wants in the military without the 
+Multiple high-ranking officials in the military have been replaced by Ileus simulacra. This allows him to really do what he wants in the military without needing full approval from other parts of the government.
+

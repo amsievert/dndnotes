@@ -5,4 +5,9 @@ With large parts of Dalonstor destroyed, military engineers are sent in to assis
 ## War Council
 The war council finally convenes. It is attended by Strullar Anling, King Ophal, Roundman Vance, Calmar Phym, and Hal Venner. Ophal arrives adorned in Rodigian jewelry, he has been interacting with the public in Rhugnurt and they have been loving him. Strullar Anling seems peeved by how much his people like Ophal.
 
-Council metin
+Council meeting points:
+- Naval blockade of Galvenport bay
+- Offensive vs. Defensive war
+- Intel on Atrisean Dynasty and Norlund
+- Location for initial encounter
+# Meanwhile in Larenthia

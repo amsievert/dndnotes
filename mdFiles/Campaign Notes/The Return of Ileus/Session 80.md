@@ -13,4 +13,6 @@ Council meeting points:
 # Meanwhile in Larenthia
 Ileus has been using his influence in the Larenthian government to get the nation ready for war. Most of the citizens of the nation fully believe that the rest of the world is rallying around a terrorist nation that attacked them.
 
-Ileus has been working with the Clockwork Consortium in [[Bippenbol]] to create many new weapons of war. They have created devices like lightning rods  
+Ileus has completely reshaped what a Larenthian soldier looks like. All soldiers are now required to learn basic arcane spellcraft, giving them access to wizard-class cantrips and first level spells (3 spell slots). Officers and higher ranking soldiers 
+
+Ileus has been working with the Clockwork Consortium in [[Bippenbol]] to create many new weapons of war. They have created devices like lightning rods to absorb any lightning damage that is cast on soldiers.  

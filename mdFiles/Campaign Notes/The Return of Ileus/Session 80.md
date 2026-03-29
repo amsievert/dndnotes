@@ -22,4 +22,4 @@ Ileus has completely reshaped how the military is run, with everyone being given
 
 Multiple high-ranking officials in the military have been replaced by Ileus simulacra. This allows him to really do what he wants in the military without needing full approval from other parts of the government.
 
-The full force of the military is gathering south of Bippenbol at the intersection of highways known as 
+The full force of the military is gathering south of Bippenbol at the intersection of highways known as Crone's Cross. Here, forces from Norlund and the Colonies are gathering alongside the Larenthian Military. The area has access to the Expanse giving the opportunity for more troops and supplies to arrive via ship.

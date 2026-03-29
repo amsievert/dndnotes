@@ -18,4 +18,4 @@ Ileus has completely reshaped what a Larenthian soldier looks like. All soldiers
 Ileus has been working with the Clockwork Consortium in [[Bippenbol]] to create many new weapons of war. They have created devices like lightning rods to absorb any lightning damage that is cast on soldiers.
 They have ballistae with bolts that explode in the air into many smaller projectiles that act as a Conjure Barrage spell.
 
-Ileus has completely reshaped how 
+Ileus has completely reshaped how the military is run, with everyone being given access to magic, rather than having it restricted to only mages.

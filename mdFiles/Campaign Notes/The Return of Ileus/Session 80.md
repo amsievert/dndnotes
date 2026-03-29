@@ -11,4 +11,6 @@ Council meeting points:
 - Intel on Atrisean Dynasty and Norlund
 - Location for initial encounter
 # Meanwhile in Larenthia
-Ileus has been
+Ileus has been using his influence in the Larenthian government to get the nation ready for war. Most of the citizens of the nation fully believe that the rest of the world is rallying around a terrorist nation that attacked them.
+
+Ileus has been working with the Clockwork Consortium in [[Bippenbol]] to create many new weapons of war. They have created  

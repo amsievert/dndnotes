@@ -11,3 +11,4 @@ Council meeting points:
 - Intel on Atrisean Dynasty and Norlund
 - Location for initial encounter
 # Meanwhile in Larenthia
+Ileus has been

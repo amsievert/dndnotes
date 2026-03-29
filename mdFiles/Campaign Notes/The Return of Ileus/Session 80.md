@@ -10,6 +10,8 @@ Council meeting points:
 - Offensive vs. Defensive war
 - Intel on Atrisean Dynasty and Norlund
 - Location for initial encounter
+
+The leaders have started calling this conflict the War of False Banner. This is in relation to the fact that the Larenthians don't realize who they are actually fighting for.
 # Meanwhile in Larenthia
 Ileus has been using his influence in the Larenthian government to get the nation ready for war. Most of the citizens of the nation fully believe that the rest of the world is rallying around a terrorist nation that attacked them.
 

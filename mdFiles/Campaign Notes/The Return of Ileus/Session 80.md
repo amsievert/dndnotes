@@ -13,4 +13,4 @@ Council meeting points:
 # Meanwhile in Larenthia
 Ileus has been using his influence in the Larenthian government to get the nation ready for war. Most of the citizens of the nation fully believe that the rest of the world is rallying around a terrorist nation that attacked them.
 
-Ileus has been working with the Clockwork Consortium in [[Bippenbol]] to create many new weapons of war. They have created  
+Ileus has been working with the Clockwork Consortium in [[Bippenbol]] to create many new weapons of war. They have created devices like lightning rods  

@@ -12,3 +12,6 @@ Luella Lynn - Head of Logistics
 
 All three of them have their offices in the Orbis.
 ## Outcomes
+In the Divinaire Campus, investigation reveals large stockpiles of the education materials that are being sent out to military camps for education. There are also documents directing professors and tutors to different camps, especially Crone's Cross.
+### Types of Soldiers
+Basic Foot Soldier: Guard w/ Fire Bolt, 

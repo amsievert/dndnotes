@@ -28,3 +28,5 @@ Officer: Gladiator Stat Block (8 spell slots)
 - Burning Hands, Thunderwave, Ice Knife, Shield
 - Invisibility, Shatter, Scorching Ray
 - Wall of Water, Counterspell, Fireball
+
+A balanced amount of soldiers is 5 officers, 10 

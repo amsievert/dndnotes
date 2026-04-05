@@ -8,4 +8,7 @@ The spies inside Wizendell report that the city has seen a heavy increase in mil
 The top brass are:
 Elbert Dacey - Head of Divination
 Rickard Beauvais - Head of Research
-Luella 
+Luella Lynn - Head of Logistics
+
+All three of them have their offices in the Orbis.
+## Outcomes

@@ -19,8 +19,12 @@ Basic Foot Soldier: Guard Stat Block (3 spell slots)
 - Burning Hands, Thunderwave, Ice Knife, Shield
 
 Squad Captain: Veteran Stat Block (6 spell slots)
-- Mage Hand, Fire Bolt, Ray of Frost, Prestidigiation
+- Mage Hand, Fire Bolt, Ray of Frost, Message
 - Burning Hands, Thunderwave, Ice Knife, Shield
 - Invisibility, Shatter, Scorching Ray
 
-Officer: 
+Officer: Gladiator Stat Block (8 spell slots)
+- Mage Hand, Fire Bolt, Ray of Frost, Message
+- Burning Hands, Thunderwave, Ice Knife, Shield
+- Invisibility, Shatter, Scorching Ray
+- Wall of Water, Counterspell, Fireball

@@ -29,4 +29,4 @@ Officer: Gladiator Stat Block (8 spell slots)
 - Invisibility, Shatter, Scorching Ray
 - Wall of Water, Counterspell, Fireball
 
-A balanced amount of soldiers is 5 officers, 10 captains, 20 soldiers, and 10 archers
+When assaulting the city, the party's allies begin fighting. They are able to hold their ground against the defenders, the commander of the allies sends the party to go strike at the leaders. In the Orbis, they encounter 2 of the leaders: Elbert (Diviner Archmage) and Rickard (Abjurer W)

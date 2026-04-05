@@ -14,4 +14,13 @@ All three of them have their offices in the Orbis.
 ## Outcomes
 In the Divinaire Campus, investigation reveals large stockpiles of the education materials that are being sent out to military camps for education. There are also documents directing professors and tutors to different camps, especially Crone's Cross.
 ### Types of Soldiers
-Basic Foot Soldier: Guard w/ Fire Bolt, 
+Basic Foot Soldier: Guard Stat Block (3 spell slots)
+- Mage Hand, Fire Bolt, Ray of Frost
+- Burning Hands, Thunderwave, Ice Knife, Shield
+
+Squad Captain: Veteran Stat Block (6 spell slots)
+- Mage Hand, Fire Bolt, Ray of Frost, Prestidigiation
+- Burning Hands, Thunderwave, Ice Knife, Shield
+- Invisibility, Shatter, Scorching Ray
+
+Officer: 

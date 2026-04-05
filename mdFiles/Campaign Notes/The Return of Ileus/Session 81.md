@@ -29,4 +29,4 @@ Officer: Gladiator Stat Block (8 spell slots)
 - Invisibility, Shatter, Scorching Ray
 - Wall of Water, Counterspell, Fireball
 
-A balanced amount of soldiers is 5 officers, 10 
+A balanced amount of soldiers is 5 officers, 10 captains, 20 soldiers, and 10 archers

@@ -11,6 +11,13 @@ Rickard Beauvais - Head of Research
 Luella Lynn - Head of Logistics
 
 All three of them have their offices in the Orbis.
+
+d100:
+1-5: Spy is caught and interrogated
+6-20: Spy never replies
+21-50: Basic knowledge
+51-90: Most knowledge
+91-100: All knowledge
 ## Outcomes
 In the Divinaire Campus, investigation reveals large stockpiles of the education materials that are being sent out to military camps for education. There are also documents directing professors and tutors to different camps, especially Crone's Cross.
 ### Types of Soldiers

@@ -1,4 +1,4 @@
-Current Day: 13th of Hemlia, 2520 PS
+Current Day: 18th of Hemlia, 2520 PS
 Current Troops: 10,000 Falstor, 3,000 Giants, 5-10k Valdens, 20,000 No'zaral
 # Overview
 Each of the Coalition nations submit 5 of their best soldiers for the task force.

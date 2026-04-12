@@ -40,4 +40,4 @@ When assaulting the city, the party's allies begin fighting. They are able to ho
 ## Aftermath
 Once the city surrenders, diviners from Spellhaven are sent in to take over the Sentry Array contained within the Orbis. It takes a few days for them to get it up and running since the Larenthian Diviners locked most of the tech down before surrendering.
 
-During these days, a Larenthian emissary group arrives at the front gates of the city, 
+During these days, a Larenthian emissary group arrives at the front gates of the city, offering a formal declaration of war. They state the war goal of the Coalition turning over Rodigian leadership and criminals to answer for their crimes against the Larenthian Alliance.

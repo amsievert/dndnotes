@@ -37,4 +37,5 @@ Officer: Gladiator Stat Block (8 spell slots)
 - Wall of Water, Counterspell, Fireball
 
 When assaulting the city, the party's allies begin fighting. They are able to hold their ground against the defenders, the commander of the allies sends the party to go strike at the leaders. In the Orbis, they encounter 2 of the leaders: Elbert (Diviner Archmage) and Rickard (Abjurer Wizard), accompanied by 2 commanders (Champion w/ Spells). Luella is deeper beyond these defenders. Elbert and Rickard may surrender if they are the last ones left.
-### Intel
+## Aftermath
+Once the 

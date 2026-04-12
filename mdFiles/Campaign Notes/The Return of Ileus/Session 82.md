@@ -38,4 +38,6 @@ Officer: Gladiator Stat Block (8 spell slots)
 
 When assaulting the city, the party's allies begin fighting. They are able to hold their ground against the defenders, the commander of the allies sends the party to go strike at the leaders. In the Orbis, they encounter 2 of the leaders: Elbert (Diviner Archmage) and Rickard (Abjurer Wizard), accompanied by 2 commanders (Champion w/ Spells). Luella is deeper beyond these defenders. Elbert and Rickard may surrender if they are the last ones left.
 ## Aftermath
-Once the 
+Once the city surrenders, diviners from Spellhaven are sent in to take over the Sentry Array contained within the Orbis. It takes a few days for them to get it up and running since the Larenthian Diviners locked most of the tech down before surrendering.
+
+During these days, a Larenthian emissary group arrives at the front gates of the city, 

@@ -8,7 +8,7 @@ Stone 2: For as long as the Elders of our Elders can remember, we have been a pe
 
 Stone 3: We mortals can only dream of possessing the wisdom of the Gods. The love for riches that Lady Reicha instilled in our hearts grew corrupt, for our souls are weak compared to her. We turned to greed. We grew dissatisfied with her gifts and began to seek more. Deep into the ground our mines bored, where we scarred mighty Terra's body, plundering her treasures. The cathedrals that once stood as monuments to our devotion to our Goddess became hoards of disloyalty. To look from dwarf to dwarf, one had to wonder whether they beheld children of Genesis, or descendants of Tiamat.
 
-Stone 4:
+Stone 4: 
 
 After the valley, a fire storm rolls through forcing the party to find shelter. There are nearby caves if necessary.
 

@@ -27,3 +27,7 @@ Kro - Smith (Makes tools for the fireglass miners. Has seen some strangely damag
 Bab - Young Rebel (Father went missing in mine, but Bab is suspicious)
 Gash - Barkeep (Runs the Torum, really old)
 Dorin Ashe - Commander of Flameguard (Commands from Flamepass fortress)
+
+Flameguard have the gladiator stat block, with their base attack replacing 1d6 with fire damage.
+Tougher flameguard have the Azer Pyromancer stat block.
+Most flameguard are Fire Genasi.

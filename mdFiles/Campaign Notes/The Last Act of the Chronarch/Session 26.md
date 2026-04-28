@@ -6,7 +6,7 @@ Stone 1: Herein we document the story of our people, we dwarves of the earth, sc
 
 Stone 2: For as long as the Elders of our Elders can remember, we have been a people endowed by the Mistress of Fortune, our glorious divine Lady Reicha. She instilled in us the love for all that shines and provided us with the means to satiate it. In return we built a great city, filled with grand cathedrals and adorned with more precious metals than even the palaces of the Gods. This was the great city of Mor Torum. Deep within the mountains of Thur Boldor, we built this effigy to our Great Lady, her name always on our lips.
 
-Stone 3: We mortals can only dream of possessing the wisdom of the Gods. The love for riches that 
+Stone 3: We mortals can only dream of possessing the wisdom of the Gods. The love for riches that Lady Reicha instilled in our hearts grew corrupt, for our souls are weak compared to her. We turned to greed. We grew dissatisfied with her gifts and began to seek more. Deep into the earth our mines bored, where we stripped mighty Terra's 
 
 After the valley, a fire storm rolls through forcing the party to find shelter. There are nearby caves if necessary.
 

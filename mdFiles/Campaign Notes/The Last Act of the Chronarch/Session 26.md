@@ -25,4 +25,5 @@ Lug - Village Foreman (knows about the fireglass going to the Lord of Smolder an
 Shmug - Village Drunk (Lug's brother, can spill some tea if very drunk)
 Kro - Smith (Makes tools for the fireglass miners. Has seen some strangely damaged tools. Flameguard requests extra tools)
 Bab - Young Rebel (Father went missing in mine, but Bab is suspicious)
+Gash - Barkeep (Runs the Torum, really old)
 Dorin Ashe - Commander of Flameguard (Commands from Flamepass fortress)

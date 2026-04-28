@@ -16,4 +16,4 @@ After the valley, a fire storm rolls through forcing the party to find shelter. 
 
 They meet an Azer named Durt who is foraging for food. He is from the nearby village of Stonemeld.
 ## Stonemeld
-Stonemeld is a village of Azers that live under the rule of the Lord of Smolder and Ash. 
+Stonemeld is a village of Azers that live under the rule of the Lord of Smolder and Ash. The village is dedicated to the 

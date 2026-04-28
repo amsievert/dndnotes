@@ -10,8 +10,9 @@ Stone 3: We mortals can only dream of possessing the wisdom of the Gods. The lov
 
 Stone 4: The Mistress of Fortune made her displeasure known, but we were so blinded by avarice that we ignored it. Lady Reicha did not take this slight lightly. The peaks of Thur Boldor cracked and roared with the rage of a thousand dragons, while the statues we had carved in Reicha's honor broke from their pedestals and laid waste to the city. Great fissures opened beneath the city and swallowed Mor Torum and her people. Hundreds of thousands perished in the collapse. But we, the few survivors of Mor Torum, escaped from the devastation. When the Omniscient Lady learned of this, she cast us down from the Material World and we fell for days, before finding ourselves in this volcanic wasteland.
 
-Stone 5: We struggled to survive for a long time. Many of those who escaped the devastation of Mor Torum 
+Stone 5: We struggled to survive for a long time. Many escaped the devastation of Mor Torum, only to be bested by this unforgiving land. In this valley we now found ourselves, we did what we knew best, and built a cathedral to our Mistress of Fortune. There, hewn into the rock, we live out our days, hoping that someday she will return to us and we will be forgiven.
 
-After the valley, a fire storm rolls through forcing the party to find shelter. There are nearby caves if necessary.
+After the valley, a fire storm rolls through forcing the party to find shelter. There are nearby caves if necessary. Some of these caves have small carved figurines of Reicha holding piles of gold.
 
 They meet an Azer named Durt who is foraging for food. He is from the nearby village of Stonemeld.
+## Stonemeld

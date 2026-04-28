@@ -18,4 +18,4 @@ They meet an Azer named Durt who is foraging for food. He is from the nearby vil
 ## Stonemeld
 Stonemeld is a village of Azers that live under the rule of the Lord of Smolder and Ash. The village is dedicated to the extraction of fireglass (a special type of obsidian), which is sent to Flamepass Fortress in shipments every 5 days. The extraction of fireglass is a very dangerous process that involves navigating tight tunnels prone to collapsing and wading through lava. The fireglass mine is guarded by soldiers from Flamepass Fortress. Most of the villagers don't know what happens to the fireglass beyond the delivery to the Fortress.
 
-In reality, there are more 
+In reality, there are more Flameguard deep in the fireglass mine. Down here, they keep a few of the Azers that allegedly gone missing. Down here they extract the concentrated fireglass, which has a 

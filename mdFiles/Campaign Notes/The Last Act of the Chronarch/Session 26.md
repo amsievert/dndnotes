@@ -1,4 +1,4 @@
-Current Day: 31st of Calo, 2519 PS
+Current Day: 2nd of Ignus, 2519 PS
 
 Outside the underground Dwarven cathedral are the many large monoliths inscribed with Dwarvish script.
 

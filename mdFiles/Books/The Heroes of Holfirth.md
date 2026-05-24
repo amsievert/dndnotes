@@ -68,4 +68,14 @@ In Thalasia the party meets Cielia who tells the party where the next relic is.
 
 The party performs a stunt show as they navigate through a dungeon to find the Amulet of Health.
 
-On the way 
+The party takes a short vacation in Sigil.
+
+Returning to Spellhaven from Sigil, the party decides to research the Spear of the Blood Chief at the Sanctum Arcana.
+
+They travel to the Abyss.
+
+In the Abyss, they fight a huge devil to get the spear.
+
+Astarius is killed in the fighting.
+
+The party returns to 

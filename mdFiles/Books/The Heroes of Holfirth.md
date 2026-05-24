@@ -54,4 +54,7 @@ With Jess dead, Astarius challenges Meridan again and kills him.
 
 Reev meets with the Alystri's at the Rocc Manor to sue for peace. But he betrays the Alystri's and capture Sylas.
 
-Sylas is executed. After the execution, Utu and Holfog offer their condolences and services to the Alystris.
+Sylas is executed. After the execution, Utu and Holfog offer their condolences and services to the Alystris. As the scene closes, a few mysterious hooded figures remain on stage, looking at the Rocc Manor in the distance.
+
+A huge explosion is heard while the curtains are closed. They reopen on the destroyed Rocc Manor. The party fights Reev Rocc and Jib is killed in the fighting. This snaps Astarius out of his shock and fear and he kills Reev.
+

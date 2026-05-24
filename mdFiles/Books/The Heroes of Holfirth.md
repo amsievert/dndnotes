@@ -100,4 +100,4 @@ They fight an undead dragon to get the shield.
 
 Back on the material plane, the party stands in front of the world's leaders and gives a speech.
 
-The 
+The Coalition army marches into battle, and the party kills Ileus for good.

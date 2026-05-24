@@ -62,3 +62,4 @@ In Rodigia, a few giants (tall humanoids) are being attacked by Larenthian soldi
 
 At the Volcano, Mount Smedr, the party emerges holding the Hammer of Epius. They camp and Helia reveals that she feels she knows how to get the next Relic.
 
+The next scene is in Naerkamp, where Helia meets her family, and they introduce the party to the head priest, who is reluctant but gives in 

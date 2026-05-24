@@ -78,4 +78,8 @@ In the Abyss, they fight a huge devil to get the spear.
 
 Astarius is killed in the fighting.
 
-The party returns to 
+The party returns to Alystri Manor, where the find a resurrected Astarius.
+
+From there they sail to the Wildlands, where they find a secret island and a portal to Hades.
+
+Inside Hades, they go through another 

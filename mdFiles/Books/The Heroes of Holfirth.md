@@ -7,4 +7,6 @@ At the end of the conversation, Helia says, "We have to find out why these gobli
 
 The stage transitions to a new scene of another town. There are dead goblins on the ground. A red female tiefling (Jiri) thanks the heroes for saving the town. Then a wispy haired old man hobbles up behind the party and introduces himself as Kram Bram. He name drops the Helvalic Dominion.
 
-After a discussion, the group leaves stage again. The scene reopens on the party walking through the city of Holfirth. Kram says, "I thought we were done for in that old temple. I don't know how we managed to get out alive. But we've gotta figure "
+After a discussion, the group leaves stage again. The scene reopens on the party walking through the city of Holfirth. Kram says, "I thought we were done for in that old temple. I don't know how we managed to get out alive. But we've gotta figure out what these notes mean. We're going to need money too. Maybe you can join one of those arena fights while I go to the library."
+
+The party joins the arena fight, but Helia 

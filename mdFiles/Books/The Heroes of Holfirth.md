@@ -13,4 +13,4 @@ The party joins the arena fight, but Helia claims to have something to do, so sh
 
 The next scene shows Kardag in comically evil armor. He describes his evil plan, "These heroes from Holfirth are really messing with our plans. We need to get to the Nexus and find the armor before they do. Without the armor, it will be impossible for us to take over Holfirth."
 
-The stage opens on a suit of armor sitting atop a pedestal. 
+The stage opens on a suit of armor sitting atop a pedestal. Helia says, "There it is, the armor of Valos." As the party grabs the armor, Kardag and his goons approach from behind them. He says, "Finally, I've found you, give me the armor and I'll let you live." Aenaevi strikes the deal to fight Kardag in order to let the party leave. Aenaevi dies in a heart-wrenching fight scene as the party watches on from afar. 

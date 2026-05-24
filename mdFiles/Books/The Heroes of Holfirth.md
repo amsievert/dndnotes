@@ -62,4 +62,10 @@ In Rodigia, a few giants (tall humanoids) are being attacked by Larenthian soldi
 
 At the Volcano, Mount Smedr, the party emerges holding the Hammer of Epius. They camp and Helia reveals that she feels she knows how to get the next Relic.
 
-The next scene is in Naerkamp, where Helia meets her family, and they introduce the party to the head priest, who is reluctant but gives in 
+The next scene is in Naerkamp, where Helia meets her family, and they introduce the party to the head priest, who is reluctant but gives in and allows the party to use the hidden portal to Thalasia.
+
+In Thalasia the party meets Cielia who tells the party where the next relic is.
+
+The party performs a stunt show as they navigate through a dungeon to find the Amulet of Health.
+
+On the way 

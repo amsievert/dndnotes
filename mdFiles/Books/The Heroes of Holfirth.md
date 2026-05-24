@@ -9,4 +9,6 @@ The stage transitions to a new scene of another town. There are dead goblins on 
 
 After a discussion, the group leaves stage again. The scene reopens on the party walking through the city of Holfirth. Kram says, "I thought we were done for in that old temple. I don't know how we managed to get out alive. But we've gotta figure out what these notes mean. We're going to need money too. Maybe you can join one of those arena fights while I go to the library."
 
-The party joins the arena fight, but Helia claims to have something to do, so she doesn't join the fight. During the fight, an explosion is heard offstage and a smoke machine erupts in the center of the stage, as fake cloakers on wires begin flying around the stage attacking people. The party fights them off and Helia returns at the end. Kram also returns and tells them he knows where to go next. 
+The party joins the arena fight, but Helia claims to have something to do, so she doesn't join the fight. During the fight, an explosion is heard offstage and a smoke machine erupts in the center of the stage, as fake cloakers on wires begin flying around the stage attacking people. The party fights them off and Helia returns at the end. Kram also returns and tells them he knows where to go next.
+
+The next scene shows Kardag in comically evil armor. He describes his evil plan, "These heroes from Holfirth are really messing with our plans. We need to get to the Nexus and find the armor before they do. Without the armor, it will be impossible for us to "

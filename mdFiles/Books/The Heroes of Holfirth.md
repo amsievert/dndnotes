@@ -5,4 +5,4 @@ A scream is heard offstage and the four heroes rush onstage to find a group of g
 
 At the end of the conversation, Helia says, "We have to find out why these goblins were here. One of them had this old book on them."
 
-The tr
+The stage transitions to a new scene of another town. There are dead goblins on the ground. A red female tiefling (Jiri) thanks the heroes for saving the town. Then a wispy haired old man hobbles up behind the party and introduces himself as Kram Bram.

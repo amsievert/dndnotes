@@ -4,3 +4,4 @@ Back in Falstor after the final war council, the party is invited to a play call
 
 After the play, Clegane Jr. arrives at Alystri manor, ready for battle. Godfrey is also at the manor for one last feast. Stefan is awake and is also at the feast. He is adamant about going into battle with the Alystri soldiers.
 
+The next morning, the Falstor army leaves, marching North through the desert, headed for the Fallen Daggers. It takes 14.5 days to reach the Kha'anj, where the full coalition army assembles. From there, they march the final 

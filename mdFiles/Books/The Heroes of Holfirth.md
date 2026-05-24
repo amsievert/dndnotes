@@ -5,3 +5,4 @@ A scream is heard offstage and the four heroes rush onstage to find a group of g
 
 At the end of the conversation, Helia says, "We have to find out why these goblins were here. One of them had this old book on them."
 
+The tr

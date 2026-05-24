@@ -44,4 +44,14 @@ They return and Aldo uses the bowl to summon an elemental and take on the Sayid 
 
 Outside of the desert, Saraq meets members of his tribe. They threaten him and say he must pay the price for abandoning his tribe. Saraq fights them and escapes.
 
-In Dalonstor, Astarius meets his family outside the Trench, where Balor and Aaryn inform him about the Rocc's tyranny. Aaryn tells him that he needs to 
+In Dalonstor, Astarius meets his family outside the Trench, where Balor and Aaryn inform him about the Rocc's tyranny. Aaryn tells him that he needs to fight Meridan Rocc in the arena.
+
+Meridan beats Astarius and kills Aaryn in the process.
+
+Astarius and the party attack Jess Rocc's caravan. Chouch is killed but takes Jess with him.
+
+With Jess dead, Astarius challenges Meridan again and kills him.
+
+Reev meets with the Alystri's at the Rocc Manor to sue for peace. But he betrays the Alystri's and capture Sylas.
+
+Sylas is executed. 

@@ -32,4 +32,12 @@ The warehouse slides into scene as the party pretends to walk. The party kicks i
 The stage goes dark for a while, before returning with blinding lights in the desert.
 
 Scene Overview:
-The party meets with Aldo and the Skrekin Traditionalists. 
+The party meets with Aldo and the Skrekin Traditionalists in the ruined library. They need help recruiting more revolutionaries.
+
+Astarius and the party free a well for the people.
+
+Sayid Jerg Jag joins the revolution, and reveals that there may be secrets at the bottom of the Oasis. Aldo says that he needs whatever is at the bottom.
+
+The party goes through and finds the Elemental Bowl.
+
+They return and Aldo uses the bowl to summon an elemental and take on the Sayid Alma. 

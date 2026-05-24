@@ -21,4 +21,6 @@ As triumphant music plays on the aftermath of the battle, Astarius introduces hi
 
 Act 2 begins with the party chilling at Blurn's Rest. The large firbolg tells the party about his friend Larold who has gone missing in the city. He was supposed to deliver goods to the Divinaire Institute. After the conversation, one of the characters goes to touch the cairn and all of the people in the bar freeze and start staring. The strings hit a creepy chord as the stage drops to black.
 
-The next scene takes place in the office of Matthias Ilacrous. He is talking to Chouch about identifying and researching 
+The next scene takes place in the office of Matthias Ilacrous. He is talking to Chouch about identifying and researching the Armor of Valos. They sign a contract saying that the armor will be returned after the research. As Matthias leaves the scene, a small gnome enters the stage, asking the party if they've been looking for the Zephyr Armor shipment. He identifies himself as Jib and says that he thinks the city's Underguild could help them look for where the shipment went.
+
+The scene changes to the Jewel Casino. 

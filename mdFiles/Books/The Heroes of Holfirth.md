@@ -3,4 +3,5 @@ The play opens with a narrator high on a pulpit:
 
 A scream is heard offstage and the four heroes rush onstage to find a group of goblins on the stage. They engage in a choreographed fight scene. Once the goblins are defeated, the four heroes group up center stage and begin introducing themselves to each other.
 
-At the end of the conversation, Helia says, "We have to find out why these goblins were here. "
+At the end of the conversation, Helia says, "We have to find out why these goblins were here. One of them had this old book on them."
+

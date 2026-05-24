@@ -91,3 +91,13 @@ In Arborea, the party encounters Unweavers that are wreaking havoc on Arborea.
 They track them down to the feywild.
 
 In the feywild, the party goes to fight Dallim. Using forbidden magic, Dallim incapacitates the party and Ileus takes the relics.
+
+The party is able to quickly track down Dallim and get some of their relics back, but Ileus has stolen the other ones.
+
+With Dallim dead, Harmonia reveals the Shield of Ozewyn's location to the party.
+
+They fight an undead dragon to get the shield.
+
+Back on the material plane, the party stands in front of the world's leaders and gives a speech.
+
+The 

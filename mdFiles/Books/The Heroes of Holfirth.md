@@ -19,5 +19,6 @@ The curtains reopen on a castle wall. The party stands alongside Lord Pixton of 
 
 As triumphant music plays on the aftermath of the battle, Astarius introduces himself to the party, and Helia pulls a piece of paper off one of the goblins. She reads it and says, "Look here, these goblins were hired by someone in Galvenport. We have to go there next." The curtains close on Act I.
 
-Act 2 begins with the party chilling at Blurn's Rest. The large firbolg tells the party about his friend Larold who has gone missing in the city. He was supposed to deliver goods to the Divinaire Institute. After the conversat
+Act 2 begins with the party chilling at Blurn's Rest. The large firbolg tells the party about his friend Larold who has gone missing in the city. He was supposed to deliver goods to the Divinaire Institute. After the conversation, one of the characters goes to touch the cairn and all of the people in the bar freeze and start staring. The strings hit a creepy chord as the stage drops to black.
 
+The next scene takes place in the office of Matthias Ilacrous. He is talking to Chouch about identifying and researching 

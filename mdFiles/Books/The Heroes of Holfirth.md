@@ -29,3 +29,7 @@ The next scene is outside the Treasury, where Saraq and Jib break in to steal do
 
 The warehouse slides into scene as the party pretends to walk. The party kicks in the door and finds a bunch of workers. The orchestra starts building as lights and smoke flash and build on stage. A purple robed Ileus emerges from offstage and kills one of the workers. He threatens the party and tells them to leave town or else he will destroy the whole city.
 
+The stage goes dark for a while, before returning with blinding lights in the desert.
+
+Scene Overview:
+The party meets with Aldo and the Skrekin Traditionalists. 

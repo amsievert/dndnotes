@@ -82,4 +82,12 @@ The party returns to Alystri Manor, where the find a resurrected Astarius.
 
 From there they sail to the Wildlands, where they find a secret island and a portal to Hades.
 
-Inside Hades, they go through another 
+Inside Hades, they go through another dungeon stunt show to retrieve the Robe of the Dead, fighting Invexeor to get it at the end.
+
+Helia is cursed and is forced to retire from adventuring. She tells the party that she knows where the last relic is, in Arborea.
+
+In Arborea, the party encounters Unweavers that are wreaking havoc on Arborea.
+
+They track them down to the feywild.
+
+In the feywild, the party goes to fight Dallim. Using forbidden magic, Dallim incapacitates the party and Ileus takes the relics.

@@ -15,4 +15,4 @@ The next scene shows Kardag in comically evil armor. He describes his evil plan,
 
 The stage opens on a suit of armor sitting atop a pedestal. Helia says, "There it is, the armor of Valos." As the party grabs the armor, Kardag and his goons approach from behind them. He says, "Finally, I've found you, give me the armor and I'll let you live." Aenaevi strikes the deal to fight Kardag in order to let the party leave. Aenaevi dies in a heart-wrenching fight scene as the party watches on from afar. The music swells in a sad climax as the curtains close.
 
-The curtains reopen on a castle wall. 
+The curtains reopen on a castle wall. The party stands alongside Lord Pixton of Holfirth. He says to them, "The butcher is getting ready to attack us. I fear our forces won't be able to hold them. Please tell me you found something to help us." 

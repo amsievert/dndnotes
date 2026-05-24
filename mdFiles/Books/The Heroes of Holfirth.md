@@ -19,3 +19,4 @@ The curtains reopen on a castle wall. The party stands alongside Lord Pixton of 
 
 As triumphant music plays on the aftermath of the battle, Astarius introduces himself to the party, and Helia pulls a piece of paper off one of the goblins. She reads it and says, "Look here, these goblins were hired by someone in Galvenport. We have to go there next." The curtains close on Act I.
 
+Act 2 begins with the party chilling at Blurn's Rest. The large firbolg tells the party about his friend 

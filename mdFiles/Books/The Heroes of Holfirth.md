@@ -58,3 +58,7 @@ Sylas is executed. After the execution, Utu and Holfog offer their condolences a
 
 A huge explosion is heard while the curtains are closed. They reopen on the destroyed Rocc Manor. The party fights Reev Rocc and Jib is killed in the fighting. This snaps Astarius out of his shock and fear and he kills Reev.
 
+In Rodigia, a few giants (tall humanoids) are being attacked by Larenthian soldiers. The party kills the soldiers and saves the giants. The giants led by Rhegan are refugees of the ongoing war. They tell the party about a volcano that is of interest to the Larenthian soldiers.
+
+At the Volcano, Mount Smedr, the party emerges holding the Hammer of Epius. They camp and Helia reveals that she feels she knows how to get the next Relic.
+

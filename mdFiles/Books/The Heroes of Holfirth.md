@@ -23,4 +23,4 @@ Act 2 begins with the party chilling at Blurn's Rest. The large firbolg tells th
 
 The next scene takes place in the office of Matthias Ilacrous. He is talking to Chouch about identifying and researching the Armor of Valos. They sign a contract saying that the armor will be returned after the research. As Matthias leaves the scene, a small gnome enters the stage, asking the party if they've been looking for the Zephyr Armor shipment. He identifies himself as Jib and says that he thinks the city's Underguild could help them look for where the shipment went.
 
-The scene changes to the Jewel Casino. 
+The scene changes to the Jewel Casino. Saraq interacts with someone who forces him to take Medusa's Glare in order to gain access to the Patrician in the VIP area of the Casino. Once down there, the Patrician forces the party to play him in Fiendish Fortune, in order to get the information that they need. Helia uses her divination to give them the edge in the game. Once they win, the Patrician tells them about Councilman Shaffer at the treasury an

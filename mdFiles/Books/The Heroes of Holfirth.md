@@ -40,4 +40,8 @@ Sayid Jerg Jag joins the revolution, and reveals that there may be secrets at th
 
 The party goes through and finds the Elemental Bowl.
 
-They return and Aldo uses the bowl to summon an elemental and take on the Sayid Alma. 
+They return and Aldo uses the bowl to summon an elemental and take on the Sayid Alma. The party goes to take down Odrokos Maul.
+
+Outside of the desert, Saraq meets members of his tribe. They threaten him and say he must pay the price for abandoning his tribe. Saraq fights them and escapes.
+
+In Dalonstor, Astarius meets his family outside the Trench, where Balor and Aaryn inform him about the Rocc's tyranny. Aaryn tells him that he needs to 

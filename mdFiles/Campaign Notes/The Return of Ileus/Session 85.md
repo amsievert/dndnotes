@@ -42,3 +42,7 @@ General Smil:
 
 The portal out of Spellreach is a poster of Leiros Erona the human storm sorcerer, the same as in Mondrall.
 
+Spellreach itself is a recreation of Mondrall with a giant tower atop the hill. The base of the tower is where the fight takes place.
+
+Ileus wields the Amulet of Greater Health, the Ring of Foresight, and the [[Relics of Dissension|Staff of Deception]].
+His lair is filled with 

@@ -44,5 +44,6 @@ The portal out of Spellreach is a poster of Leiros Erona the human storm sorcere
 
 Spellreach itself is a recreation of Mondrall with a giant tower atop the hill. The base of the tower is where the fight takes place.
 
+USE LEGENDARY ACTIONS
 Ileus wields the Amulet of Greater Health, the Ring of Foresight, and the [[Relics of Dissension|Staff of Deception]].
-His lair is filled with 
+His lair is filled with permanent illusions that he can manipulate. It also has 4 crystals in the corners that cast blur on him. Each crystal has 15 AC and 25 HP.

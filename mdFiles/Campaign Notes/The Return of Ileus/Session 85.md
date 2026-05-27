@@ -40,4 +40,5 @@ General Smil:
 	81-90: Seriously Injured
 	91-100: Dead
 
-The portal out of Spellreach is a poster of 
+The portal out of Spellreach is a poster of Leiros Erona the human storm sorcerer, the same as in Mondrall.
+

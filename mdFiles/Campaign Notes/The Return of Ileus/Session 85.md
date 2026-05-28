@@ -9,12 +9,12 @@ King Offal: - Seriously Injured
 	46-60: Injured
 	61-80: Seriously Injured
 	81-100: Dead
-Stefan Alystri:
+Stefan Alystri: - Died
 	1-20: Unscathed
 	21-60: Injured
 	61-70: Seriously Injured
 	71-100: Dead
-Mountain King Anling:
+Mountain King Anling: Survived Unscathed
 	1-60: Unscathed
 	61-85: Injured
 	86-95: Seriously Injured
@@ -34,7 +34,7 @@ Slum Glumby: - Survived Unscathed
 	61-70: Injured
 	71-85: Seriously Injured
 	86-100: Dead
-General Smil:
+General Smil: - Survived Unscathed
 	1-60: Unscathed
 	61-80: Injured
 	81-90: Seriously Injured

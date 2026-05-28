@@ -24,7 +24,7 @@ Hal Venner: - Survived Unscathed
 	56-70: Injured
 	71-90: Seriously Injured
 	91-100: Dead
-Jiri Lanorys:
+Jiri Lanorys: - Survived Unscathed
 	1-55: Unscathed
 	56-80: Injured
 	81-90: Seriously Injured

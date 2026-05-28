@@ -19,7 +19,7 @@ Mountain King Anling:
 	61-85: Injured
 	86-95: Seriously Injured
 	96-100: Dead
-Hal Venner:
+Hal Venner: - Survived Unscathed
 	1-55: Unscathed
 	56-70: Injured
 	71-90: Seriously Injured
@@ -29,7 +29,7 @@ Jiri Lanorys:
 	56-80: Injured
 	81-90: Seriously Injured
 	91-100: Dead
-Slum Glumby:
+Slum Glumby: - Survived Unscathed
 	1-60: Unscathed
 	61-70: Injured
 	71-85: Seriously Injured

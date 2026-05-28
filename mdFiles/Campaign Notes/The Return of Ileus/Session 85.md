@@ -4,7 +4,7 @@ As the battle kicks off, the Coalition evokers fire their spells towards the Lar
 
 Survival Odds:
 
-King Offal:
+King Offal: - Seriously Injured
 	1-45: Unscathed
 	46-60: Injured
 	61-80: Seriously Injured

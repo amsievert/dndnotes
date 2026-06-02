@@ -18,4 +18,4 @@ Tougher flameguard have the Azer Pyromancer stat block.
 Most flameguard are Fire Genasi.
 
 ## Fireglass Mine
-The path down to the restricted area of the mine passes through three open areas, the first two having 3 flameguard (1 of which is a pyromancer). The last has four flameguard (1 is a pyromancer). 
+The path down to the restricted area of the mine passes through three open areas, the first two having 3 flameguard (1 of which is a pyromancer). The last has four flameguard (1 is a pyromancer). Between these larger chambers in the mine are winding tunnels that snake around lava pools. At the end of the third chamber is a 

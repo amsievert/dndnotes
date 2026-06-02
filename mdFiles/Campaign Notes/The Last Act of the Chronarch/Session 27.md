@@ -23,4 +23,4 @@ The path down to the restricted area of the mine passes through three open areas
 The captain's name is Edelwyn Schurn. He reports directly to Dorin. The area also has multiple enslaved Azers who were reported as missing, including Bob, Bab's father.
 
 ## Flamepass Fortress
-The fortress is a 2 day travel from Stonemeld. 
+The fortress is a 2 day travel from Stonemeld. The fortress is a big stone castle, different from the Lord of Smolder and Ash's palace. The fortress is wedged between two large mountains, blocking the pass that leads on to the Palace.

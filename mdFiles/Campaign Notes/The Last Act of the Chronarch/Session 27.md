@@ -24,3 +24,5 @@ The captain's name is Edelwyn Schurn. He reports directly to Dorin. The area als
 
 ## Flamepass Fortress
 The fortress is a 2 day travel from Stonemeld. The fortress is a big stone castle, different from the Lord of Smolder and Ash's palace. The fortress is wedged between two large mountains, blocking the pass that leads on to the Palace. Dorin Ashe manages the Fireglass shipments from Stonemeld here.
+
+Shipments are brought into a storehouse where Dorin inspects them and coalesces all of them into a caravan that will take the concentrated fireglass to the Lord's Palace.

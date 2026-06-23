@@ -1,0 +1,1 @@
+A prominent Kainomancer that championed the adoption of the Great Wheel Cosmology as the dominant model of the planes.

@@ -2,3 +2,5 @@ The Great Wheel is a theoretical arrangement of all known planes of existence to
 
 ![[Great Wheel Cosmology.png|697]]
 
+# Basic Structure
+The planes are split into two primary distinctions, Inner and Outer planes. The inner planes are the 

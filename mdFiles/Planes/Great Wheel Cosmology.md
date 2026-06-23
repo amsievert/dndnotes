@@ -1,1 +1,1 @@
-During the Arca
+The Great Wheel is a theoretical arrangement of all known planes of existence to assist mortals in conceptualizing the universe. During the [[An Overall History Of Chandaria#The Arcane Resurgence|Arcane Resurgence]], Kainomancers 

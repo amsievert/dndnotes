@@ -3,4 +3,6 @@ The Great Wheel is a theoretical arrangement of all known planes of existence to
 ![[Great Wheel Cosmology.png|697]]
 
 # Basic Structure
-The planes are split into two primary distinctions, Inner and Outer Planes, laid out in concentric rings in the wheel. At the center is the Material Plane, in which the world of Argena lives. The Material Plane is surrounded by the Parallel Planes (the Feywild and the Shadowfell). Beyond these are the Elemental Planes, one for each of the four base elements. Between the Parallel Planes and the Elemental Planes is the Ethereal Plane, which acts as an interstitial plane that "fills the gaps" betw
+The planes are split into two primary distinctions, Inner and Outer Planes, laid out in concentric rings in the wheel. At the center is the Material Plane, in which the world of Argena lives. The Material Plane is surrounded by the Parallel Planes (the Feywild and the Shadowfell). Beyond these are the Elemental Planes, one for each of the four base elements. Between the Parallel Planes and the Elemental Planes is the Ethereal Plane, which acts as an interstitial plane that "fills the gaps" between all the Inner Planes.
+
+At the very outer edge of the Elemental Planes is the Serpent's Edge, also called the Limbus Serpentis by academics. The [[The Great Serpents|Great Serpents]] are said to 

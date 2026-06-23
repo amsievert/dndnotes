@@ -1,0 +1,1 @@
+The Plane of Fire is one of the inner planes of the [[Great Wheel Cosmology]].

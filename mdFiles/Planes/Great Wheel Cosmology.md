@@ -5,4 +5,6 @@ The Great Wheel is a theoretical arrangement of all known planes of existence to
 # Basic Structure
 The planes are split into two primary distinctions, Inner and Outer Planes, laid out in concentric rings in the wheel. At the center is the Material Plane, in which the world of Argena lives. The Material Plane is surrounded by the Parallel Planes (the Feywild and the Shadowfell). Beyond these are the Elemental Planes, one for each of the four base elements. Between the Parallel Planes and the Elemental Planes is the Ethereal Plane, which acts as an interstitial plane that "fills the gaps" between all the Inner Planes.
 
-At the very outer edge of the Elemental Planes is the Serpent's Edge, also called the Limbus Serpentis by academics. The [[The Great Serpents|Great Serpents]] are said to 
+At the very outer edge of the Elemental Planes is the Serpent's Edge, also called the Limbus Serpentis by academics. This edge marks the furthest point that the [[The Great Serpents|Great Serpents]] are said to patrol on their guard of the Elemental Chaos. Everything beyond the Serpent's Edge is considered the Outer Planes.
+
+Each Outer Plane around the wheel is placed so because of that plane's alignment. Every plane has an inherent alignment to it, determined by the temperament of the God or Gods that shaped the plane during its creation. 

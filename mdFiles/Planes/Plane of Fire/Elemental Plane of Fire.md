@@ -1,1 +1,1 @@
-The Plane of Fire is one of the inner planes of the [[Great Wheel Cosmology]]. It is widely regarded as the least hospitable of the Elemental Planes.
+The Plane of Fire is one of the inner planes of the [[Great Wheel Cosmology]]. It is widely regarded as the least hospitable of the Elemental Planes. It is known for fire storms, unbreathable air, and unbearable heat. 

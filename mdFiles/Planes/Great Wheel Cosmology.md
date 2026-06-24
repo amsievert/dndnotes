@@ -7,4 +7,4 @@ The planes are split into two primary distinctions, Inner and Outer Planes, laid
 
 At the very outer edge of the Elemental Planes is the Serpent's Edge, also called the Limbus Serpentis by academics. This edge marks the furthest point that the [[The Great Serpents|Great Serpents]] are said to patrol on their guard of the Elemental Chaos. Everything beyond the Serpent's Edge is considered the Outer Planes.
 
-Each Outer Plane around the wheel is placed so because of that plane's alignment. Every plane has an inherent alignment to it, determined by the temperament of the God or Gods that shaped the plane during its creation. 
+Each Outer Plane around the wheel is placed so because of that plane's alignment. Every plane has an inherent alignment to it, determined by the temperament of the God or Gods that shaped the plane during its creation. These planes are organized on two axes: lawful to chaotic horizontally on the wheel, and good to evil vertically. Similar to the inner planes, there is another transitive plane that connects the outer planes. The outer transitive plane is known as the Astral Plane, 

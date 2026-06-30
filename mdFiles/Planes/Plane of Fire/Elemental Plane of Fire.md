@@ -1,3 +1,3 @@
 The Plane of Fire is one of the inner planes of the [[Great Wheel Cosmology]]. It is widely regarded as the least hospitable of the Elemental Planes, being known for fire storms, unbreathable air, and unbearable heat. Almost all of the creatures native to this plane are some form of elemental, adapting to the environment over thousands of years.
 # History
-Prior to the [[The Great Dissension|Great Dissension]], the Plane of Fire was ruled by an incredibly powerful Greater Efreet named a ab Udha
+Prior to the [[The Great Dissension|Great Dissension]], the Plane of Fire was ruled by an incredibly powerful Greater Efreet named Khaassi ab Udha. She was the holy leader of the Divine Efreet Sultanate, and was revered as a Deity by her 

@@ -28,4 +28,4 @@ Sitting on the edge of the Elemental Chaos, the Castle of Burning Desire is made
 
 The shipments of fireglass are brought through the front gates and into a warehouse.
 ### Palace Locations
-Throne Room - 
+Throne Room - A magnificent great hall, adorned in gold. The Lord of Smolder and Ash spends most of his time here. On the wall behind the throne is

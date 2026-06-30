@@ -24,4 +24,8 @@ The fortress is a 2 day travel from Stonemeld. The fortress is a big stone castl
 
 Shipments are brought into a storehouse where Dorin inspects them and coalesces all of them into a caravan that will take the concentrated fireglass to the Lord's Palace.
 ## The Lord's Palace
-Sitting on the edge of the Elemental Chaos, the Castle of Burning Desire is made of polished obsidian, looking as if it were carved from a single massive piece of volcanic glass. The palace is topped with massive spires that climb high into the sky. 
+Sitting on the edge of the Elemental Chaos, the Castle of Burning Desire is made of polished obsidian, looking as if it were carved from a single massive piece of volcanic glass. The palace is topped with massive spires that climb high into the sky.
+
+The shipments of fireglass are brought through the front gates and into a warehouse.
+### Palace Locations
+Throne Room - 

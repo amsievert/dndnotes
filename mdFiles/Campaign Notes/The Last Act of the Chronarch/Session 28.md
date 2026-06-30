@@ -28,4 +28,6 @@ Sitting on the edge of the Elemental Chaos, the Castle of Burning Desire is made
 
 The shipments of fireglass are brought through the front gates and into a warehouse.
 ### Palace Locations
-Throne Room - A magnificent great hall, adorned in gold. The Lord of Smolder and Ash spends most of his time here. On the wall behind the throne is a brilliant mosaic depicting Khaassi ab Udha floating over the City of Brass. 
+Throne Room - A magnificent great hall, adorned in gold. The Lord of Smolder and Ash spends most of his time here. On the wall behind the throne is a brilliant mosaic depicting Khaassi ab Udha floating over the City of Brass. Around the rim of the mosaic is a ring of concentrated fireglass, turning the artwork into a portal. This is the portal that the Lord of Ash is using to break into the Material Plane. The ring around exterior seems to be not entirely complete.
+
+Lord's Tower - In the tower is a study where the Lord of Ash manages his domain, and also collaborates with the other Efreet in the Elemental Liberation Front. 

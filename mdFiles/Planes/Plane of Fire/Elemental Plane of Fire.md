@@ -4,4 +4,4 @@ Prior to the [[The Great Dissension|Great Dissension]], the Plane of Fire was ru
 
 Following the [[The Great Dissension|Great Dissension]], with [[The Great Serpents#The Twin Serpents|Svibrann]] being banished to the Plane of Fire to protect it from the Outer Planes, there was an incredible power struggle between the Great Serpent and the existing Holy Sultan Khaassi ab Udha. After a decade of political strife, Svibrann killed the Holy Sultan, and subjugated the other Greater Efreet, much to their chagrin. They were forced to form the New Efreet Empire, which gave ultimate control over the plane to Svibrann.
 
-Since the forming of the New Efreet Empire in 11 PS and Svibrann's ascension to emperor of the Plane of Fire, there have been 3 attempted revolutions, all of which failed after being thwarted by Svibrann and the loyal Efreet of the Empire.
+Since the forming of the New Efreet Empire in 11 PS and Svibrann's ascension to emperor of the Plane of Fire, there have been 3 attempted revolutions, all of which failed after being thwarted by Svibrann and the loyal Efreet of the Empire. Because of these 

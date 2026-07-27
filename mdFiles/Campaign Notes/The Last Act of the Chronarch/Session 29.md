@@ -32,7 +32,7 @@ The shipments of fireglass are brought through the front gates and into a wareho
 ### Palace Locations
 Courtyard - The courtyard beyond the golden gates is lined with trees. Each tree has black leaves and small flowers that burn with differently colored flames.
 
-Banquet Hall - 
+Banquet Hall - A grand banquet hall with long tables all set out with exquisite foods. All of the food tastes amazing, and eating it forces a wisdom save. As the person eats more food the DC rises, making it harder to leave the table.
 
 Throne Room - A magnificent great hall, adorned in gold. The Lord of Smolder and Ash spends most of his time here. On the wall behind the throne is a brilliant mosaic depicting Khaassi ab Udha floating over the City of Brass. Around the rim of the mosaic is a ring of concentrated fireglass, turning the artwork into a portal. This is the portal that the Lord of Ash is using to break into the Material Plane. The ring around exterior seems to be not entirely complete.
 

@@ -6,5 +6,6 @@ For context, since many of my fellow scientists are likely unfamiliar with the E
 
 Given the context, my new theory is that "Concentrated Fireglass" is created from the wood of Elderbark roots that are connected to the deepest, most primal, parts of this plane. The heat then causes it to carbonize and become something like charcoal.
 
-As for its uses, this proves why the "Concentrated Fireglass" has proven so useful in the construction of the Udha Gate.
+As for its uses, this explains why the "Concentrated Fireglass" has proven so useful in the construction of the Udha Gate.
 
+Dr. Sparnassos

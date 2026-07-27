@@ -34,6 +34,8 @@ Courtyard - The courtyard beyond the golden gates is lined with trees. Each tree
 
 Banquet Hall - A grand banquet hall with long tables all set out with exquisite foods. All of the food tastes amazing, and eating it forces a wisdom save. As the person eats more food the DC rises, making it harder to leave the table.
 
+Corridor of Ashes - A long corridor between wings of the palace. The floor is lined with large lumps of ash, and more ash hangs in the air. Walking through the hallway causes you to hear whispers and cries from people whose lives have been ruined by the Lord's wishes. Wishes - 
+
 Throne Room - A magnificent great hall, adorned in gold. The Lord of Smolder and Ash spends most of his time here. On the wall behind the throne is a brilliant mosaic depicting Khaassi ab Udha floating over the City of Brass. Around the rim of the mosaic is a ring of concentrated fireglass, turning the artwork into a portal. This is the portal that the Lord of Ash is using to break into the Material Plane. The ring around exterior seems to be not entirely complete.
 
 Lord's Tower - In the tower is a study where the Lord of Ash manages his domain, and also collaborates with the other Efreet in the Elemental Liberation Front. He also has a lounge where he can relax. In the lounge is a lamp with another Efreet named Kyxes inside. Kyxes knows about how to weaken the Lord of Ash by destroying the souls that he has claimed and stored.

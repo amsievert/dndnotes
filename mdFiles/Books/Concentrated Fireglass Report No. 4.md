@@ -1,3 +1,3 @@
 Priority Task: Create new name for Concentrated Fireglass.
 
-My tertiary 
+My tertiary hypothesis turned out to be correct. The Concentrated Fireglass samples turned out to be fully unrelated from the surface Fireglass samples. While the surface samples were confirmed to be simple crystalline structures imbued with trace amounts of elemental energy, the concentrated samples were revealed to be derived from different processes. Further experimentation and research revealed that the concentrated samples were actually Elderbark wood.

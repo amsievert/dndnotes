@@ -1,2 +1,2 @@
 My dearest revolutionaries,
-The time is drawing near when we must take back our beautiful home. For too long we have let Tiamat's bastard keep us 
+The time is drawing near when we must take back our beautiful home. For too long we have let Tiamat's bastard subject us to her will. We must not forget how she murdered The Great Sultan and plunged this plane into chaos and violence for millennia. We Efreet are stronger than we have ever been before, 

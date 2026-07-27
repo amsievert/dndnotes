@@ -30,6 +30,10 @@ Sitting on the edge of the Elemental Chaos, the Castle of Burning Desire is made
 
 The shipments of fireglass are brought through the front gates and into a warehouse. Here, the party can meet a Fire Genasi servant named Ember.
 ### Palace Locations
+Courtyard - The courtyard beyond the golden gates is lined with trees. Each tree has black leaves and small flowers that burn with differently colored flames.
+
+Banquet Hall - 
+
 Throne Room - A magnificent great hall, adorned in gold. The Lord of Smolder and Ash spends most of his time here. On the wall behind the throne is a brilliant mosaic depicting Khaassi ab Udha floating over the City of Brass. Around the rim of the mosaic is a ring of concentrated fireglass, turning the artwork into a portal. This is the portal that the Lord of Ash is using to break into the Material Plane. The ring around exterior seems to be not entirely complete.
 
 Lord's Tower - In the tower is a study where the Lord of Ash manages his domain, and also collaborates with the other Efreet in the Elemental Liberation Front. He also has a lounge where he can relax. In the lounge is a lamp with another Efreet named Kyxes inside. Kyxes knows about how to weaken the Lord of Ash by destroying the souls that he has claimed and stored.

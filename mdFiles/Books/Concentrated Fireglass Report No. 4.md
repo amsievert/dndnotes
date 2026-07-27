@@ -4,4 +4,7 @@ My tertiary hypothesis turned out to be correct. The Concentrated Fireglass samp
 
 For context, since many of my fellow scientists are likely unfamiliar with the Elderbark trees, these trees are theorized to be some of the first flora created by Genesis. In their young multiverse, their roots grew deep, penetrating the relatively weak Interplanar Fabric. After the Fracture, their power grew even stronger, turning them into magical conduits.
 
-Given the context, my new theory is that "Concentrated Fireglass" 
+Given the context, my new theory is that "Concentrated Fireglass" is created from the wood of Elderbark roots that are connected to the deepest, most primal, parts of this plane. The heat then causes it to carbonize and become something like charcoal.
+
+As for its uses, this proves why the "Concentrated Fireglass" has proven so useful in the construction of the Udha Gate.
+

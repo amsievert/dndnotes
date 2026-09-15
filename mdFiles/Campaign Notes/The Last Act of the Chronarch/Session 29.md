@@ -46,7 +46,7 @@ The Gallery of Granted Wishes - A gallery where petitioners whose wishes were gr
 "Wished to live forever" - A withered old man is sealed inside a brass lantern. He seems to be made of flame, small and sputtering.
 "Wished for more time" - An gnomish tinkerer, frozen mid-step with a tear halfway down his cheek. For him, each second stretches into a year.
 "Wished for infinite knowledge" - An elven scholar whose skull is split open on top, letting blue flame leak out the top. He has infinite knowledge, but every time he shares it with anyone, part of his body burns away. The receiver of the knowledge also takes 1d10 psychic damage, as the man's mental anguish lashes out.
-"Wished to be the strongest warrior of her party" - A scene preserved in ordinary fireglass. A large half-orc woman stands holding an ax above her head, while the rest of her adventuring party lies dead around her.
+"Wished to be the strongest warrior of her party" - A scene preserved in ordinary fireglass. A large half-orc woman stands holding an ax above her head, while the rest of her adventuring party lies dead around her, bodies charred.
 
 Throne Room - A magnificent great hall, adorned in gold. The Lord of Smolder and Ash spends most of his time here. The throne is made of crowns and scepters and other symbols of power all melted together into a glowing throne. On the wall behind the throne is a brilliant mosaic depicting Khaassi ab Udha floating over the City of Brass. Around the rim of the mosaic is a ring of concentrated fireglass, turning the artwork into a portal. This is the portal that the Lord of Ash is using to break into the Material Plane. The ring around exterior seems to be not entirely complete.
 

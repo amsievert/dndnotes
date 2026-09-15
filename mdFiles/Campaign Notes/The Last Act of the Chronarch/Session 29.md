@@ -34,7 +34,9 @@ Courtyard - The courtyard beyond the golden gates is lined with trees. Each tree
 
 Banquet Hall - A grand banquet hall with long tables all set out with exquisite foods. All of the food tastes amazing, and eating it forces a wisdom save. As the person eats more food the DC rises, making it harder to leave the table.
 
-The Mirror Baths - A bathhouse filled with steam and liquid fire that burns at just the right temperature for whoever sits in it. In here, is another Efreeti named Suhif al-Marzaal. She is a member of the Elemental Liberation Front who has come to the palace to 
+The Mirror Baths - A bathhouse filled with steam and liquid fire that burns at just the right temperature for whoever sits in it. In here, is another Efreeti named Suhif al-Marzaal. She is a member of the Elemental Liberation Front who has come to the palace to facilitate the meeting between the Efreet of the Front. She is a diplomat and is loyal to the Lord of Ash.
+
+The Crucible - Deep beneath the palace is a fighting pit, a stone platform above a pit of flowing lava where prisoners and potential wishers fight monstrous creatures to gain favor with the lord.
 
 Corridor of Ashes - A long corridor between wings of the palace. The floor is lined with large lumps of ash, and more ash hangs in the air. Walking through the hallway causes you to hear whispers and cries from people whose lives have been ruined by the Lord's wishes. Wishes: "I wish to be king", "I wish for a million gold", "I wish to be a dragon", "I wish to be king".
 

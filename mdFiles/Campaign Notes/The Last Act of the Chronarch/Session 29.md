@@ -36,9 +36,11 @@ Banquet Hall - A grand banquet hall with long tables all set out with exquisite 
 
 The Mirror Baths - A bathhouse filled with steam and liquid fire that burns at just the right temperature for whoever sits in it. In here, is another Efreeti named Suhif al-Marzaal. She is a member of the Elemental Liberation Front who has come to the palace to facilitate the meeting between the Efreet of the Front. She is a diplomat and is loyal to the Lord of Ash.
 
-The Crucible - Deep beneath the palace is a fighting pit, a stone platform above a pit of flowing lava where prisoners and potential wishers fight monstrous creatures to gain favor with the lord.
+The Crucible - Deep beneath the palace is a fighting pit, a stone platform above a pit of flowing lava where prisoners and petitioners fight monstrous creatures to gain favor with the lord. If the party ever dies, they are resurrected and can fight for their freedom in the Crucible. They are pitted against a resurrected Idu, who was a Geas spell cast on him, forbidding him from sparing or cooperating with the party.
 
 Corridor of Ashes - A long corridor between wings of the palace. The floor is lined with large lumps of ash, and more ash hangs in the air. Walking through the hallway causes you to hear whispers and cries from people whose lives have been ruined by the Lord's wishes. Wishes: "I wish to be king", "I wish for a million gold", "I wish to be a dragon", "I wish to be king".
+
+The Gallery of Granted Wishes - A gallery where petitioners whose wishes were granted but twisted are displayed. There are many exhibits. A glass case slowly filling with gold coins, that seems to always fit more coins. Shallow breaths and grunts can be heard in between the gaps of the coins. A snowglobe with two min
 
 Throne Room - A magnificent great hall, adorned in gold. The Lord of Smolder and Ash spends most of his time here. The throne is made of crowns and scepters and other symbols of power all melted together into a glowing throne. On the wall behind the throne is a brilliant mosaic depicting Khaassi ab Udha floating over the City of Brass. Around the rim of the mosaic is a ring of concentrated fireglass, turning the artwork into a portal. This is the portal that the Lord of Ash is using to break into the Material Plane. The ring around exterior seems to be not entirely complete.
 

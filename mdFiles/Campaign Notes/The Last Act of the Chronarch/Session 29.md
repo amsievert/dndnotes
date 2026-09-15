@@ -40,7 +40,12 @@ The Crucible - Deep beneath the palace is a fighting pit, a stone platform above
 
 Corridor of Ashes - A long corridor between wings of the palace. The floor is lined with large lumps of ash, and more ash hangs in the air. Walking through the hallway causes you to hear whispers and cries from people whose lives have been ruined by the Lord's wishes. Wishes: "I wish to be king", "I wish for a million gold", "I wish to be a dragon", "I wish to be king".
 
-The Gallery of Granted Wishes - A gallery where petitioners whose wishes were granted but twisted are displayed. There are many exhibits. A glass case slowly filling with gold coins, that seems to always fit more coins. Shallow breaths and grunts can be heard in between the gaps of the coins. A snowglobe with two min
+The Gallery of Granted Wishes - A gallery where petitioners whose wishes were granted but twisted are displayed. There are many exhibits, each with the wish on a plaque. 
+"Wished for endless wealth" - A glass case slowly filling with gold coins, that seems to always fit more coins. Shallow breaths and grunts can be heard in between the gaps of the coins. 
+"Each wished to be a king" - A snowglobe with two miniature kingdoms locked in endless battle.
+"Wished to live forever" - A withered old man is sealed inside a brass lantern. He seems to be made of flame, small and sputtering.
+"Wished for more time" - An gnomish tinkerer, frozen mid-step with a tear halfway down his cheek. For him, each second stretches into a year.
+""
 
 Throne Room - A magnificent great hall, adorned in gold. The Lord of Smolder and Ash spends most of his time here. The throne is made of crowns and scepters and other symbols of power all melted together into a glowing throne. On the wall behind the throne is a brilliant mosaic depicting Khaassi ab Udha floating over the City of Brass. Around the rim of the mosaic is a ring of concentrated fireglass, turning the artwork into a portal. This is the portal that the Lord of Ash is using to break into the Material Plane. The ring around exterior seems to be not entirely complete.
 

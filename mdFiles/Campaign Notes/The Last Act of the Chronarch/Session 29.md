@@ -55,3 +55,12 @@ The Spire Bridges - To get to the Lord's Tower, the party must make their way ac
 Lord's Tower - In the tower is a study where the Lord of Ash manages his domain, and also collaborates with the other Efreet in the Elemental Liberation Front. He also has a lounge where he can relax. In the lounge is a lamp with another Efreet named Kyxes inside. Kyxes knows about how to weaken the Lord of Ash by destroying the souls that he has claimed and stored.
 
 Laboratory - Deep within the depths of the Palace is a laboratory where Servants of the Lord are researching the Void Shards, and also the concentrated fireglass. It is revealed here that the Concentrated Fireglass is actually petrified Elderbark that has undergone a crystallization process deep within the ground. This is different from normal fireglass, which is just a rare crystal. Also in the laboratory is the vault where the Lord keeps his soul crystals. Destroying these, or at least some of them, is the only way to weaken the Lord of Ash. The vault is protected by a stone golem and a shield guardian, with the shield guardian being bound to the stone golem.
+
+Genie Stat Block:
+HP: 320
+AC: 18
+Legendary Resistance: 3/day
+
+Legendary Actions: 3/round
+Ember Lash(1): Make one scimitar attack
+Scorching Step(1): Teleport 30 feet. Each creature within 5 feet of arrival takes 2d6 fire 

@@ -63,4 +63,14 @@ Legendary Resistance: 3/day
 
 Legendary Actions: 3/round
 Ember Lash(1): Make one scimitar attack
-Scorching Step(1): Teleport 30 feet. Each creature within 5 feet of arrival takes 2d6 fire 
+Scorching Step(1): Teleport 30 feet. Each creature within 5 feet of arrival takes 2d6 fire damage
+Covet(2): One creature he can see makes a DC 16 Wisdom save or is charmed until the end of its next turn, and must use its movement to approach him.
+
+Each remaining soul crystal grants +1 legendary resistance
+
+2nd phase: at half health, he becomes a towering figure of flame with a fly speed of 60 and scimitar becomes slam (3d8+6 bludgeoning plus 3d6 fire) and gains an aura dealing 10 fire damage to any creature that starts its turn within 10 feet.
+
+Lair Actions:
+Ash heavily obscures a 20-foot cube
+The throne of melted crowns spits molten gold in a 15 foot line (DC 15 dex save, 4d6 fire damage on fail)
+One creature within 60 feet of the portal is pulled 20 feet closer (DC 15 strength save)

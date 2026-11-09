@@ -30,3 +30,4 @@ With an occupying force close to their capital city, the Larenthian army packed 
 
 On the 14th of Verna, 2520, the armies of both sides clashed in the plains just south of the Fallen Daggers. The Coalition army was able to draw Ileus's simulacra into the fighting, allowing their special task force to engage the real Ileus in his demiplane. The fighting on the material plane continued, with both sides taking heavy casualties. Eventually, Ileus was killed, and his simulacra were destroyed. Without these powerful archmage simulacra, the Larenthian army was routed, retreating back towards the mountains.
 ## Conclusion
+The war ended soon after the Battle of the Plains, when Chief Magnate Thedric Alfir of the Larenthian Alliance signed the treaty of Rhugnurt, officially ending the war. Alfir would abdicate the throne, and no economic sanctions would be levied against the Alliance.

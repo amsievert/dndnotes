@@ -11,7 +11,12 @@
     "displayProgress": true,
     "inlineHTML": false,
     "exportPath": "C:\\Users\\Alex\\Documents\\D&D Notes",
-    "filesToExport": [],
+    "filesToExport": [
+      "Argena",
+      "Campaign Notes/The Return of Ileus/Campaign Endcap.md",
+      "Images/Great Wheel Cosmology.png",
+      "Planes"
+    ],
     "useFallbackRenderer": false,
     "addBodyClasses": true,
     "addMathjaxStyles": true,
@@ -224,7 +229,7 @@
   "onlyExportModified": true,
   "deleteOldFiles": true,
   "exportPreset": "online",
-  "openAfterExport": true,
+  "openAfterExport": false,
   "filePickerBlacklist": [
     "(^|\\/)node_modules\\/",
     "(^|\\/)dist\\/",

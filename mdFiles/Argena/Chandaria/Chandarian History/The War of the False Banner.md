@@ -20,4 +20,5 @@ In early 2520, the nations of Rodigia, Falstor, Valdens, and No'zaral met in Spe
 #### The Spring Offensive
 While the Coalition's leadership were focused on planning an invasion of Larenthia, the Alliance were already mobilizing against them. Splitting their forces in two, one army marched towards the [[Kha'anj]] Oasis, and the other force sailed towards [[Dalonstor]].
 
-Splitting the Larenthian armies turned out to be a costly blunder, as the mercenary army sent towards the [[Kha'anj]] was quickly destroyed by the dug-in defenders. The raid on Dalonstor would prove to be slightly more 
+Splitting the Larenthian armies turned out to be a costly blunder, as the mercenary army sent towards the [[Kha'anj]] was quickly destroyed by the dug-in defenders. The raid on Dalonstor would prove to be slightly more successful. The Alliance was able to leverage their powerful navy to overwhelm the Falstor defenses, and bombarded the city for a whole night. It would take reinforcements from [[Rhugnurt]] to drive the Larenthian navy out of the Dalonstor bay, ending the attack.
+#### Counterattack

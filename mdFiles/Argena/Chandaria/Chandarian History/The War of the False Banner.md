@@ -28,4 +28,5 @@ In the following days, a Larenthian envoy arrived to announce a formal declarati
 #### The Battle of the Plains
 With an occupying force close to their capital city, the Larenthian army packed up and marched south from Crone's Cross, hoping to invade the Coalition nations by land. Coalition scouts alerted the army of this movement, and a Coalition force amassed in the Kha'anj to meet the Larenthian army in the field.
 
-On the 14th of Verna, 2520, 
+On the 14th of Verna, 2520, the armies of both sides clashed in the plains just south of the Fallen Daggers. The Coalition army was able to draw Ileus's simulacra into the fighting, allowing their special task force to engage the real Ileus in his demiplane. The fighting on the material plane continued, with both sides taking heavy casualties. Eventually, Ileus was killed, and his simulacra were destroyed. Without these powerful archmage simulacra, the Larenthian army was routed, retreating back towards the mountains.
+## Conclusion

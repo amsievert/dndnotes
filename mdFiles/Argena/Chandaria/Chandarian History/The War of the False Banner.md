@@ -26,4 +26,6 @@ On the 19th of Hemlia, Coalition forces invaded [[Wizendell]] from the sea and t
 
 In the following days, a Larenthian envoy arrived to announce a formal declaration of war. Now that the Coalition was a clearly defined group, the Larenthians felt a declaration of war was necessary.
 #### The Battle of the Plains
-With an occupying force close to their capital city, the Larenth
+With an occupying force close to their capital city, the Larenthian army packed up and marched south from Crone's Cross, hoping to invade the Coalition nations by land. Coalition scouts alerted the army of this movement, and a Coalition force amassed in the Kha'anj to meet the Larenthian army in the field.
+
+On the 14th of Verna, 2520, 

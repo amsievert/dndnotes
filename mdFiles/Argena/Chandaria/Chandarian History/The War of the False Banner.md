@@ -1,0 +1,19 @@
+The War of the False Banner, so named by the Coalition of Nations, started in the fall of 2519 PS, with the Larenthian invasion of the [[Rodigia|Kingdom of Rodigia]]. The war continued through the winter and would eventually end in the early spring of 2520 PS, with the Battle of the Daggers.
+## Combatants
+The two core combatants of the war were the [[The Larenthian Alliance|Larenthian Alliance]] and the [[Rodigia|Kingdom of Rodigia]]. The Larenthian Alliance fought mostly alone, but did use its deep pockets to reinforce its ranks with mercenaries from [[Norlund]]. On the other side of the war, the Kingdom of Rodigia allied with the [[Falstor (Kingdom)|Kingdom of Falstor]], [[Valdens]], and the [[No'zaral|Republic of No'zaral]]. These nations would form the Coalition of Nations.
+## Casus Belli
+In the [[Argena/Chandaria/Nations/Larenthian Alliance/Provinces/Holfirth Province/Holfirth|Holfirth]] province, merchant caravans started being attacked regularly in the summer of 2519. On the 26th of Florum, goblins following the hobgoblin warlord Kardag attacked the Arena Monstera in Holfirth with explosives, killing many. At the time, this attack was attributed to a prominent Rodigian merchant named Larold.
+
+Using the fear generated from this attack, the Larenthian government sent an army to Rodigia to besiege the Rodigian capital city of [[Rhugnurt]]. It would later be revealed that Ileus had been behind both the attack on the Arena Monstera, and the framing of Larold. He had fabricated the Rodigian aggression to justify sending an army to Rodigia as a cover to search for the Hammer of Epius.
+## Timeline
+War was officially declared on the 7th of Otun, 2519, when the Larenthian Army crossed the Southern Strait into Rodigian lands. Most of the fighting that happened in the war was small skirmishes, with only a few large battles taking place.
+#### The Siege of Rhugnurt
+On the 11th of Otun, 2519, the Larenthian army set up a siege camp at the base of Mount Thogrin. The army consisted of 45,000 Larenthian soldiers under the command of General Blaith Smil. They would begin assaulting the city walls.
+
+Rhugnurt held strong for months. Mount Thogrin has one road up to the city, and the giants built strong defenses, rolling boulders and logs down the mountain path to repel waves of attackers. As the giants fell back to the city proper, the massive stone walls would hold the besieging army for the rest of the fight.
+
+On the 21st of Planimor, 2519, rising tension between the army's leadership came to a head and the army split. Nearly 20,000 Larenthian soldiers had died, and the city was no closer to being taken. A contingency of commanders withdrew their soldiers and retreated back to Larenthia, leaving General Smil behind with about 12,000 soldiers. Smil would retreat the rest of his forces 5 days later, officially ending the siege.
+#### The Winter Rebuild
+After regrouping near Crone's Cross in Larenthia, the wounded army settled in for the winter. During the next few months, Larenthian military doctrine would change dramatically. The nation's head diviner, Dormar Talovel, would begin a new initiative to train Larenthian soldiers in basic arcane spellcasting. The city of [[Wizendell]] was turned into a wartime factory producing textbooks and instructors to be sent to the army academies across the nation, and also to the army already stationed at Crone's Cross.
+#### The Forming of the Coalition of Nations
+In early 2520, the nations of Rodigia, Falstor, 

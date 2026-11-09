@@ -18,4 +18,4 @@ After regrouping near Crone's Cross in Larenthia, the wounded army settled in fo
 #### The Forming of the Coalition of Nations
 In early 2520, the nations of Rodigia, Falstor, Valdens, and No'zaral met in Spellhaven to discuss what to do about the Larenthian aggression. After much deliberation, they decided to form the Coalition of Nations to fight back against the Larenthian Alliance. The newly formed Coalition began planning their first counterattack.
 #### The Spring Offensive
-While the Coalition's leadership were focused on planning an invasion of Larenthia, the Alliance were already mobilizing against them. 
+While the Coalition's leadership were focused on planning an invasion of Larenthia, the Alliance were already mobilizing against them. Splitting their forces in two, one army marched towards the Kha'anj Oasis

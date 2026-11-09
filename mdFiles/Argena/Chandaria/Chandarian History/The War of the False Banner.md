@@ -22,4 +22,4 @@ While the Coalition's leadership were focused on planning an invasion of Larenth
 
 Splitting the Larenthian armies turned out to be a costly blunder, as the mercenary army sent towards the [[Kha'anj]] was quickly destroyed by the dug-in defenders. The raid on Dalonstor would prove to be slightly more successful. The Alliance was able to leverage their powerful navy to overwhelm the Falstor defenses, and bombarded the city for a whole night. It would take reinforcements from [[Rhugnurt]] to drive the Larenthian navy out of the Dalonstor bay, ending the attack.
 #### Counterattack
-On the 19th of Hemlia, Coalition forces invaded [[Wizendell]] from the sea and through teleportation. A spy was able to establish a teleportation anchor within the Divinaire Campus, allowing 
+On the 19th of Hemlia, Coalition forces invaded [[Wizendell]] from the sea and through teleportation. A spy was able to establish a teleportation anchor within the Divinaire Campus, allowing a special task force of Coalition forces to teleport in and attack from the inside. 

@@ -16,4 +16,4 @@ On the 21st of Planimor, 2519, rising tension between the army's leadership came
 #### The Winter Rebuild
 After regrouping near Crone's Cross in Larenthia, the wounded army settled in for the winter. During the next few months, Larenthian military doctrine would change dramatically. The nation's head diviner, Dormar Talovel, would begin a new initiative to train Larenthian soldiers in basic arcane spellcasting. The city of [[Wizendell]] was turned into a wartime factory producing textbooks and instructors to be sent to the army academies across the nation, and also to the army already stationed at Crone's Cross.
 #### The Forming of the Coalition of Nations
-In early 2520, the nations of Rodigia, Falstor, 
+In early 2520, the nations of Rodigia, Falstor, Valdens, and No'zaral met in Spellhaven to discuss what to do about the Larenthian aggression. After much deliberation, they decided to form the Coalition of Nations to fight back against the Larenthian Alliance. After the 
